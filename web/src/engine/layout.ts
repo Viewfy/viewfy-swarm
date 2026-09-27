@@ -11,13 +11,34 @@ export const WORLD = {
 
 export const SQUAD_ORDER: SquadId[] = ['scout', 'voice', 'press', 'community', 'operator', 'coach']
 
+/**
+ * Viewfy stars holding / hugging the tool each job runs on (fal gpt-image-2.5 edits of the mascot + the real logo).
+ * Trimmed transparent PNGs, max 380px. Full-size sources sit next to them in /brand/logo-mascots/<brand>.png.
+ */
+export const LOGO_MASCOTS: Record<string, string> = Object.fromEntries(
+  ['x', 'gmail', 'apify', 'river', 'gbrain', 'memorable', 'qm', 'chrome', 'cua', 'superset', 'ufo'].map((b) => [
+    b,
+    `/brand/logo-mascots/sprites/${b}-380.png`,
+  ]),
+)
+
+/** Which tool each squad's leader shows off. Brain (center) stays the waving hero star. */
+export const LOGO_MASCOT_FOR_SQUAD: Record<SquadId, string> = {
+  scout: 'apify',
+  voice: 'river',
+  press: 'gmail',
+  community: 'x',
+  operator: 'chrome',
+  coach: 'gbrain',
+}
+
 export const SQUADS: Record<SquadId, SquadDef> = {
   scout: {
     id: 'scout',
     name: 'Scout',
     role: 'Finds journalists, publishers & X threads',
     color: '#6ee7b7',
-    mascot: '/brand/viewfy-scout.png',
+    mascot: LOGO_MASCOTS.apify,
     powered: 'Apify',
   },
   voice: {
@@ -25,7 +46,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     name: 'Voice',
     role: 'Writes everything in your voice',
     color: '#a78bfa',
-    mascot: '/brand/blogger-mascot.png',
+    mascot: LOGO_MASCOTS.river,
     powered: 'River',
   },
   press: {
@@ -33,7 +54,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     name: 'Press Desk',
     role: 'Pitches journalists & publishers',
     color: '#ff8a70',
-    mascot: '/brand/viewfy-inbox.png',
+    mascot: LOGO_MASCOTS.gmail,
     powered: 'Gmail',
   },
   community: {
@@ -41,7 +62,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     name: 'Community',
     role: 'Replies & posts on X',
     color: '#7cc4fa',
-    mascot: '/brand/viewfy-social.png',
+    mascot: LOGO_MASCOTS.x,
     powered: 'X',
   },
   operator: {
@@ -49,7 +70,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     name: 'Operator',
     role: 'Drives X & Gmail like a human',
     color: '#f472b6',
-    mascot: '/brand/viewfy-chrome.png',
+    mascot: LOGO_MASCOTS.chrome,
     powered: 'Computer use',
   },
   coach: {
@@ -57,7 +78,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     name: 'Coach',
     role: 'Scores outcomes, writes learnings',
     color: '#f6c667',
-    mascot: '/brand/seo-auditor-mascot.png',
+    mascot: LOGO_MASCOTS.gbrain,
     powered: 'gbrain · Memorable · River RL',
   },
 }
@@ -115,7 +136,8 @@ export function cameraOnSquad(id: SquadId, zoom = 2, anchorX = 0.3, anchorY = 0.
 
 /**
  * Mascot sprites (trimmed, small) for the canvas swarm — one job variant per squad.
- * `<id>-160.png` = squad leader, `<id>-mini-64.png` = tiny micro-agent in that squad's swarm.
+ * `<id>-160.png` = squad leader: the star with its tool (logo-mascot; the old job pose is kept as `<id>-job-160.png`),
+ * `<id>-mini-64.png` = tiny micro-agent in that squad's swarm.
  */
 export const SPRITES = {
   leader: (id: SquadId) => `/brand/sprites/${id}-160.png`,

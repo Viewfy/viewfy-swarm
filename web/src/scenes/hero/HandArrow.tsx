@@ -86,7 +86,8 @@ export default function HandArrow({
           x: '-50%',
           y: '-135%',
           rotate: -6,
-          textShadow: '0 0 18px rgb(136 200 248 / 0.45)',
+          // dark under-glow keeps the note legible where it crosses the Coach leader on the canvas
+          textShadow: '0 0 18px rgb(136 200 248 / 0.45), 0 1px 3px rgb(5 8 20 / 0.95), 0 0 10px rgb(5 8 20 / 0.8)',
         }}
         initial={{ opacity: 0, clipPath: 'inset(0 100% 0 0)' }}
         animate={{ opacity: 1, clipPath: 'inset(0 0% 0 0)' }}

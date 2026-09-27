@@ -1,16 +1,17 @@
 // "Meet the floor": six job mascots pop in with a springy stagger, then idle-bob out of phase.
 import { motion } from 'motion/react'
-import { MASCOTS, SQUADS } from '../../engine/layout'
+import { LOGO_MASCOTS, LOGO_MASCOT_FOR_SQUAD, SQUADS } from '../../engine/layout'
 import { useSwarm } from '../../engine/store'
 import type { SquadId } from '../../engine/types'
 
-const CREW: { squad: SquadId; img: string; name: string }[] = [
-  { squad: 'scout', img: MASCOTS.scout, name: 'Scout' },
-  { squad: 'voice', img: MASCOTS.writer, name: 'Voice' },
-  { squad: 'press', img: MASCOTS.inbox, name: 'Press' },
-  { squad: 'community', img: MASCOTS.social, name: 'Community' },
-  { squad: 'operator', img: MASCOTS.chrome, name: 'Operator' },
-  { squad: 'coach', img: MASCOTS.auditor, name: 'Coach' },
+// Each job holds the tool it runs on. Community hugging the huge X is the star of the row (wider + taller).
+const CREW: { squad: SquadId; name: string; tool: string; big?: boolean }[] = [
+  { squad: 'scout', name: 'Scout', tool: 'Apify' },
+  { squad: 'voice', name: 'Voice', tool: 'River' },
+  { squad: 'press', name: 'Press', tool: 'Gmail' },
+  { squad: 'community', name: 'Community', tool: 'X', big: true },
+  { squad: 'operator', name: 'Operator', tool: 'Chrome' },
+  { squad: 'coach', name: 'Coach', tool: 'gbrain' },
 ]
 
 export default function FloorRow({ delay = 0 }: { delay?: number }) {
@@ -37,7 +38,7 @@ export default function FloorRow({ delay = 0 }: { delay?: number }) {
           return (
             <motion.div
               key={c.squad}
-              className="flex w-[clamp(66px,4.6vw,88px)] flex-col items-center"
+              className={`flex flex-col items-center ${c.big ? 'w-[clamp(104px,7.4vw,142px)]' : 'w-[clamp(66px,4.6vw,88px)]'}`}
               initial={{ opacity: 0, y: 40, scale: 0.3, rotate: i % 2 ? 14 : -14 }}
               animate={{ opacity: 1, y: 0, scale: 1, rotate: 0 }}
               transition={{
@@ -49,7 +50,7 @@ export default function FloorRow({ delay = 0 }: { delay?: number }) {
                 opacity: { duration: 0.25, delay: delay + 0.15 + i * 0.09 },
               }}
             >
-              <div className="relative aspect-square w-full">
+              <div className={`relative w-full ${c.big ? 'aspect-[1.3]' : 'aspect-square'}`}>
                 {/* soft squad-colored halo */}
                 <motion.div
                   className="absolute inset-[-18%] rounded-full blur-xl"
@@ -64,10 +65,16 @@ export default function FloorRow({ delay = 0 }: { delay?: number }) {
                   transition={{ duration: 2.3 + i * 0.21, repeat: Infinity, ease: 'easeInOut', delay: i * 0.37 }}
                 />
                 <motion.img
-                  src={c.img}
+                  src={LOGO_MASCOTS[LOGO_MASCOT_FOR_SQUAD[c.squad]]}
                   alt={c.name}
                   draggable={false}
-                  className="relative h-full w-full object-contain drop-shadow-[0_8px_14px_rgba(0,0,0,0.45)]"
+                  className="relative h-full w-full object-contain"
+                  // the big black X gets a soft sky rim so it reads on the night sky
+                  style={{
+                    filter: c.big
+                      ? 'drop-shadow(0 0 8px rgb(124 196 250 / 0.5)) drop-shadow(0 8px 14px rgb(0 0 0 / 0.45))'
+                      : 'drop-shadow(0 8px 14px rgb(0 0 0 / 0.45))',
+                  }}
                   animate={{ y: [0, -7, 0], rotate: [0, i % 2 ? 2.5 : -2.5, 0] }}
                   transition={{ duration: 2.3 + i * 0.21, repeat: Infinity, ease: 'easeInOut', delay: i * 0.37 }}
                 />
@@ -77,6 +84,9 @@ export default function FloorRow({ delay = 0 }: { delay?: number }) {
                 style={{ color, textShadow: `0 0 14px ${color}66` }}
               >
                 {c.name}
+              </div>
+              <div className="mt-1 text-[11px] leading-none font-bold tracking-[0.16em] whitespace-nowrap text-cream/45 uppercase">
+                {c.tool}
               </div>
             </motion.div>
           )

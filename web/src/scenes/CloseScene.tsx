@@ -3,7 +3,7 @@
 import { Fragment, useEffect } from 'react'
 import { motion } from 'motion/react'
 import { setCamera, useSwarm } from '../engine/store'
-import { CAMERA } from '../engine/layout'
+import { CAMERA, LOGO_MASCOTS } from '../engine/layout'
 import { CountUp, Words } from './hero/fx'
 import TeamOrbit from './hero/TeamOrbit'
 
@@ -14,7 +14,17 @@ const OWN = [
   { mine: 'Your floor', by: 'QM', color: '#6ee7b7' },
 ]
 
-const SPONSORS = ['River AI', 'GBrain', 'Memorable', 'QM', 'Apify', 'Superset', 'UFO']
+// Each sponsor as a Viewfy star holding its logo (logo = key in LOGO_MASCOTS; no logo → plain text chip).
+// `h` = image height in px; the two with the logo held overhead get a little taller so the stars match.
+const SPONSORS: { name: string; logo?: string; h?: number }[] = [
+  { name: 'River AI', logo: 'river' },
+  { name: 'GBrain', logo: 'gbrain' },
+  { name: 'Memorable', logo: 'memorable' },
+  { name: 'QM', logo: 'qm' },
+  { name: 'Apify', logo: 'apify', h: 84 },
+  { name: 'Superset', logo: 'superset' },
+  { name: 'UFO', logo: 'ufo', h: 80 },
+]
 
 const T = {
   team: 0.1,
@@ -62,7 +72,7 @@ export default function CloseScene() {
       {/* soft vignette so the composition reads over the swarm */}
       <div className="absolute inset-0 bg-[radial-gradient(ellipse_62%_58%_at_50%_46%,rgb(5_8_20/0.72)_0%,rgb(5_8_20/0.35)_60%,transparent_100%)]" />
 
-      <div className="absolute inset-x-0 top-0 bottom-[118px] flex flex-col items-center justify-center text-center">
+      <div className="absolute inset-x-0 top-0 bottom-[150px] flex flex-col items-center justify-center text-center">
         <TeamOrbit delay={T.team} />
 
         <h1 className="relative z-10 mt-[2.2vh] text-[clamp(56px,4.5vw,92px)] leading-[0.98] font-black tracking-[-0.035em] text-cream">
@@ -137,48 +147,63 @@ export default function CloseScene() {
         </motion.div>
       </div>
 
-      {/* sponsor constellation */}
-      <div className="absolute inset-x-0 bottom-[58px] flex flex-col items-center">
+      {/* sponsor constellation: a row of stars, each holding its sponsor's logo */}
+      <div className="absolute inset-x-0 bottom-[54px] flex items-center justify-center gap-[clamp(18px,1.7vw,34px)]">
+        {/* dark backdrop so the dimmed swarm behind the row doesn't fight the logos */}
+        <div className="absolute -top-10 -bottom-8 left-1/2 w-[min(1200px,94vw)] -translate-x-1/2 bg-[radial-gradient(ellipse_50%_50%_at_50%_55%,rgb(5_8_20/0.9)_0%,rgb(5_8_20/0.62)_55%,transparent_100%)]" />
         <motion.div
-          className="mb-2.5 text-[11px] font-bold tracking-[0.2em] text-cream/40 uppercase"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
+          className="relative flex items-center gap-[clamp(18px,1.7vw,34px)] pb-5 text-[11px] font-bold tracking-[0.2em] whitespace-nowrap text-cream/40 uppercase"
+          initial={{ opacity: 0, x: -10 }}
+          animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: T.sponsors }}
         >
           Built with
+          <span className="h-10 w-px bg-white/15" />
         </motion.div>
-        <div className="relative flex items-center gap-2">
+        <div className="relative flex items-end gap-[clamp(18px,1.7vw,34px)]">
           <motion.div
-            className="absolute top-1/2 right-4 left-4 h-px bg-[linear-gradient(90deg,transparent,rgb(136_200_248/0.35),transparent)]"
+            className="absolute top-[46px] right-4 left-4 h-px bg-[linear-gradient(90deg,transparent,rgb(136_200_248/0.35),transparent)]"
             initial={{ scaleX: 0 }}
             animate={{ scaleX: 1 }}
             transition={{ duration: 1.1, ease: 'easeOut', delay: T.sponsors }}
           />
-          {SPONSORS.map((name, i) => (
-            <Fragment key={name}>
-              {i > 0 && (
-                <motion.span
-                  className="relative text-[10px] text-star"
-                  initial={{ opacity: 0, scale: 0 }}
-                  animate={{ opacity: [0.35, 0.9, 0.35], scale: 1 }}
-                  transition={{
-                    scale: { type: 'spring', stiffness: 400, damping: 14, delay: T.sponsors + 0.1 + i * 0.07 },
-                    opacity: { duration: 2.2, repeat: Infinity, ease: 'easeInOut', delay: T.sponsors + i * 0.25 },
-                  }}
-                >
-                  ✦
-                </motion.span>
-              )}
-              <motion.span
-                className="relative rounded-full border border-white/10 bg-night-900/70 px-3 py-1.5 text-[14px] font-bold whitespace-nowrap text-cream/60 backdrop-blur-sm"
-                initial={{ opacity: 0, y: 10 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.45, ease: 'easeOut', delay: T.sponsors + 0.05 + i * 0.07 }}
+          {SPONSORS.map(({ name, logo, h = 72 }, i) => {
+            const src = logo ? LOGO_MASCOTS[logo] : undefined
+            return (
+              <motion.div
+                key={name}
+                className="relative flex flex-col items-center"
+                initial={{ opacity: 0, y: 14, scale: 0.6 }}
+                animate={{ opacity: 1, y: 0, scale: 1 }}
+                transition={{
+                  type: 'spring',
+                  stiffness: 380,
+                  damping: 16,
+                  delay: T.sponsors + 0.05 + i * 0.07,
+                  opacity: { duration: 0.3, delay: T.sponsors + 0.05 + i * 0.07 },
+                }}
               >
-                {name}
-              </motion.span>
-            </Fragment>
-          ))}
+                {src ? (
+                  <motion.img
+                    src={src}
+                    alt=""
+                    draggable={false}
+                    className="w-auto max-w-[88px] object-contain drop-shadow-[0_6px_10px_rgba(0,0,0,0.5)]"
+                    style={{ height: h }}
+                    animate={{ y: [0, -4, 0] }}
+                    transition={{ duration: 2.4 + i * 0.17, repeat: Infinity, ease: 'easeInOut', delay: i * 0.31 }}
+                  />
+                ) : (
+                  <span className="mb-1 flex h-[72px] items-center">
+                    <span className="rounded-full border border-white/10 bg-night-900/70 px-3 py-1.5 text-[14px] font-bold whitespace-nowrap text-cream/60 backdrop-blur-sm">
+                      {name}
+                    </span>
+                  </span>
+                )}
+                <span className="mt-1.5 text-[13px] leading-none font-bold whitespace-nowrap text-cream/65">{name}</span>
+              </motion.div>
+            )
+          })}
         </div>
       </div>
     </div>
