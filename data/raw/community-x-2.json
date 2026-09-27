@@ -1,0 +1,6108 @@
+[{
+  "type": "tweet",
+  "id": "2086214149319626851",
+  "url": "https://x.com/lavcrnobrnja/status/2086214149319626851",
+  "twitterUrl": "https://twitter.com/lavcrnobrnja/status/2086214149319626851",
+  "text": "This is the best time in the history of humanity to start a business. You now have access to a magic robot which can answer most of your questions and do stuff for you.  \n\nHere's how we're using our magic robots to build Competitor Tracker: https://t.co/m1SjCVFvU0",
+  "fullText": "This is the best time in the history of humanity to start a business. You now have access to a magic robot which can answer most of your questions and do stuff for you.  \n\nHere's how we're using our magic robots to build Competitor Tracker: https://t.co/m1SjCVFvU0",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 7,
+  "likeCount": 7,
+  "quoteCount": 0,
+  "viewCount": 901,
+  "createdAt": "Sat Aug 08 22:13:07 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2086214149319626851",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "lavcrnobrnja",
+    "url": "https://x.com/lavcrnobrnja",
+    "twitterUrl": "https://twitter.com/lavcrnobrnja",
+    "id": "706199322531131392",
+    "name": "Lav",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2089515403143675904/PX13A_WR_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/706199322531131392/1748370325",
+    "description": "3x founder. Building https://t.co/grxcHxoq5y and https://t.co/WCm1OA2A5E. \n\nInterested in Agents, AI, startups and business.",
+    "location": "Montréal, Québec",
+    "followers": 162,
+    "following": 135,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 05 19:26:53 +0000 2016",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "vacationtracker.io",
+            "expanded_url": "http://vacationtracker.io",
+            "indices": [
+              21,
+              44
+            ],
+            "url": "https://t.co/grxcHxoq5y"
+          },
+          {
+            "display_url": "competitortracker.io",
+            "expanded_url": "http://competitortracker.io",
+            "indices": [
+              49,
+              72
+            ],
+            "url": "https://t.co/WCm1OA2A5E"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "vacationtracker.io",
+            "expanded_url": "http://www.vacationtracker.io",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/4x93m4ogUm"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 867,
+    "isTranslator": false,
+    "mediaCount": 125,
+    "statusesCount": 697,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2100218359165931959"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/m1SjCVFvU0"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2086…",
+        "expanded_url": "http://x.com/i/article/2086212979167752193",
+        "indices": [
+          241,
+          264
+        ],
+        "url": "https://t.co/m1SjCVFvU0"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false,
+  "article": {
+    "id": "2086212979167752193",
+    "title": "How AI Changed the Way We’re Building Our Next Startup",
+    "previewText": "I get a lot of questions from people who are watching us build Competitor Tracker. The question is usually some version of: how are you actually using AI to build and market this thing?\nSo I wanted to",
+    "coverImage": "https://pbs.twimg.com/media/HPO32VjWQAAiOL6.jpg",
+    "firstPublishedAt": "2026-08-08T22:13:07.000Z",
+    "modifiedAt": "2026-08-08T22:13:07.000Z",
+    "contentState": {
+      "blocks": [],
+      "media": []
+    }
+  }
+},
+{
+  "type": "tweet",
+  "id": "2085114390898942076",
+  "url": "https://x.com/J4redBuilds/status/2085114390898942076",
+  "twitterUrl": "https://twitter.com/J4redBuilds/status/2085114390898942076",
+  "text": "Dropped some Sauce: https://t.co/V7YVqP3Uvp",
+  "fullText": "Dropped some Sauce: https://t.co/V7YVqP3Uvp",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 9,
+  "quoteCount": 0,
+  "viewCount": 55617,
+  "createdAt": "Wed Aug 05 21:23:04 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 5,
+  "isReply": false,
+  "conversationId": "2085114390898942076",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "J4redBuilds",
+    "url": "https://x.com/J4redBuilds",
+    "twitterUrl": "https://twitter.com/J4redBuilds",
+    "id": "2082188379286913024",
+    "name": "Jared",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2083804013422587904/KmCHVx5F_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2082188379286913024/1785267974",
+    "description": "EECS @MIT\nbootstrapping apps & writing | 38.2k MRR",
+    "location": "New York, NY",
+    "followers": 58,
+    "following": 135,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 28 19:38:52 +0000 2026",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 320,
+    "isTranslator": false,
+    "mediaCount": 23,
+    "statusesCount": 169,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1059,
+          "name": "Engineer"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "2082988133226803257"
+    }
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/V7YVqP3Uvp"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2085…",
+        "expanded_url": "http://x.com/i/article/2085075761539497984",
+        "indices": [
+          20,
+          43
+        ],
+        "url": "https://t.co/V7YVqP3Uvp"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false,
+  "article": {
+    "id": "2085075761539497984",
+    "title": "How I Scaled My App to 40k MRR: Lessons from E-Commerce ",
+    "previewText": "8 months ago, I was talking to a buddy who scaled a dog supplement brand to 30k a month. Zero differentiation. White label product. But it still made money.. How?...\nI’ve been seeing this narrative",
+    "coverImage": "https://pbs.twimg.com/media/HO_JyUIXkAAa6--.jpg",
+    "firstPublishedAt": "2026-08-05T21:23:04.000Z",
+    "modifiedAt": "2026-08-05T21:23:04.000Z",
+    "contentState": {
+      "blocks": [],
+      "media": []
+    }
+  }
+},
+{
+  "type": "tweet",
+  "id": "2083119495804227933",
+  "url": "https://x.com/chenkuansun/status/2083119495804227933",
+  "twitterUrl": "https://twitter.com/chenkuansun/status/2083119495804227933",
+  "text": "Today @hthieblot sat down with @koomen — Optimizely co-founder, now a Group Partner at @ycombinator.\n\nTo most of the room it was probably just a good conversation. \n\nFor those of us who came up through deep tech, it was two legends telling a myth out loud. https://t.co/HR8otpC32z",
+  "fullText": "Today @hthieblot sat down with @koomen — Optimizely co-founder, now a Group Partner at @ycombinator.\n\nTo most of the room it was probably just a good conversation. \n\nFor those of us who came up through deep tech, it was two legends telling a myth out loud. https://t.co/HR8otpC32z",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 10,
+  "quoteCount": 0,
+  "viewCount": 939,
+  "createdAt": "Fri Jul 31 09:16:04 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2083119495804227933",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "chenkuansun",
+    "url": "https://x.com/chenkuansun",
+    "twitterUrl": "https://twitter.com/chenkuansun",
+    "id": "2187380755",
+    "name": "CK Sun",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1519759944622370818/Bitqe0oO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2187380755/1782370717",
+    "description": "Founder TengwarOs | ex-Senior Software Engineer at @Cisco, @CiscoCX | AWSCommunityBuilder for #Serverless | Taiwan Marine Corps veteran",
+    "location": "Palo Alto, California",
+    "followers": 308,
+    "following": 561,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 11 00:04:28 +0000 2013",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "linkedin.com/in/chenkuan-su…",
+            "expanded_url": "https://www.linkedin.com/in/chenkuan-sun-430566132/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/xXiax0z9Rt"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 1971,
+    "isTranslator": false,
+    "mediaCount": 108,
+    "statusesCount": 319,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/HR8otpC32z"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "x.com/i/article/2083…",
+        "expanded_url": "http://x.com/i/article/2083106827496300544",
+        "indices": [
+          257,
+          280
+        ],
+        "url": "https://t.co/HR8otpC32z"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "9085062",
+        "indices": [
+          6,
+          16
+        ],
+        "name": "Hubert Thieblot",
+        "screen_name": "hthieblot"
+      },
+      {
+        "id_str": "14701449",
+        "indices": [
+          31,
+          38
+        ],
+        "name": "Pete Koomen",
+        "screen_name": "koomen"
+      },
+      {
+        "id_str": "113130846",
+        "indices": [
+          87,
+          99
+        ],
+        "name": "Y Combinator",
+        "screen_name": "ycombinator"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false,
+  "article": {
+    "id": "2083106827496300544",
+    "title": "Fireside with Pete Koomen",
+    "previewText": "They opened with backgrounds — how you end up writing code.\nPete described the PhD as the default next step: you're good at school, so you might as well do more school. Then he saw what the job",
+    "coverImage": "https://pbs.twimg.com/media/HOi5fKtboAAh99F.jpg",
+    "firstPublishedAt": "2026-07-31T09:16:04.000Z",
+    "modifiedAt": "2026-07-31T09:16:45.000Z",
+    "contentState": {
+      "blocks": [],
+      "media": []
+    }
+  }
+},
+{
+  "type": "tweet",
+  "id": "2081728964133847122",
+  "url": "https://x.com/theandreboso/status/2081728964133847122",
+  "twitterUrl": "https://twitter.com/theandreboso/status/2081728964133847122",
+  "text": "From all the declining revenue charts I’m seeing lately it’s clear indie founders are in trouble. But in most cases it’s not because AI models are directly competing with them. It’s a distribution problem.\n\nThe old playbook ran on search traffic. Pump out content, rank for the keywords that matter, convert. That stopped working a while ago but people are only panicking now that it’s showing up in their bottom line.\n\nToday the only way into the top recommendations is building a real brand. Content, people talking about you, video reviews, mentions, signals from every direction. That’s hard even for a great marketer with a team behind them. For a solo, inexperienced founder it’s brutal.\n\nSocial can help but on its own it can’t replace the volume + intent combo search used to deliver. I don’t know where this goes from here but my guess is fewer one man shows and more teams of two: technical founder and marketing cofounder.",
+  "fullText": "From all the declining revenue charts I’m seeing lately it’s clear indie founders are in trouble. But in most cases it’s not because AI models are directly competing with them. It’s a distribution problem.\n\nThe old playbook ran on search traffic. Pump out content, rank for the",
+  "source": "Twitter for iPhone",
+  "retweetCount": 4,
+  "replyCount": 34,
+  "likeCount": 86,
+  "quoteCount": 2,
+  "viewCount": 6950,
+  "createdAt": "Mon Jul 27 13:10:36 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 37,
+  "isReply": false,
+  "conversationId": "2081728964133847122",
+  "author": {
+    "type": "user",
+    "userName": "theandreboso",
+    "url": "https://x.com/theandreboso",
+    "twitterUrl": "https://twitter.com/theandreboso",
+    "id": "1095437639380017157",
+    "name": "Andrea Bosoni",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1526643811207749632/5pHjt7MZ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1095437639380017157/1675624273",
+    "description": "Marketer",
+    "location": "Milan, Italy",
+    "followers": 64156,
+    "following": 2165,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 12 21:41:00 +0000 2019",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "andreabosoni.com",
+            "expanded_url": "http://andreabosoni.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/ej3mjXnxB1"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 36236,
+    "isTranslator": false,
+    "mediaCount": 924,
+    "statusesCount": 33094,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2077399885599412718",
+  "url": "https://x.com/owennurminen/status/2077399885599412718",
+  "twitterUrl": "https://twitter.com/owennurminen/status/2077399885599412718",
+  "text": "I sat down with Bryce Witmer, a founder with over 500k followers on how he looks at organic social & growth. \n\nEnjoy\n\n0:00 - Intro: Bryce's background, 500k+ followers, Hyve, protein bar, engineering-to-creator story\n0:26 - Bryce intro / being on the show\n0:30 - What Hyve is\n0:39 - Hyve as a networking app for founders, entrepreneurs, creators\n1:08 - Protein bar update and personal brand growth\n1:29 - Transition into technical founder mindset\n1:40 - Civil engineering background, realizing he wasn't using his audience fully\n2:08 - Hyve business model / community expansion\n2:19 - College question: should young kids go?\n2:55 - Best majors in the AI era\n3:16 - How he grew his audience and how that helps Hyve\n4:22 - Fear of posting too broad / \"be the niche\"\n4:30 - Starting niche and expanding over time\n5:40 - Full upbringing / story request\n6:04 - Lancaster upbringing, sports, engineering, fitness passion\n6:58 - Entrepreneurial side: flipping Yeezys, cards, etc.\n7:25 - Starting to post 3 TikToks a day\n7:51 - Viral growth and first big traction\n8:15 - First dollar online\n8:37 - First brand deal / first real money\n9:12 - Could he do it again? How to grow fast?\n9:57 - Advice: quantity, quality, value, being yourself\n11:05 - Are followers still the goal?\n11:12 - Quality of followers > raw follower count\n12:12 - If you don't love it, you'll burn out\n12:32 - Best content style for a credible audience\n14:59 - Forcing outcomes vs letting things happen\n15:21 - Go all in, but test and commit\n16:02 - Consistency and staying with one thing\n16:51 - Grass is always greener / comparison trap\n17:21 - Pros and cons of every path\n17:47 - Ikigai / long-term alignment\n18:11 - Fortnite burnout / long-term effort\n18:36 - Zach Yadegari example / years of coding\n19:10 - Why people think he got lucky, but didn't see the work\n19:46 - Content takes a back seat once a business grows\n20:15 - Matthew McConaughey / letting go of outcomes\n20:56 - Failure, faith, and learning from failed businesses\n21:48 - Try hard and keep trying for years\n22:14 - Growing up Christian\n22:25 - How faith helped him\n22:56 - Current faith routine and priorities\n24:15 - Entrepreneurship and faith\n24:45 - Friends/upbringing and why he went a different path\n25:37 - Risk-taking personality\n26:13 - Relationship with his mom\n27:01 - Parents / kids / family discussion\n27:27 - Wants 2–3 kids, wants a boy\n28:18 - Big-picture thoughts on family and kids\n28:33 - Travel with family / wanting global experience for kids\n29:55 - Traveling with young kids vs older kids\n30:25 - Finland trip and perspective on life\n31:14 - US vs other countries / World Cup example\n31:33 - Ideal outcome for the rest of his 20s\n32:24 - Would he sell the company?\n33:02 - What he consumes daily: podcasts and YouTube\n34:11 - Regret of not documenting early days\n34:35 - Biggest lesson from launching a CPG brand\n35:29 - Privilege question\n36:08 - Privilege relative to the world, not just money\n37:31 - Transition into Artek\n37:49 - What Artek is\n38:43 - AI agent that runs campaigns\n39:12 - 13,000 creators and ad management\n40:01 - \"Top tier coach\" analogy\n40:28 - Launch timing / beta testing\n41:01 - Platform scope and organic marketing\n42:06 - Competitor research and launch tradeoffs\n42:34 - Why product quality matters\n43:14 - Could launch a creator-only version\n43:43 - Product-first vs distribution-first tension\n44:07 - Need real user feedback\n44:19 - AI-native creator platform overview\n45:00 - Why UGC matters\n45:22 - Honest ad format that works\n45:45 - UGC plans for Hyve and protein bar\n46:03 - Creative volume and paid ads strategy\n46:35 - Final takeaway: posting changed everything\n47:03 - First post changed his life\n47:31 - Fear of judgment vs upside\n48:01 - Take the first step\n48:41 - \"Fear is a mind killer\"\n49:18 - Fear disappears after action\n49:59 - Upward spiral / downward spiral\n50:29 - Don't give up, take the first step\n50:58 - Quit job without waiting for perfect timing\n51:12 - Humans are adaptable\n51:20 - Real entrepreneurs adapt well\n51:40 - Comfort zone / \"good enough\" trap\n52:20 - Start on the side first\n52:59 - What to say to people who don't believe in you\n53:03 - Confidence that something will work out\n53:47 - Evidence, discipline, and trust in yourself\n54:08 - Content strategy and posting about his product\n54:55 - Free marketing / no downside to posting\n55:14 - Courage to be judged\n55:43 - Do it if it's true to your values\n56:07 - Outro and Bryce's social handles\n56:34 - End",
+  "fullText": "I sat down with Bryce Witmer, a founder with over 500k followers on how he looks at organic social &amp; growth. \n\nEnjoy\n\n0:00 - Intro: Bryce's background, 500k+ followers, Hyve, protein bar, engineering-to-creator story\n0:26 - Bryce intro / being on the show\n0:30 - What Hyve is\n0:39 https://t.co/OAfhzcEpee",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 19,
+  "quoteCount": 0,
+  "viewCount": 4778,
+  "createdAt": "Wed Jul 15 14:28:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 8,
+  "isReply": false,
+  "conversationId": "2077399885599412718",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "owennurminen",
+    "url": "https://x.com/owennurminen",
+    "twitterUrl": "https://twitter.com/owennurminen",
+    "id": "2325973987",
+    "name": "Owen Nurminen",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2061945170871156736/OWr46qKu_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2325973987/1780441162",
+    "description": "runnin @artecapp",
+    "location": "",
+    "followers": 5922,
+    "following": 1174,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 03 19:54:37 +0000 2014",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "owennurminen.com",
+            "expanded_url": "http://owennurminen.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/69utun1rme"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 62482,
+    "isTranslator": false,
+    "mediaCount": 1344,
+    "statusesCount": 17978,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/OAfhzcEpee",
+        "expanded_url": "https://x.com/owennurminen/status/2077399885599412718/video/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "id_str": "2077397845720662016",
+        "indices": [
+          285,
+          308
+        ],
+        "media_key": "13_2077397845720662016",
+        "media_results": {
+          "result": {
+            "media_key": "13_2077397845720662016"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2077397845720662016/img/sgdTYQbb-Eb09nTA.jpg",
+        "original_info": {
+          "focus_rects": [],
+          "height": 1080,
+          "width": 1920
+        },
+        "sizes": {
+          "large": {
+            "h": 1080,
+            "resize": "fit",
+            "w": 1920
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "video",
+        "url": "https://t.co/OAfhzcEpee",
+        "video_info": {
+          "aspect_ratio": [
+            16,
+            9
+          ],
+          "duration_millis": 3330566,
+          "variants": [
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/amplify_video/2077397845720662016/pl/RLBcYDZSwQCbOkV3.m3u8?tag=28&v=45a"
+            },
+            {
+              "bitrate": 256000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2077397845720662016/vid/avc1/480x270/H97xkrm783rpApg7.mp4?tag=28"
+            },
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2077397845720662016/vid/avc1/640x360/hyMI1yNIejDL3acp.mp4?tag=28"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2077397845720662016/vid/avc1/1280x720/ectiadSgRDo8FzOd.mp4?tag=28"
+            },
+            {
+              "bitrate": 10368000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/amplify_video/2077397845720662016/vid/avc1/1920x1080/gXOLPn_zM1_jcgti.mp4?tag=28"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "timestamps": [
+      {
+        "indices": [
+          118,
+          122
+        ],
+        "seconds": 0,
+        "text": "0:00"
+      },
+      {
+        "indices": [
+          217,
+          221
+        ],
+        "seconds": 26,
+        "text": "0:26"
+      },
+      {
+        "indices": [
+          256,
+          260
+        ],
+        "seconds": 30,
+        "text": "0:30"
+      },
+      {
+        "indices": [
+          276,
+          280
+        ],
+        "seconds": 39,
+        "text": "0:39"
+      },
+      {
+        "indices": [
+          346,
+          350
+        ],
+        "seconds": 68,
+        "text": "1:08"
+      },
+      {
+        "indices": [
+          398,
+          402
+        ],
+        "seconds": 89,
+        "text": "1:29"
+      },
+      {
+        "indices": [
+          447,
+          451
+        ],
+        "seconds": 100,
+        "text": "1:40"
+      },
+      {
+        "indices": [
+          529,
+          533
+        ],
+        "seconds": 128,
+        "text": "2:08"
+      },
+      {
+        "indices": [
+          578,
+          582
+        ],
+        "seconds": 139,
+        "text": "2:19"
+      },
+      {
+        "indices": [
+          625,
+          629
+        ],
+        "seconds": 175,
+        "text": "2:55"
+      },
+      {
+        "indices": [
+          658,
+          662
+        ],
+        "seconds": 196,
+        "text": "3:16"
+      },
+      {
+        "indices": [
+          714,
+          718
+        ],
+        "seconds": 262,
+        "text": "4:22"
+      },
+      {
+        "indices": [
+          764,
+          768
+        ],
+        "seconds": 270,
+        "text": "4:30"
+      },
+      {
+        "indices": [
+          810,
+          814
+        ],
+        "seconds": 340,
+        "text": "5:40"
+      },
+      {
+        "indices": [
+          849,
+          853
+        ],
+        "seconds": 364,
+        "text": "6:04"
+      },
+      {
+        "indices": [
+          915,
+          919
+        ],
+        "seconds": 418,
+        "text": "6:58"
+      },
+      {
+        "indices": [
+          973,
+          977
+        ],
+        "seconds": 445,
+        "text": "7:25"
+      },
+      {
+        "indices": [
+          1013,
+          1017
+        ],
+        "seconds": 471,
+        "text": "7:51"
+      },
+      {
+        "indices": [
+          1056,
+          1060
+        ],
+        "seconds": 495,
+        "text": "8:15"
+      },
+      {
+        "indices": [
+          1083,
+          1087
+        ],
+        "seconds": 517,
+        "text": "8:37"
+      },
+      {
+        "indices": [
+          1126,
+          1130
+        ],
+        "seconds": 552,
+        "text": "9:12"
+      },
+      {
+        "indices": [
+          1173,
+          1177
+        ],
+        "seconds": 597,
+        "text": "9:57"
+      },
+      {
+        "indices": [
+          1229,
+          1234
+        ],
+        "seconds": 665,
+        "text": "11:05"
+      },
+      {
+        "indices": [
+          1267,
+          1272
+        ],
+        "seconds": 672,
+        "text": "11:12"
+      },
+      {
+        "indices": [
+          1317,
+          1322
+        ],
+        "seconds": 732,
+        "text": "12:12"
+      },
+      {
+        "indices": [
+          1363,
+          1368
+        ],
+        "seconds": 752,
+        "text": "12:32"
+      },
+      {
+        "indices": [
+          1414,
+          1419
+        ],
+        "seconds": 899,
+        "text": "14:59"
+      },
+      {
+        "indices": [
+          1464,
+          1469
+        ],
+        "seconds": 921,
+        "text": "15:21"
+      },
+      {
+        "indices": [
+          1503,
+          1508
+        ],
+        "seconds": 962,
+        "text": "16:02"
+      },
+      {
+        "indices": [
+          1550,
+          1555
+        ],
+        "seconds": 1011,
+        "text": "16:51"
+      },
+      {
+        "indices": [
+          1600,
+          1605
+        ],
+        "seconds": 1041,
+        "text": "17:21"
+      },
+      {
+        "indices": [
+          1636,
+          1641
+        ],
+        "seconds": 1067,
+        "text": "17:47"
+      },
+      {
+        "indices": [
+          1673,
+          1678
+        ],
+        "seconds": 1091,
+        "text": "18:11"
+      },
+      {
+        "indices": [
+          1717,
+          1722
+        ],
+        "seconds": 1116,
+        "text": "18:36"
+      },
+      {
+        "indices": [
+          1765,
+          1770
+        ],
+        "seconds": 1150,
+        "text": "19:10"
+      },
+      {
+        "indices": [
+          1828,
+          1833
+        ],
+        "seconds": 1186,
+        "text": "19:46"
+      },
+      {
+        "indices": [
+          1884,
+          1889
+        ],
+        "seconds": 1215,
+        "text": "20:15"
+      },
+      {
+        "indices": [
+          1937,
+          1942
+        ],
+        "seconds": 1256,
+        "text": "20:56"
+      },
+      {
+        "indices": [
+          1997,
+          2002
+        ],
+        "seconds": 1308,
+        "text": "21:48"
+      },
+      {
+        "indices": [
+          2040,
+          2045
+        ],
+        "seconds": 1334,
+        "text": "22:14"
+      },
+      {
+        "indices": [
+          2069,
+          2074
+        ],
+        "seconds": 1345,
+        "text": "22:25"
+      },
+      {
+        "indices": [
+          2098,
+          2103
+        ],
+        "seconds": 1376,
+        "text": "22:56"
+      },
+      {
+        "indices": [
+          2143,
+          2148
+        ],
+        "seconds": 1455,
+        "text": "24:15"
+      },
+      {
+        "indices": [
+          2178,
+          2183
+        ],
+        "seconds": 1485,
+        "text": "24:45"
+      },
+      {
+        "indices": [
+          2238,
+          2243
+        ],
+        "seconds": 1537,
+        "text": "25:37"
+      },
+      {
+        "indices": [
+          2270,
+          2275
+        ],
+        "seconds": 1573,
+        "text": "26:13"
+      },
+      {
+        "indices": [
+          2304,
+          2309
+        ],
+        "seconds": 1621,
+        "text": "27:01"
+      },
+      {
+        "indices": [
+          2347,
+          2352
+        ],
+        "seconds": 1647,
+        "text": "27:27"
+      },
+      {
+        "indices": [
+          2383,
+          2388
+        ],
+        "seconds": 1698,
+        "text": "28:18"
+      },
+      {
+        "indices": [
+          2431,
+          2436
+        ],
+        "seconds": 1713,
+        "text": "28:33"
+      },
+      {
+        "indices": [
+          2495,
+          2500
+        ],
+        "seconds": 1795,
+        "text": "29:55"
+      },
+      {
+        "indices": [
+          2543,
+          2548
+        ],
+        "seconds": 1825,
+        "text": "30:25"
+      },
+      {
+        "indices": [
+          2588,
+          2593
+        ],
+        "seconds": 1874,
+        "text": "31:14"
+      },
+      {
+        "indices": [
+          2638,
+          2643
+        ],
+        "seconds": 1893,
+        "text": "31:33"
+      },
+      {
+        "indices": [
+          2684,
+          2689
+        ],
+        "seconds": 1944,
+        "text": "32:24"
+      },
+      {
+        "indices": [
+          2719,
+          2724
+        ],
+        "seconds": 1982,
+        "text": "33:02"
+      },
+      {
+        "indices": [
+          2772,
+          2777
+        ],
+        "seconds": 2051,
+        "text": "34:11"
+      },
+      {
+        "indices": [
+          2817,
+          2822
+        ],
+        "seconds": 2075,
+        "text": "34:35"
+      },
+      {
+        "indices": [
+          2867,
+          2872
+        ],
+        "seconds": 2129,
+        "text": "35:29"
+      },
+      {
+        "indices": [
+          2894,
+          2899
+        ],
+        "seconds": 2168,
+        "text": "36:08"
+      },
+      {
+        "indices": [
+          2950,
+          2955
+        ],
+        "seconds": 2251,
+        "text": "37:31"
+      },
+      {
+        "indices": [
+          2980,
+          2985
+        ],
+        "seconds": 2269,
+        "text": "37:49"
+      },
+      {
+        "indices": [
+          3002,
+          3007
+        ],
+        "seconds": 2323,
+        "text": "38:43"
+      },
+      {
+        "indices": [
+          3039,
+          3044
+        ],
+        "seconds": 2352,
+        "text": "39:12"
+      },
+      {
+        "indices": [
+          3081,
+          3086
+        ],
+        "seconds": 2401,
+        "text": "40:01"
+      },
+      {
+        "indices": [
+          3114,
+          3119
+        ],
+        "seconds": 2428,
+        "text": "40:28"
+      },
+      {
+        "indices": [
+          3151,
+          3156
+        ],
+        "seconds": 2461,
+        "text": "41:01"
+      },
+      {
+        "indices": [
+          3196,
+          3201
+        ],
+        "seconds": 2526,
+        "text": "42:06"
+      },
+      {
+        "indices": [
+          3245,
+          3250
+        ],
+        "seconds": 2554,
+        "text": "42:34"
+      },
+      {
+        "indices": [
+          3281,
+          3286
+        ],
+        "seconds": 2594,
+        "text": "43:14"
+      },
+      {
+        "indices": [
+          3325,
+          3330
+        ],
+        "seconds": 2623,
+        "text": "43:43"
+      },
+      {
+        "indices": [
+          3377,
+          3382
+        ],
+        "seconds": 2647,
+        "text": "44:07"
+      },
+      {
+        "indices": [
+          3409,
+          3414
+        ],
+        "seconds": 2659,
+        "text": "44:19"
+      },
+      {
+        "indices": [
+          3453,
+          3458
+        ],
+        "seconds": 2700,
+        "text": "45:00"
+      },
+      {
+        "indices": [
+          3477,
+          3482
+        ],
+        "seconds": 2722,
+        "text": "45:22"
+      },
+      {
+        "indices": [
+          3513,
+          3518
+        ],
+        "seconds": 2745,
+        "text": "45:45"
+      },
+      {
+        "indices": [
+          3556,
+          3561
+        ],
+        "seconds": 2763,
+        "text": "46:03"
+      },
+      {
+        "indices": [
+          3602,
+          3607
+        ],
+        "seconds": 2795,
+        "text": "46:35"
+      },
+      {
+        "indices": [
+          3653,
+          3658
+        ],
+        "seconds": 2823,
+        "text": "47:03"
+      },
+      {
+        "indices": [
+          3689,
+          3694
+        ],
+        "seconds": 2851,
+        "text": "47:31"
+      },
+      {
+        "indices": [
+          3724,
+          3729
+        ],
+        "seconds": 2881,
+        "text": "48:01"
+      },
+      {
+        "indices": [
+          3752,
+          3757
+        ],
+        "seconds": 2921,
+        "text": "48:41"
+      },
+      {
+        "indices": [
+          3784,
+          3789
+        ],
+        "seconds": 2958,
+        "text": "49:18"
+      },
+      {
+        "indices": [
+          3821,
+          3826
+        ],
+        "seconds": 2999,
+        "text": "49:59"
+      },
+      {
+        "indices": [
+          3861,
+          3866
+        ],
+        "seconds": 3029,
+        "text": "50:29"
+      },
+      {
+        "indices": [
+          3904,
+          3909
+        ],
+        "seconds": 3058,
+        "text": "50:58"
+      },
+      {
+        "indices": [
+          3956,
+          3961
+        ],
+        "seconds": 3072,
+        "text": "51:12"
+      },
+      {
+        "indices": [
+          3985,
+          3990
+        ],
+        "seconds": 3080,
+        "text": "51:20"
+      },
+      {
+        "indices": [
+          4023,
+          4028
+        ],
+        "seconds": 3100,
+        "text": "51:40"
+      },
+      {
+        "indices": [
+          4065,
+          4070
+        ],
+        "seconds": 3140,
+        "text": "52:20"
+      },
+      {
+        "indices": [
+          4097,
+          4102
+        ],
+        "seconds": 3179,
+        "text": "52:59"
+      },
+      {
+        "indices": [
+          4152,
+          4157
+        ],
+        "seconds": 3183,
+        "text": "53:03"
+      },
+      {
+        "indices": [
+          4200,
+          4205
+        ],
+        "seconds": 3227,
+        "text": "53:47"
+      },
+      {
+        "indices": [
+          4252,
+          4257
+        ],
+        "seconds": 3248,
+        "text": "54:08"
+      },
+      {
+        "indices": [
+          4307,
+          4312
+        ],
+        "seconds": 3295,
+        "text": "54:55"
+      },
+      {
+        "indices": [
+          4355,
+          4360
+        ],
+        "seconds": 3314,
+        "text": "55:14"
+      },
+      {
+        "indices": [
+          4384,
+          4389
+        ],
+        "seconds": 3343,
+        "text": "55:43"
+      },
+      {
+        "indices": [
+          4426,
+          4431
+        ],
+        "seconds": 3367,
+        "text": "56:07"
+      },
+      {
+        "indices": [
+          4467,
+          4472
+        ],
+        "seconds": 3394,
+        "text": "56:34"
+      }
+    ],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/amplify_video_thumb/2077397845720662016/img/sgdTYQbb-Eb09nTA.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2068218462153928713",
+  "url": "https://x.com/jordan_ross_8F/status/2068218462153928713",
+  "twitterUrl": "https://twitter.com/jordan_ross_8F/status/2068218462153928713",
+  "text": "A successful AI project has nothing to do with AI.\nI learned that the expensive way.\n\nMy firm was the first AI development company built for advertising and marketing agencies. We've put tens of thousands of hours into \nAI projects for our clients.\n\nThe #1 thing that surprises every client is simple:\n\nThe AI was never the hard part.\n\nSuccessful projects come down to one thing. Clear objectives, tied to the company's bigger goal. In a world where anyone can build anything, the strategists win.\n\nSo we start every project with the end in mind. We get very clear on what success actually looks like. \n\nThen we use simple project management to finish the thing.\n\nHere's the part that drives me crazy.\n\n33% of the founders I meet are handing their team decision-making power over the company's future. With zero practical frameworks.\n\n25% of our engagements start the same way. Figuring out what mess we have to clean up first.\n\nProjects that led to nothing.\n\nInitiatives left half-built.\n\nBuilds with zero strategy and zero awareness of the bottom line.\n\nI'm fed up with it. It's dumb. And it's completely avoidable.\n\nSo I wrote a handbook for founders and the people running projects inside their companies.\n\nThink of it as: how to not F up your company with an AI project. For dummies.\n\nIf you've got team members running internal AI projects, or you're a non-technical founder running one yourself, you need to read this.\n\nIt covers:\n→ How to pick the one project that actually moves profit (not the shiny one your team wants to build)\n→ How to scope it so it can't end up half-built\n→ How to run point on the build without writing a line of code\n→ How to run bigger custom builds so they finish instead of sprawl\n→ How to audit every project and kill the dead ones before they bleed you\n\nComment TEAM and I'll send it to you.\n(must be following for DM to send)",
+  "fullText": "A successful AI project has nothing to do with AI.\nI learned that the expensive way.\n\nMy firm was the first AI development company built for advertising and marketing agencies. We've put tens of thousands of hours into \nAI projects for our clients.\n\nThe #1 thing that surprises",
+  "source": "Hypefury",
+  "retweetCount": 5,
+  "replyCount": 41,
+  "likeCount": 37,
+  "quoteCount": 1,
+  "viewCount": 11327,
+  "createdAt": "Sat Jun 20 06:24:41 +0000 2026",
+  "lang": "en",
+  "quoteId": "2066097484846203211",
+  "bookmarkCount": 125,
+  "isReply": false,
+  "conversationId": "2068218462153928713",
+  "author": {
+    "type": "user",
+    "userName": "jordan_ross_8F",
+    "url": "https://x.com/jordan_ross_8F",
+    "twitterUrl": "https://twitter.com/jordan_ross_8F",
+    "id": "1343989225868255232",
+    "name": "Jordan Ross",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1675172810086559745/MACJg72N_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1343989225868255232/1766383434",
+    "description": "Helping agency owners build a business that works without them using AI | CEO https://t.co/sBRiJmx1Ve | 1000+ agencies | $500M in results | Free consultation DM",
+    "location": "Add Millions in EBITDA➡️",
+    "followers": 90358,
+    "following": 3628,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 29 18:36:27 +0000 2020",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "8figureagency.co",
+            "expanded_url": "http://8figureagency.co",
+            "indices": [
+              78,
+              101
+            ],
+            "url": "https://t.co/sBRiJmx1Ve"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/3Uj95pi",
+            "expanded_url": "https://bit.ly/3Uj95pi",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/7VmdXBPxTH"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 16177,
+    "isTranslator": false,
+    "mediaCount": 2646,
+    "statusesCount": 31286,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1653018845492150273"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2066097484846203211",
+    "text": "this is f*cking gold\n\nHow to build your first AI agent (Full guide)\n\nif I had this a year ago, I would've shipped my first agent in a day instead of 2 weeks\n\nin the right hands, this changes everything: https://t.co/eWNNOL7jYn",
+    "source": "Twitter for iPhone",
+    "retweetCount": 1061,
+    "replyCount": 80,
+    "likeCount": 7471,
+    "quoteCount": 22,
+    "viewCount": 1100966,
+    "createdAt": "Sun Jun 14 09:56:41 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 16163,
+    "possiblySensitive": false,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "eng_khairallah1",
+      "url": "https://x.com/eng_khairallah1",
+      "twitterUrl": "https://twitter.com/eng_khairallah1",
+      "id": "1224538644247203844",
+      "name": "Khairallah AL-Awady",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/1888357542004162560/5D-YlH5e_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1224538644247203844/1691590897",
+      "description": "angel investor | founder @Web3Arabs | vibe coding | ai & onchain research",
+      "location": "",
+      "followers": 78113,
+      "following": 1990,
+      "protected": false,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Feb 04 03:42:32 +0000 2020",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "khairallah.xyz",
+              "expanded_url": "https://khairallah.xyz/",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/NQdixShqwD"
+            }
+          ]
+        }
+      },
+      "favouritesCount": 242772,
+      "isTranslator": false,
+      "mediaCount": 1705,
+      "statusesCount": 112256,
+      "translatorTypeEnum": "none",
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2103863041771389278"
+      ],
+      "professional": {
+        "category": [
+          {
+            "icon_name": "IconBriefcaseStroke",
+            "id": 713,
+            "name": "Science & Technology"
+          }
+        ],
+        "professional_type": "Creator",
+        "rest_id": "1460891436401012737"
+      }
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/eWNNOL7jYn",
+          "expanded_url": "https://x.com/eng_khairallah1/status/2066097484846203211/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2066097476495462401",
+          "indices": [
+            203,
+            226
+          ],
+          "media_key": "3_2066097476495462401",
+          "media_results": {
+            "result": {
+              "media_key": "3_2066097476495462401"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HKxAtU3X0AEqYCJ.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 489,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 874,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 996,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1064,
+                "w": 532,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1064,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1064,
+            "width": 874
+          },
+          "sizes": {
+            "large": {
+              "h": 1064,
+              "resize": "fit",
+              "w": 874
+            },
+            "medium": {
+              "h": 1064,
+              "resize": "fit",
+              "w": 874
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 559
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eWNNOL7jYn"
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "media": [
+        {
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/eWNNOL7jYn",
+          "expanded_url": "https://x.com/eng_khairallah1/status/2066097484846203211/photo/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "features": {
+            "large": {
+              "faces": []
+            },
+            "medium": {
+              "faces": []
+            },
+            "orig": {
+              "faces": []
+            },
+            "small": {
+              "faces": []
+            }
+          },
+          "id_str": "2066097476495462401",
+          "indices": [
+            203,
+            226
+          ],
+          "media_key": "3_2066097476495462401",
+          "media_results": {
+            "result": {
+              "media_key": "3_2066097476495462401"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/HKxAtU3X0AEqYCJ.jpg",
+          "original_info": {
+            "focus_rects": [
+              {
+                "h": 489,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 874,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 996,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1064,
+                "w": 532,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1064,
+                "w": 874,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "height": 1064,
+            "width": 874
+          },
+          "sizes": {
+            "large": {
+              "h": 1064,
+              "resize": "fit",
+              "w": 874
+            },
+            "medium": {
+              "h": 1064,
+              "resize": "fit",
+              "w": 874
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 559
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/eWNNOL7jYn"
+        }
+      ]
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2066902662335938562",
+  "url": "https://x.com/clemcardonnel/status/2066902662335938562",
+  "twitterUrl": "https://twitter.com/clemcardonnel/status/2066902662335938562",
+  "text": "@eliana_jordan This is sad and uncomfortable news for me because after 10 years I was getting pretty good at being a technical founder.\n\nIt's hard to get good at marketing.",
+  "fullText": "@eliana_jordan This is sad and uncomfortable news for me because after 10 years I was getting pretty good at being a technical founder.\n\nIt's hard to get good at marketing.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 1,
+  "quoteCount": 0,
+  "viewCount": 45,
+  "createdAt": "Tue Jun 16 15:16:10 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2066894606281667033",
+  "conversationId": "2066894606281667033",
+  "inReplyToUserId": "1870642493693583360",
+  "inReplyToUsername": "eliana_jordan",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "clemcardonnel",
+    "url": "https://x.com/clemcardonnel",
+    "twitterUrl": "https://twitter.com/clemcardonnel",
+    "id": "1165716362674745344",
+    "name": "Clément Cardonnel",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2061826437485641728/DpoF4Zmn_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1165716362674745344/1780412677",
+    "description": "Freelance AI Engineer. I help mobile-first teams ship reliable AI Agents from prototype to production || https://t.co/FXBriqO5t5 🗺️ https://t.co/80t7Bq41fl 🏔️",
+    "location": "🇪🇺 Let's talk 👉",
+    "followers": 109,
+    "following": 355,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 25 20:03:42 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "leafty.app",
+            "expanded_url": "https://leafty.app",
+            "indices": [
+              105,
+              128
+            ],
+            "url": "https://t.co/FXBriqO5t5"
+          },
+          {
+            "display_url": "rheaparks.com",
+            "expanded_url": "https://rheaparks.com",
+            "indices": [
+              132,
+              155
+            ],
+            "url": "https://t.co/80t7Bq41fl"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cal.com/clementcardonn…",
+            "expanded_url": "https://cal.com/clementcardonnel/discovery",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/twqq61iw7Y"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 5844,
+    "isTranslator": false,
+    "mediaCount": 343,
+    "statusesCount": 3491,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2057143755346428267"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1870642493693583360",
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Eliana",
+        "screen_name": "eliana_jordan"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2066816293538238467",
+  "url": "https://x.com/NormanWangTech/status/2066816293538238467",
+  "twitterUrl": "https://twitter.com/NormanWangTech/status/2066816293538238467",
+  "text": "This is hard part nobody talks about as a SaaS founder...\n\nIn the beginning, you're used to doing everything in the company.\n\nDevelopment work, sales, outbound, marketing, customer support, operations, finances, etc.\n\nAs you grow, you start hiring people specialized for those roles, but it's still hard to take your hands off the reins.\n\nWhen I first brought in developers to lead development/project planning on Lead Oracle AI, I was constantly still in the weeds of the codebase.\n\nI remember asking my development agency friends, and they told me I needed to let go of the reins.\n\nI was so bogged down in the day-to-day that I told my development team, I will just be there on our daily standup to be kept in the loop instead of working in the codebase and shipping.\n\nThey agreed and took over.\n\nDecisions started being made independently of me. Code was still shipping. Features were still being rolled out.\n\nAnd I didn't even touch the codebase once.\n\nAs a technical founder, it's very easy to become nit-picky.\n\nBut at a certain point, you need to let go of the reins slowly and slowly and just simply let your team COOK.\n\nIf you're unable to do that, you need either:\n1. Better training\n2. Better team members that can work independently\n\nEven if it takes 200 interviews to find that one A-player, it's worth it in the end.",
+  "fullText": "This is hard part nobody talks about as a SaaS founder...\n\nIn the beginning, you're used to doing everything in the company.\n\nDevelopment work, sales, outbound, marketing, customer support, operations, finances, etc.\n\nAs you grow, you start hiring people specialized for those",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 109,
+  "createdAt": "Tue Jun 16 09:32:58 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2066816293538238467",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "NormanWangTech",
+    "url": "https://x.com/NormanWangTech",
+    "twitterUrl": "https://twitter.com/NormanWangTech",
+    "id": "1581483320952619009",
+    "name": "Norman Wang - Founder @ Lead Oracle AI",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1953900394620297216/cKCES992_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1581483320952619009/1780255086",
+    "description": "Helping local businesses & agencies dominate Google Map Pack & AI search with https://t.co/ipeY2XW8qj",
+    "location": "",
+    "followers": 421,
+    "following": 217,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 16 03:13:12 +0000 2022",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "leadoracle.ai",
+            "expanded_url": "http://leadoracle.ai",
+            "indices": [
+              78,
+              101
+            ],
+            "url": "https://t.co/ipeY2XW8qj"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "leadoracle.ai",
+            "expanded_url": "https://www.leadoracle.ai/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/13PPP2RFIG"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 193,
+    "isTranslator": false,
+    "mediaCount": 50,
+    "statusesCount": 581,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2082484730990145546"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1674225484891140102"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2058989964550197671",
+  "url": "https://x.com/nour_alskore/status/2058989964550197671",
+  "twitterUrl": "https://twitter.com/nour_alskore/status/2058989964550197671",
+  "text": "I feel many founders have hard time finding early adopters.\n\nI’m a technical founder trying to understand the real process. How do other technical founders actually find their first early adopters?\nWhat step by step process you follow?\n\nHow you define ICP?\nYou use Lean Canvas, one page marketing plan, or marketing canvas?\nHow you frame your messaging?\n\nWould love to know your real playbook.\n#startups #founders",
+  "fullText": "I feel many founders have hard time finding early adopters.\n\nI’m a technical founder trying to understand the real process. How do other technical founders actually find their first early adopters?\nWhat step by step process you follow?\n\nHow you define ICP?\nYou use Lean Canvas,",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 55,
+  "createdAt": "Mon May 25 19:13:56 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2058989964550197671",
+  "author": {
+    "type": "user",
+    "userName": "nour_alskore",
+    "url": "https://x.com/nour_alskore",
+    "twitterUrl": "https://twitter.com/nour_alskore",
+    "id": "2050076099909177344",
+    "name": "Nour Alskore",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2051443538626523136/mdahGBNJ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2050076099909177344/1777937205",
+    "description": "College dropout turned founder. Building tools so solo devs, creators & artists can finally work for themselves — turning vision and hard work into real ownersh",
+    "location": "Edmonton, AB, Canada.  ",
+    "followers": 4,
+    "following": 29,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 01 04:53:38 +0000 2026",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "linkedin.com/in/nour-alskor…",
+            "expanded_url": "https://www.linkedin.com/in/nour-alskore-aa233236b/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/zpq1dKjGpP"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 3,
+    "isTranslator": false,
+    "mediaCount": 0,
+    "statusesCount": 3,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          394,
+          403
+        ],
+        "text": "startups"
+      },
+      {
+        "indices": [
+          404,
+          413
+        ],
+        "text": "founders"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2043690307049705529",
+  "url": "https://x.com/harryam_/status/2043690307049705529",
+  "twitterUrl": "https://twitter.com/harryam_/status/2043690307049705529",
+  "text": "@KaiXCreator as technical founder, Marketing is the hard part",
+  "fullText": "@KaiXCreator as technical founder, Marketing is the hard part",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 65,
+  "createdAt": "Mon Apr 13 13:58:33 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2043680971204264165",
+  "conversationId": "2043680971204264165",
+  "inReplyToUserId": "1663803318802735106",
+  "inReplyToUsername": "kaitotwt_",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "harryam_",
+    "url": "https://x.com/harryam_",
+    "twitterUrl": "https://twitter.com/harryam_",
+    "id": "629111359",
+    "name": "Harry Andriyan 🧑🏻‍💻",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1943970583768649728/ntySvd7C_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/629111359/1779010250",
+    "description": "Sharing the journey of shipping products, optimizing workflows, and the reality of the dev-founder life. 🛠️\nhttps://t.co/z6HnN6H743",
+    "location": "Indonesia",
+    "followers": 208,
+    "following": 266,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Jul 07 07:31:28 +0000 2012",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "producthunt.com/@harryandriyan",
+            "expanded_url": "https://www.producthunt.com/@harryandriyan",
+            "indices": [
+              108,
+              131
+            ],
+            "url": "https://t.co/z6HnN6H743"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 696,
+    "isTranslator": false,
+    "mediaCount": 50,
+    "statusesCount": 1391,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2043252334676021445"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1055,
+          "name": "Software developer/Programmer/Software engineer"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1681156454047416320"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2039099761706549411",
+  "url": "https://x.com/DaraMiaoX/status/2039099761706549411",
+  "twitterUrl": "https://twitter.com/DaraMiaoX/status/2039099761706549411",
+  "text": "If you're a technical founder with a lean team, this is for you.\n\nI'm a freshman at USC Marshall who spent this year working across 3 startups as a growth PM:\n- designed agentic outbound pipelines from scratch\n- built a 20-person ambassador program driving 300+ new users in the 1st month\n- hosted fully sponsored events with founders & investors from YC, Thiel, and a16z\n- won a16z-sponsored USC hackathon by leading product and GTM\n\nThis summer I'm looking for one company to go all in on.\n\nSpecifically: a highly technical, lean team where I'd be one of the first non-engineering hires. Ideally, a startup doing something technically hard.\n\nNon-engineering doesn't mean non-technical. I build agents, and right now my edge is outbound automation. But I move across GTM, product marketing, partnerships, and community based on what the company needs. I don't fit into one lane.\n\nIf your team is mostly engineers and you want someone who will actually own the distribution side, I'd love to hear what you're working on.",
+  "fullText": "If you're a technical founder with a lean team, this is for you.\n\nI'm a freshman at USC Marshall who spent this year working across 3 startups as a growth PM:\n- designed agentic outbound pipelines from scratch\n- built a 20-person ambassador program driving 300+ new users in the",
+  "source": "Twitter Web App",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 11,
+  "quoteCount": 0,
+  "viewCount": 971,
+  "createdAt": "Tue Mar 31 21:57:22 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 4,
+  "isReply": false,
+  "conversationId": "2039099761706549411",
+  "author": {
+    "type": "user",
+    "userName": "DaraMiaoX",
+    "url": "https://x.com/DaraMiaoX",
+    "twitterUrl": "https://twitter.com/DaraMiaoX",
+    "id": "1981268989126082560",
+    "name": "Dara Miao",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2070979231761231872/Lz07reBw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1981268989126082560/1761206787",
+    "description": "working on autonomous robots @usc | prev. @mindfort @oasishq",
+    "location": "los angeles",
+    "followers": 699,
+    "following": 638,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 23 08:02:05 +0000 2025",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 439,
+    "isTranslator": false,
+    "mediaCount": 20,
+    "statusesCount": 222,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1981272278060146900"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2029333070118355056",
+  "url": "https://x.com/ShipAloneCEO/status/2029333070118355056",
+  "twitterUrl": "https://twitter.com/ShipAloneCEO/status/2029333070118355056",
+  "text": "last week i was ready to write a \"how openclaw killed my startup\" article\n\nany technical founder can wire agents together to do marketing tasks now\n\nbut after watching people actually try it, i'm more convinced than ever of aura's value\n\nbecause automation isn't the hard part\n\nit's knowing WHAT to automate",
+  "fullText": "last week i was ready to write a \"how openclaw killed my startup\" article\n\nany technical founder can wire agents together to do marketing tasks now\n\nbut after watching people actually try it, i'm more convinced than ever of aura's value\n\nbecause automation isn't the hard part",
+  "source": "Typefully",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 7,
+  "quoteCount": 0,
+  "viewCount": 147,
+  "createdAt": "Wed Mar 04 23:08:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2029333070118355056",
+  "author": {
+    "type": "user",
+    "userName": "ShipAloneCEO",
+    "url": "https://x.com/ShipAloneCEO",
+    "twitterUrl": "https://twitter.com/ShipAloneCEO",
+    "id": "1951095912228335621",
+    "name": "ShipAloneCEO",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1952184250498772992/X--xNaBN_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1951095912228335621/1776452168",
+    "description": "Building @Arrivlai - the analytics platform for AI traffic. Your website has visitors you've never met. Most of them aren't human.",
+    "location": "",
+    "followers": 730,
+    "following": 122,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 01 01:41:45 +0000 2025",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "arrivl.ai/?utm_source=Sh…",
+            "expanded_url": "https://arrivl.ai/?utm_source=ShipAloneCEOXprofile",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/pvi5OAmj3K"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 1072,
+    "isTranslator": false,
+    "mediaCount": 95,
+    "statusesCount": 4887,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2021791923158032885",
+  "url": "https://x.com/coopernicus01/status/2021791923158032885",
+  "twitterUrl": "https://twitter.com/coopernicus01/status/2021791923158032885",
+  "text": "Marketing has always been the hard part.\n\nEvery technical founder just thought their marketing team sucks.\n\nGoodnight.",
+  "fullText": "Marketing has always been the hard part.\n\nEvery technical founder just thought their marketing team sucks.\n\nGoodnight.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 30,
+  "likeCount": 101,
+  "quoteCount": 0,
+  "viewCount": 5897,
+  "createdAt": "Thu Feb 12 03:42:12 +0000 2026",
+  "lang": "en",
+  "quoteId": "2021547278222414334",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2021791923158032885",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "coopernicus01",
+    "url": "https://x.com/coopernicus01",
+    "twitterUrl": "https://twitter.com/coopernicus01",
+    "id": "1434633159275126786",
+    "name": "Coop⏱️",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2027099376384921600/0QyB31YO_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1434633159275126786/1785523605",
+    "description": "Previously @avalabs marketing, currently enjoying life",
+    "location": "USA",
+    "followers": 37103,
+    "following": 3768,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 05 21:43:10 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 495820,
+    "isTranslator": false,
+    "mediaCount": 6398,
+    "statusesCount": 148802,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2101466510716027249"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 15,
+          "name": "Entertainment & Recreation"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1590456087605559296"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2021547278222414334",
+    "text": "Building is easy now.\nMarketing is the hard part.",
+    "source": "Twitter for Android",
+    "retweetCount": 79,
+    "replyCount": 400,
+    "likeCount": 1014,
+    "quoteCount": 39,
+    "viewCount": 47245,
+    "createdAt": "Wed Feb 11 11:30:04 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 84,
+    "isPinned": false,
+    "author": {
+      "type": "user",
+      "userName": "pcshipp",
+      "url": "https://x.com/pcshipp",
+      "twitterUrl": "https://twitter.com/pcshipp",
+      "id": "1973067820507549696",
+      "name": "pc",
+      "isVerified": false,
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2008088181078704128/JpM1gBnX_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1973067820507549696/1767600386",
+      "description": "software engineer → building https://t.co/kwHB8yZD3y | coding is my hobby | cooking Mobile apps & Web apps",
+      "location": "",
+      "followers": 12541,
+      "following": 1243,
+      "protected": false,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Tue Sep 30 16:50:32 +0000 2025",
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "display_url": "pcships.com",
+              "expanded_url": "https://www.pcships.com",
+              "indices": [
+                29,
+                52
+              ],
+              "url": "https://t.co/kwHB8yZD3y"
+            }
+          ]
+        },
+        "url": {
+          "urls": [
+            {
+              "display_url": "pcships.com",
+              "expanded_url": "https://www.pcships.com",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/kwHB8yZD3y"
+            }
+          ]
+        }
+      },
+      "favouritesCount": 30366,
+      "isTranslator": false,
+      "mediaCount": 804,
+      "statusesCount": 16004,
+      "translatorTypeEnum": "none",
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2097670658042036682"
+      ],
+      "professional": {
+        "category": [],
+        "professional_type": "Creator",
+        "rest_id": "1973069600226156993"
+      }
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {}
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2021605778868552037",
+  "url": "https://x.com/thekenndubisi/status/2021605778868552037",
+  "twitterUrl": "https://twitter.com/thekenndubisi/status/2021605778868552037",
+  "text": "AI won’t replace everyone… yet.\n\nBut it will do something arguably worse.\n\nIt will take the people who already have an advantage - AND MAKE THEM UNTOUCHABLE.\n\nThis one is already happening.\n\nThink about it: the prompt a seasoned marketing expert types into Claude is not the same prompt Emeka types when he’s still figuring out what a funnel is. The output isn’t the same. The implementation isn’t the same. The results aren’t the same.\n\nA technical founder building with AI and Amaka launching her first website with AI are not having the same experience. They’re not even playing the same game.\n\nAnd the pricing gap makes it worse. I’m on the premium plan for almost every AI tool I use. What I can do in an hour, someone on the free tier can’t replicate in a day.\n\nThis is what people are missing: EFFORT IS BEING AMPLIFIED NOT REPLACED.\n\nThe hard worker is now producing like a team. The expert is now producing like an agency. The already-wealthy are compounding faster than ever.\n\nYou don’t notice it because it’s gradual. But gradual doesn’t mean slow - it means invisible until the gap is too wide to cross.\n\nAI isn’t coming for your job (yet)\n\nIt’s arming the people ahead of you with everything they need to make sure you never catch up.",
+  "fullText": "AI won’t replace everyone… yet.\n\nBut it will do something arguably worse.\n\nIt will take the people who already have an advantage - AND MAKE THEM UNTOUCHABLE.\n\nThis one is already happening.\n\nThink about it: the prompt a seasoned marketing expert types into Claude is not the same",
+  "source": "Twitter for iPhone",
+  "retweetCount": 7,
+  "replyCount": 6,
+  "likeCount": 43,
+  "quoteCount": 2,
+  "viewCount": 1942,
+  "createdAt": "Wed Feb 11 15:22:31 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 9,
+  "isReply": false,
+  "conversationId": "2021605778868552037",
+  "author": {
+    "type": "user",
+    "userName": "thekenndubisi",
+    "url": "https://x.com/thekenndubisi",
+    "twitterUrl": "https://twitter.com/thekenndubisi",
+    "id": "110801194",
+    "name": "Ken 🧙",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1777433079293878272/rLA3AbgH_normal.jpg",
+    "coverPicture": "",
+    "description": "📍toronto • 🇨🇦 MP, Naulage",
+    "location": "Toronto, Ontario",
+    "followers": 15934,
+    "following": 1044,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 02 20:39:06 +0000 2010",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "beacons.ai/thekenndubisi",
+            "expanded_url": "https://beacons.ai/thekenndubisi",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/Q3k8q4jJoA"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 29561,
+    "isTranslator": false,
+    "mediaCount": 439,
+    "statusesCount": 12198,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1041,
+          "name": "Digital Creator"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1659736120882614273"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2019722841814442002",
+  "url": "https://x.com/XRPLBagHolder/status/2019722841814442002",
+  "twitterUrl": "https://twitter.com/XRPLBagHolder/status/2019722841814442002",
+  "text": "Most XRPL projects have a dev.\nSome have marketing.\nAlmost none have a team.\n\n@LuckyHashWin / $LHT quietly assembled builders, revenue operators, distribution engines and legal from day one.\nThat’s why this feels different.\n👇🏼\n\nThis isn’t a vibes pivot. It’s a hard reset built for scale.\n\nAt the core is a live, provably fair product. Not a whitepaper. Not a promise. Real users, real volume, real XRPL-native mechanics.\n\nAround that core, the team is layered with intent:\n• Product & fairness handled by a technical founder who shipped before speaking\n• Revenue & VIP scale led by operators who’ve grown real-money gaming giants\n• Affiliate & performance growth designed to compound, not spike\n• Distribution & narrative discipline to keep the product visible week after week\n• Ecosystem credibility from someone who understands the XRPL at protocol level\n• Legal & compliance embedded early so growth doesn’t outrun reality\n\nThat combination is rare on XRPL.\nHonestly, it’s rare in crypto at all.\n\nMost teams bolt these pieces on later.\n@LuckyHashWin assembled them because the product already works.\n\nThis is how projects move from “interesting” to inevitable.\nNot louder hype.\nCleaner execution.\n\nA blockchainbuster team isn’t famous.\nIt’s complete.\n\nAnd the credits haven’t even started rolling yet. 🎬🐦‍🔥\n\n#LuckyHash #LHT #XRPL",
+  "fullText": "Most XRPL projects have a dev.\nSome have marketing.\nAlmost none have a team.\n\n@LuckyHashWin / $LHT quietly assembled builders, revenue operators, distribution engines and legal from day one.\nThat’s why this feels different.\n👇🏼\n\nThis isn’t a vibes pivot. It’s a hard reset built https://t.co/1BKhVaBN7l",
+  "source": "Twitter for Android",
+  "retweetCount": 15,
+  "replyCount": 2,
+  "likeCount": 36,
+  "quoteCount": 1,
+  "viewCount": 1215,
+  "createdAt": "Fri Feb 06 10:40:24 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2019722841814442002",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "XRPLBagHolder",
+    "url": "https://x.com/XRPLBagHolder",
+    "twitterUrl": "https://twitter.com/XRPLBagHolder",
+    "id": "1945788781983920128",
+    "name": "XRPLBagHolder",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2068463484870770688/tiMSwoWv_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1945788781983920128/1780342704",
+    "description": "🎁 FREE crypto plays & giveaways\n🐦‍🔥 $PHNIX | 🎮 https://t.co/D6tAQmdXNU\n🔔 Follow + notifications ON so you don't miss the next drop",
+    "location": "Ledger Realms",
+    "followers": 1749,
+    "following": 144,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 17 10:13:05 +0000 2025",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "LedgeRealms.com/?ref=1553C96E",
+            "expanded_url": "http://LedgeRealms.com/?ref=1553C96E",
+            "indices": [
+              47,
+              70
+            ],
+            "url": "https://t.co/D6tAQmdXNU"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "LuckyHash.win/?ref=JACKPOT",
+            "expanded_url": "http://LuckyHash.win?ref=JACKPOT",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/e5Nxosafgh"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 20514,
+    "isTranslator": false,
+    "mediaCount": 3464,
+    "statusesCount": 10283,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2103543876795412747"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/1BKhVaBN7l",
+        "expanded_url": "https://x.com/XRPLBagHolder/status/2019722841814442002/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "all": {
+            "tags": [
+              {
+                "name": "LuckyHash",
+                "screen_name": "LuckyHashWin",
+                "type": "user",
+                "user_id": "1919318494828437504"
+              },
+              {
+                "name": "CasinoCoin/LuckyHash 🪝",
+                "screen_name": "CasinoCoin",
+                "type": "user",
+                "user_id": "897206587747700740"
+              },
+              {
+                "name": "Daniel \"CEO of the XRPL\" Keller",
+                "screen_name": "daniel_wwf",
+                "type": "user",
+                "user_id": "225796913"
+              },
+              {
+                "name": "Marek 🪝🏴‍☠️",
+                "screen_name": "MarekTam4",
+                "type": "user",
+                "user_id": "1519261985480794113"
+              },
+              {
+                "name": "Hashcashcow",
+                "screen_name": "hashcashcow",
+                "type": "user",
+                "user_id": "2013565778977603584"
+              },
+              {
+                "name": "🦋Jenna",
+                "screen_name": "JennaXCrypto",
+                "type": "user",
+                "user_id": "1384140279846903811"
+              },
+              {
+                "name": "Jack",
+                "screen_name": "RealQuadJacks",
+                "type": "user",
+                "user_id": "2014337618222473216"
+              }
+            ]
+          },
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2019722838605697024",
+        "indices": [
+          278,
+          301
+        ],
+        "media_key": "3_2019722838605697024",
+        "media_results": {
+          "result": {
+            "media_key": "3_2019722838605697024"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HAd_OIPWEAAlw27.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 573,
+              "w": 1024,
+              "x": 0,
+              "y": 451
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 898,
+              "x": 88,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 512,
+              "x": 281,
+              "y": 0
+            },
+            {
+              "h": 1024,
+              "w": 1024,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 1024,
+          "width": 1024
+        },
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/1BKhVaBN7l"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          1312,
+          1322
+        ],
+        "text": "LuckyHash"
+      },
+      {
+        "indices": [
+          1323,
+          1327
+        ],
+        "text": "LHT"
+      },
+      {
+        "indices": [
+          1328,
+          1333
+        ],
+        "text": "XRPL"
+      }
+    ],
+    "symbols": [
+      {
+        "indices": [
+          94,
+          98
+        ],
+        "tag": {
+          "info": {}
+        },
+        "text": "LHT"
+      }
+    ],
+    "timestamps": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "1919318494828437504",
+        "indices": [
+          78,
+          91
+        ],
+        "name": "LuckyHash",
+        "screen_name": "LuckyHashWin"
+      },
+      {
+        "id_str": "1919318494828437504",
+        "indices": [
+          1040,
+          1053
+        ],
+        "name": "LuckyHash",
+        "screen_name": "LuckyHashWin"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HAd_OIPWEAAlw27.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2019063785806315696",
+  "url": "https://x.com/JaredSleeper/status/2019063785806315696",
+  "twitterUrl": "https://twitter.com/JaredSleeper/status/2019063785806315696",
+  "text": "Every day for the next long while, I'm going to tear down a new public software company and highlight the AI risks/opportunities around it- products launched to date, top startups, key quotes from earnings calls, etc.\n\nDay two, HubSpot:\n\nPeak share price: $841 (November 12th, 2021)\nShare price today: $232 (-72%)\nEV today: $ 10.9bn\nARR today: $3.2bn (+21% Y/y)\nNRR: 103%\nEV/ARR: 3.4x\nGAAP Operating Margin: 1.4%\nEV/Run-rate GAAP EBIT: 243x\nHeadcount: 12,234 (+21% Y/y)\n\nAI bear case:\n\nAI-native CRM/marketing automation startups that are natively built around agents as users disrupt HubSpot's core businesses as the value of HubSpot's UI dissipates. GTM moves to something more automated/mechanized vs. being a human endeavor. Seat count declines as AI automates sales/marketing jobs, which leads to secular pressure.\n\nAI bull case:\n\nAI-native CRM companies are still operating off of the same primitives (building GUIs, etc.). HubSpot has a broad platform (Martech, Support, CRM) which will drive  customer stickiness. HubSpot's team is world class, including technical founder @dharmesh, and will keep the company at the cutting edge of agent adoption. SMB customers are much less likely to vibecode their tools than enterprise customers.\n\nAI traction:\n\nNon-disclosed, but business has re-accelerated for the last two quarters and is layering in AI usage credits.\n\nAdjacent startup summary:\n\nClay- 1090 employees, +77% (not directly competitive)\nUnify- 191 employees, +195%\nAttio- 142 employees, +80%\nReevo- 98 employees, +250%\nClarify- 35 employees, +150%\nRox- 76 employees, +192%\n\nManagement Quotes:\n\n\"As I shared last quarter, we expect to see a step-up in net revenue retention in Q4, resulting in a couple of point improvement in net revenue retention for the full year of 2025\"\n\n\"Customer agent now has over 6,200 customers, up 48% from last quarter with an average resolution rate in the 60s. Prospecting agents has been activated by 6,400 customers, up 94% from last quarter, and customers have used it to engage over 1 million prospects.\"\n\n\"And specifically, with AI, we see the opportunity to monetize both through seats as well as credits. Now core seats, which we talked about at Analyst Day, it is becoming more valuable, and it is embedded with AI data platform value, and that opens up a large opportunity. credits gives us a new way to monetize usage for customers as they consume more AI and agent-driven actions.\"\n\nAdditional Commentary:\n\nPrima facie, HubSpot was very well situated in a maturing SaaS market given its status as a consolidating platform spanning marketing, sales and CX. Given that, it's hard to argue that any one startup is effectively challenging the core business. Mid-market positioning makes it less likely that customers will internally build their own applications. The key question for HubSpot is whether white collar/marketing/sales work is automated writ large by agents in a way that elminates the need for software entirely, especially if HubSpot loses that market to an upstart.",
+  "fullText": "Every day for the next long while, I'm going to tear down a new public software company and highlight the AI risks/opportunities around it- products launched to date, top startups, key quotes from earnings calls, etc.\n\nDay two, HubSpot:\n\nPeak share price: $841 (November 12th,",
+  "source": "Twitter Web App",
+  "retweetCount": 2,
+  "replyCount": 14,
+  "likeCount": 112,
+  "quoteCount": 4,
+  "viewCount": 25311,
+  "createdAt": "Wed Feb 04 15:01:33 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 94,
+  "isReply": false,
+  "conversationId": "2019063785806315696",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "JaredSleeper",
+    "url": "https://x.com/JaredSleeper",
+    "twitterUrl": "https://twitter.com/JaredSleeper",
+    "id": "400330703",
+    "name": "Jared Sleeper",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1571611267755909121/HtgVdRPe_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/400330703/1748572164",
+    "description": "Partner at Avenir, where I invest in startups.\n\nHere to bring some analytical irreverence, while trying to add a little information to the world.\n\nViews my own.",
+    "location": "NYC",
+    "followers": 20533,
+    "following": 1884,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 28 21:24:41 +0000 2011",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "sleeperthoughts.com",
+            "expanded_url": "http://sleeperthoughts.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/bLdzQ65Xqo"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 13827,
+    "isTranslator": false,
+    "mediaCount": 495,
+    "statusesCount": 3878,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2099693623642124297"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "14260608",
+        "indices": [
+          1081,
+          1090
+        ],
+        "name": "dharmesh",
+        "screen_name": "dharmesh"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2013158750237098131",
+  "url": "https://x.com/terzi_federico/status/2013158750237098131",
+  "twitterUrl": "https://twitter.com/terzi_federico/status/2013158750237098131",
+  "text": "Technical founder learning Marketing 101\n\nI've learned the hard way how important it is to be more active on socials if you're trying to grow a product. I've had several users reach out to me after going through this flow:\n\n1. Hear about my product either from friends or online\n2. Check out the product X or Linkedin page\n3. See that the last post was 1/2 months ago\n4. Assume that the product is abandoned and leave\n\nEven though we ship new features almost every week, most users only glance at the social media pages and don't check the changelog on the website.\n\nSounds so obvious and yet it took me more than a year to figure out",
+  "fullText": "Technical founder learning Marketing 101\n\nI've learned the hard way how important it is to be more active on socials if you're trying to grow a product. I've had several users reach out to me after going through this flow:\n\n1. Hear about my product either from friends or online https://t.co/W9Iw0XpGsw",
+  "source": "Typefully",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 10,
+  "quoteCount": 0,
+  "viewCount": 214,
+  "createdAt": "Mon Jan 19 07:57:03 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2013158750237098131",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "terzi_federico",
+    "url": "https://x.com/terzi_federico",
+    "twitterUrl": "https://twitter.com/terzi_federico",
+    "id": "1137782665048993792",
+    "name": "Federico Terzi",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1479929014773035016/NgFvSD9W_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1137782665048993792/1661619714",
+    "description": "Founder @BorumiHQ - Creator of https://t.co/7T3833odPi - Software Engineer - Occasional Blogger and YouTuber",
+    "location": "Sweden",
+    "followers": 1349,
+    "following": 226,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 09 18:05:01 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "espanso.org",
+            "expanded_url": "http://espanso.org",
+            "indices": [
+              31,
+              54
+            ],
+            "url": "https://t.co/7T3833odPi"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "federicoterzi.com",
+            "expanded_url": "https://federicoterzi.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/bjEtPyFZF3"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 1156,
+    "isTranslator": false,
+    "mediaCount": 48,
+    "statusesCount": 461,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1987601458405978221"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "display_url": "pic.x.com/W9Iw0XpGsw",
+        "expanded_url": "https://x.com/terzi_federico/status/2013158750237098131/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2013158747930279936",
+        "indices": [
+          279,
+          302
+        ],
+        "media_key": "3_2013158747930279936",
+        "media_results": {
+          "result": {
+            "media_key": "3_2013158747930279936"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/G_AtNw7awAAVveZ.png",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 222,
+              "w": 396,
+              "x": 143,
+              "y": 0
+            },
+            {
+              "h": 222,
+              "w": 222,
+              "x": 252,
+              "y": 0
+            },
+            {
+              "h": 222,
+              "w": 195,
+              "x": 266,
+              "y": 0
+            },
+            {
+              "h": 222,
+              "w": 111,
+              "x": 308,
+              "y": 0
+            },
+            {
+              "h": 222,
+              "w": 539,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 222,
+          "width": 539
+        },
+        "sizes": {
+          "large": {
+            "h": 222,
+            "resize": "fit",
+            "w": 539
+          },
+          "medium": {
+            "h": 222,
+            "resize": "fit",
+            "w": 539
+          },
+          "small": {
+            "h": 222,
+            "resize": "fit",
+            "w": 539
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/W9Iw0XpGsw"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/G_AtNw7awAAVveZ.png"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2005000337376350504",
+  "url": "https://x.com/mal_shaik/status/2005000337376350504",
+  "twitterUrl": "https://twitter.com/mal_shaik/status/2005000337376350504",
+  "text": "bismillah,\n\nif ur a young technical founder, \n\ni really do think most of your time should be spent on marketing.\n\nthis is advise i wish i heard starting out.\n\nsince u already have technical skills, you should overcorrect for marketing skills\n\nthe development of ur application should be the easy part not the hard part.\n\nyou should be able to make the mvp of your application in weeks not months. \n\ninstead you should spend the months after launch, (and before launch) marketing more than developing.\n\nthis way you train up ur marketing skills such that in the future, if you wanna tackle a bigger problem, \n\nyou can be confident that you will not only be able to develop it but also get eyeballs and sales to the product.\n\nthis might be a hot take idk but its something i really do believe in.\n\nif u read this far, thanks lmao 🫶",
+  "fullText": "bismillah,\n\nif ur a young technical founder, \n\ni really do think most of your time should be spent on marketing.\n\nthis is advise i wish i heard starting out.\n\nsince u already have technical skills, you should overcorrect for marketing skills\n\nthe development of ur application",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 26,
+  "likeCount": 79,
+  "quoteCount": 0,
+  "viewCount": 4180,
+  "createdAt": "Sat Dec 27 19:38:26 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 16,
+  "isReply": false,
+  "conversationId": "2005000337376350504",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "mal_shaik",
+    "url": "https://x.com/mal_shaik",
+    "twitterUrl": "https://twitter.com/mal_shaik",
+    "id": "1771822597925208064",
+    "name": "mal",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1948339267106750464/v8Xq9AWH_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1771822597925208064/1753304744",
+    "description": "co-founder @wespreadjam | agents that get u customers | alhamdulilah",
+    "location": "sf | spread like jam →",
+    "followers": 7579,
+    "following": 595,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 24 08:53:36 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "spreadjam.com",
+            "expanded_url": "http://spreadjam.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/qwYfEmoU3K"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 16988,
+    "isTranslator": false,
+    "mediaCount": 601,
+    "statusesCount": 11621,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2090114820557209844"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2004640097686224967",
+  "url": "https://x.com/WillLovesNoCode/status/2004640097686224967",
+  "twitterUrl": "https://twitter.com/WillLovesNoCode/status/2004640097686224967",
+  "text": "2025 Wrapped: Lessons learned from a year of making mistakes and trying to learn from them👇\n\n1. Good IX/UI is harder than working code, because users are irrational.  \n\n2. Write your own social media copy.  Don’t just copy-paste AI slop and expect fame and fortune.  \n\n3. It’s OK to refuse to work with nasty  people. \n\n4. You don’t need to raise VC to build good software.\n\n5. Build a personal brand.  Having a strong personal brand beats a $1,000,000 marketing budget.  \n\n6. Build and write for an audience of people you like.\n\n7. Bootstrapping can be a superpower.  But only if you know the art form. \n\n8. Statistically, VC’s are counting on your startup to fail.  You deserve better.  \n\n9. Kill passion projects if they’re distracting you from bigger and better things.  \n\n10. Capture social proof when the happy moments occur.  If you wait, it’s too late.\n\n11. Don’t overthink your stack.  NoCode and AI coding tools can take you from MVP to launch if you learn to use them properly.\n\n12. If you’re feeling stuck, take a walk.   Breathe.  Put your phone away.  \n\n13. E-mail is dead.  Please don’t email me if you actually want something.  \n\n14. Success is a vector.  Both speed and direction matter.   \n\n15. Build simple tools that solve your own pains and problems.  \n\n16. Perfection is a trap. Shipping and distribution count more. So ship ugly product. Then fix what users complain about.\n\n17. It’s not a failure if you learned from the experience.  Failure is doing the same dumb thing over and over and expecting different results.  \n\n18. Inaction is fear in disguise.  Or laziness. But usually fear.  \n\n19. Let’s be real: you’re not building the next https://t.co/hJJLvL1qKd.  Also, that doesn’t matter.  Just be honest and humble about what you’re building.  \n\n20. Set your iPhone to greyscale if you spend too much time on it.   And you probably do.  \n\n21. Ideas are cheap, and software is easy to build.  But it’s hard to build, launch and grow a real business.  \n\n22. User feedback that is both real and actionable is hard to acquire.  \n\n23. “Learn by doing” really means “learn from your mistakes.”  So don’t be afraid of making them.  \n\n24. The body does not recover without rest.   Nor does the mind.  But you’ve got to work pretty hard to deserve rest of either kind.  \n\nIf you’re a bootstrapped, solo, and/or non-technical founder or business owner, and this resonated, let’s chat in the new year. \n\n✌️😎\n\n~Will\n\n#buildinpublic #bootstrapped #solofounder #indiehackers #founderlife #startuplessons #entrepreneurmindset #shipit #mvp #nocode #aicoding #saasfounder #productdesign #uxui #personalbrand #distribution #gtm #seo #contentmarketing #learnbydoing #failforward #businessownership #smallbusiness #creatorfounder #startuplife",
+  "fullText": "2025 Wrapped: Lessons learned from a year of making mistakes and trying to learn from them👇\n\n1. Good IX/UI is harder than working code, because users are irrational.  \n\n2. Write your own social media copy.  Don’t just copy-paste AI slop and expect fame and fortune.  \n\n3. It’s OK",
+  "source": "Twitter for iPhone",
+  "retweetCount": 2,
+  "replyCount": 1,
+  "likeCount": 7,
+  "quoteCount": 0,
+  "viewCount": 641,
+  "createdAt": "Fri Dec 26 19:46:58 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 2,
+  "isReply": false,
+  "conversationId": "2004640097686224967",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "WillLovesNoCode",
+    "url": "https://x.com/WillLovesNoCode",
+    "twitterUrl": "https://twitter.com/WillLovesNoCode",
+    "id": "1534246816258002944",
+    "name": "Will Hawkins 🚀",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1666198943125110784/DS1QroJ6_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1534246816258002944/1790275868",
+    "description": "@founderschoolhq for solo founders trying to bootstrap profitable web apps.",
+    "location": "Portland, OR",
+    "followers": 2059,
+    "following": 584,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 07 18:52:12 +0000 2022",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "founderschool.dev/?utm_source=x&…",
+            "expanded_url": "https://founderschool.dev/?utm_source=x&utm_medium=profile",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/YaJmXl9ONn"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 6314,
+    "isTranslator": false,
+    "mediaCount": 134,
+    "statusesCount": 2119,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2085394976763244830"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 714,
+          "name": "Technology Company"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1534248495116218368"
+    }
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/hJJLvL1qKd"
+  },
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          2432,
+          2446
+        ],
+        "text": "buildinpublic"
+      },
+      {
+        "indices": [
+          2447,
+          2460
+        ],
+        "text": "bootstrapped"
+      },
+      {
+        "indices": [
+          2461,
+          2473
+        ],
+        "text": "solofounder"
+      },
+      {
+        "indices": [
+          2474,
+          2487
+        ],
+        "text": "indiehackers"
+      },
+      {
+        "indices": [
+          2488,
+          2500
+        ],
+        "text": "founderlife"
+      },
+      {
+        "indices": [
+          2501,
+          2516
+        ],
+        "text": "startuplessons"
+      },
+      {
+        "indices": [
+          2517,
+          2537
+        ],
+        "text": "entrepreneurmindset"
+      },
+      {
+        "indices": [
+          2538,
+          2545
+        ],
+        "text": "shipit"
+      },
+      {
+        "indices": [
+          2546,
+          2550
+        ],
+        "text": "mvp"
+      },
+      {
+        "indices": [
+          2551,
+          2558
+        ],
+        "text": "nocode"
+      },
+      {
+        "indices": [
+          2559,
+          2568
+        ],
+        "text": "aicoding"
+      },
+      {
+        "indices": [
+          2569,
+          2581
+        ],
+        "text": "saasfounder"
+      },
+      {
+        "indices": [
+          2582,
+          2596
+        ],
+        "text": "productdesign"
+      },
+      {
+        "indices": [
+          2597,
+          2602
+        ],
+        "text": "uxui"
+      },
+      {
+        "indices": [
+          2603,
+          2617
+        ],
+        "text": "personalbrand"
+      },
+      {
+        "indices": [
+          2618,
+          2631
+        ],
+        "text": "distribution"
+      },
+      {
+        "indices": [
+          2632,
+          2636
+        ],
+        "text": "gtm"
+      },
+      {
+        "indices": [
+          2637,
+          2641
+        ],
+        "text": "seo"
+      },
+      {
+        "indices": [
+          2642,
+          2659
+        ],
+        "text": "contentmarketing"
+      },
+      {
+        "indices": [
+          2660,
+          2673
+        ],
+        "text": "learnbydoing"
+      },
+      {
+        "indices": [
+          2674,
+          2686
+        ],
+        "text": "failforward"
+      },
+      {
+        "indices": [
+          2687,
+          2705
+        ],
+        "text": "businessownership"
+      },
+      {
+        "indices": [
+          2706,
+          2720
+        ],
+        "text": "smallbusiness"
+      },
+      {
+        "indices": [
+          2721,
+          2736
+        ],
+        "text": "creatorfounder"
+      },
+      {
+        "indices": [
+          2737,
+          2749
+        ],
+        "text": "startuplife"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "Amazon.com",
+        "expanded_url": "http://Amazon.com",
+        "indices": [
+          1662,
+          1685
+        ],
+        "url": "https://t.co/hJJLvL1qKd"
+      }
+    ],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2001979526893687097",
+  "url": "https://x.com/firecaffeine/status/2001979526893687097",
+  "twitterUrl": "https://twitter.com/firecaffeine/status/2001979526893687097",
+  "text": "How to do reach outs as a technical founder?\n\nIn a day, we got an enterprise paying customer for our platform (a YC backed company).\n\nAs a hardcore tech guy who likes to stay in silence, draw diagrams, and write code, reaching out people and asking them to checkout your product and converge felt very hard.\n\nMy cofounder, a marketing expert, gave me a step by step process.\n\nFirst of all, we had an ideal ICP in your mind.\n\nFor us, it was B2B founders working on enterprise software solutions.\n\nWe went on LinkedIn profiles of each founders, and messaged them with a nice greeting message, not sales but asking for insights and some look into the product.\n\nWe did this with almost 30 founders (which is less but my LinkedIn got frozen after that)\n\nWe got 2 responses, of which, one was interested and schedule a call right away.\n\nIn 1 hour, we talked with him and closed at the same moment. \n\nAgain, a good product makes marketing much easier. \n\nWhat we are doing right now? \n\nWe follow up consistently, after 2-3 days intervals, because these are busy founders and getting your message buried under a lot of DMs is very easy. \n\nSo showing up and asking 2-3 follow ups is necessary.\n\nNobody owes you anything that they will get back to you in one attempt.\n\nAlso, using tools like Google Sheets is enough to set up a systematic routine.\n\nPS. I share my learning on the way which I learn as a technical founder. I have an awesome marketing cofounder and she helps me a lot while understanding these concepts, which I think a lot of technical nerds need. These might be simple processes for some people but I'm sure it will help some people.",
+  "fullText": "How to do reach outs as a technical founder?\n\nIn a day, we got an enterprise paying customer for our platform (a YC backed company).\n\nAs a hardcore tech guy who likes to stay in silence, draw diagrams, and write code, reaching out people and asking them to checkout your product",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 6,
+  "quoteCount": 1,
+  "viewCount": 310,
+  "createdAt": "Fri Dec 19 11:34:48 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2001979526893687097",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "firecaffeine",
+    "url": "https://x.com/firecaffeine",
+    "twitterUrl": "https://twitter.com/firecaffeine",
+    "id": "1912492415899914240",
+    "name": "`A̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍ditya Patil",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2078121528408076289/0TXTEaeo_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1912492415899914240/1782936747",
+    "description": "SWE @ Remix (YC'W26) / EF'25 / GSoC’25 @ Emory BMI",
+    "location": "`A̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍̍`A̍̍̍̍̍̍",
+    "followers": 143,
+    "following": 123,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 16 13:05:23 +0000 2025",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "justaditya.com",
+            "expanded_url": "http://justaditya.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/gkHJOI6IXK"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 436,
+    "isTranslator": false,
+    "mediaCount": 115,
+    "statusesCount": 963,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2078037616029770191"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1934143387793518843"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2100566531688010200",
+  "url": "https://x.com/lisaknowsai/status/2100566531688010200",
+  "twitterUrl": "https://twitter.com/lisaknowsai/status/2100566531688010200",
+  "text": "Ask any indie founder what killed their launch momentum. It's never the code.\n\nIt's tax registration, invoice templates, compliance forms the work nobody signed up for. Creem 2.0 handles all of it so you go straight from built to paid.\n\n0% fees on your first $10k, today only. September 17.",
+  "fullText": "Ask any indie founder what killed their launch momentum. It's never the code.\n\nIt's tax registration, invoice templates, compliance forms the work nobody signed up for. Creem 2.0 handles all of it so you go straight from built to paid.\n\n0% fees on your first $10k, today only.",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 2,
+  "likeCount": 8,
+  "quoteCount": 0,
+  "viewCount": 1256,
+  "createdAt": "Thu Sep 17 12:44:22 +0000 2026",
+  "lang": "en",
+  "quoteId": "2100479871466020889",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2100566531688010200",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "lisaknowsai",
+    "url": "https://x.com/lisaknowsai",
+    "twitterUrl": "https://twitter.com/lisaknowsai",
+    "id": "1937957804024676352",
+    "name": "lis",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2096335548709249033/zhhTXwhi_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1937957804024676352/1788640330",
+    "description": "girl boss @aiscwork. launch strategist + sales",
+    "location": "sf",
+    "followers": 28903,
+    "following": 225,
+    "protected": false,
+    "status": "",
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 25 19:35:32 +0000 2025",
+    "entities": {
+      "description": {}
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2449,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "mediaCount": 241,
+    "statusesCount": 1198,
+    "affiliatesHighlightedLabel": {
+      "label": {
+        "badge": {
+          "url": "https://pbs.twimg.com/profile_images/2067931434296176640/jDqRtitD_bigger.jpg"
+        },
+        "description": "Humalike",
+        "url": {
+          "url": "https://twitter.com/humalike",
+          "urlType": "DeepLink"
+        },
+        "userLabelDisplayType": "Badge",
+        "userLabelType": "BusinessLabel"
+      }
+    },
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2096336968963776946"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "2100479871466020889",
+    "text": "Building a product went from months to a weekend. Getting paid for it did not. \n\nBuilding is fast, marketing and growth are hard.\n\nToday we fix that. \nWe are excited to announce CREEM 2.0 and that we have raised 7M EUR in total funding\n\n@ProductHunt launch and details below 👇 https://t.co/kbd08wfdBi",
+    "source": "Twitter Web App",
+    "retweetCount": 124,
+    "replyCount": 77,
+    "likeCount": 659,
+    "quoteCount": 46,
+    "viewCount": 1566621,
+    "createdAt": "Thu Sep 17 07:00:01 +0000 2026",
+    "lang": "en",
+    "bookmarkCount": 298,
+    "possiblySensitive": false,
+    "isPinned": true,
+    "author": {
+      "type": "user",
+      "userName": "creem_io",
+      "url": "https://x.com/creem_io",
+      "twitterUrl": "https://twitter.com/creem_io",
+      "id": "1831645094140637184",
+      "name": "Creem 🍦",
+      "isVerified": false,
+      "verifiedType": "Business",
+      "isBlueVerified": true,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2003816759975944192/3C1xR6B8_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1831645094140637184/1771531027",
+      "description": "Creem is the all-in-one platform where software companies run payments, taxes, affiliates and revenue - together\n\nFinance for humans building online",
+      "location": "Learn more  👉",
+      "followers": 5493,
+      "following": 0,
+      "protected": false,
+      "status": "",
+      "canDm": true,
+      "canMediaTag": true,
+      "createdAt": "Thu Sep 05 10:46:52 +0000 2024",
+      "entities": {
+        "description": {},
+        "url": {
+          "urls": [
+            {
+              "display_url": "creem.io",
+              "expanded_url": "https://www.creem.io",
+              "indices": [
+                0,
+                23
+              ],
+              "url": "https://t.co/6crcbIJnlx"
+            }
+          ]
+        }
+      },
+      "fastFollowersCount": 0,
+      "favouritesCount": 2827,
+      "hasCustomTimelines": false,
+      "isTranslator": false,
+      "mediaCount": 132,
+      "statusesCount": 1666,
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false,
+      "pinnedTweetIds": [
+        "2100479871466020889"
+      ]
+    },
+    "extendedEntities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/kbd08wfdBi",
+          "expanded_url": "https://x.com/creem_io/status/2100479871466020889/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2100396031905030144",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "13_2100396031905030144",
+          "media_results": {
+            "result": {
+              "media_key": "13_2100396031905030144"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2100396031905030144/img/ICtwYlAnLDs2jTZA.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 2160,
+            "width": 3840
+          },
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/kbd08wfdBi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 158520,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/pl/BT5N5YVbjlkbHYla.m3u8?tag=29&v=a5c"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/480x270/CqleCmD9hpptH5IA.mp4?tag=29"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/640x360/tjwA3lb4tmbbNi63.mp4?tag=29"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/1280x720/DkmeGBky_uw7EfaP.mp4?tag=29"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/1920x1080/nGoCaCTfpgs_r2_X.mp4?tag=29"
+              },
+              {
+                "bitrate": 25128000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/3840x2160/WJwJrcuXAa1iJ9h2.mp4?tag=29"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "card": {},
+    "place": {},
+    "entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "allow_download_status": {
+            "allow_download": true
+          },
+          "display_url": "pic.x.com/kbd08wfdBi",
+          "expanded_url": "https://x.com/creem_io/status/2100479871466020889/video/1",
+          "ext_media_availability": {
+            "status": "Available"
+          },
+          "id_str": "2100396031905030144",
+          "indices": [
+            277,
+            300
+          ],
+          "media_key": "13_2100396031905030144",
+          "media_results": {
+            "result": {
+              "media_key": "13_2100396031905030144"
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/2100396031905030144/img/ICtwYlAnLDs2jTZA.jpg",
+          "original_info": {
+            "focus_rects": [],
+            "height": 2160,
+            "width": 3840
+          },
+          "sizes": {
+            "large": {
+              "h": 1152,
+              "resize": "fit",
+              "w": 2048
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/kbd08wfdBi",
+          "video_info": {
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "duration_millis": 158520,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/pl/BT5N5YVbjlkbHYla.m3u8?tag=29&v=a5c"
+              },
+              {
+                "bitrate": 256000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/480x270/CqleCmD9hpptH5IA.mp4?tag=29"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/640x360/tjwA3lb4tmbbNi63.mp4?tag=29"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/1280x720/DkmeGBky_uw7EfaP.mp4?tag=29"
+              },
+              {
+                "bitrate": 10368000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/1920x1080/nGoCaCTfpgs_r2_X.mp4?tag=29"
+              },
+              {
+                "bitrate": 25128000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/2100396031905030144/vid/avc1/3840x2160/WJwJrcuXAa1iJ9h2.mp4?tag=29"
+              }
+            ]
+          }
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "2208027565",
+          "indices": [
+            237,
+            249
+          ],
+          "name": "Product Hunt 😸",
+          "screen_name": "ProductHunt"
+        }
+      ]
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2097849230996218081",
+  "url": "https://x.com/daino0416/status/2097849230996218081",
+  "twitterUrl": "https://twitter.com/daino0416/status/2097849230996218081",
+  "text": "I distilled 50 of Paul Graham(@paulg)'s most important startup essays into a single AI advisor skill.\n\nAsk it anything — \"should I pivot?\", \"how do I get my first users?\", \"I want to quit\" — and it pulls the right PG frameworks, quotes, and original essay links.\n\n12 categories: • Idea validation • Early growth • Survival & pivoting • Fundraising • Motivation & willpower • Competition • Product decisions • Scaling • Life philosophy • People & hiring • Execution • Productivity\n\nOpen source. Works with any AI tool. Link in reply 👇",
+  "fullText": "I distilled 50 of Paul Graham(@paulg)'s most important startup essays into a single AI advisor skill.\n\nAsk it anything — \"should I pivot?\", \"how do I get my first users?\", \"I want to quit\" — and it pulls the right PG frameworks, quotes, and original essay links.\n\n12 categories:",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 92,
+  "createdAt": "Thu Sep 10 00:46:47 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2097849230996218081",
+  "author": {
+    "type": "user",
+    "userName": "daino0416",
+    "url": "https://x.com/daino0416",
+    "twitterUrl": "https://twitter.com/daino0416",
+    "id": "2065309123445772288",
+    "name": "Daino",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2084901729603358720/X9-RcUg__normal.jpg",
+    "coverPicture": "",
+    "description": "Helping founders get their users.\nBuilding @usegtmatic and @usescribo public.",
+    "location": "San Fransisco, United States",
+    "followers": 18,
+    "following": 75,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 12 05:44:29 +0000 2026",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "daino.space",
+            "expanded_url": "https://daino.space",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/7onGmJO7fU"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 38,
+    "isTranslator": false,
+    "mediaCount": 18,
+    "statusesCount": 41,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 958,
+          "name": "Entrepreneur"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "2069561257183846787"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id_str": "183749519",
+        "indices": [
+          30,
+          36
+        ],
+        "name": "Paul Graham",
+        "screen_name": "paulg"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2092940811495506277",
+  "url": "https://x.com/Voha2303/status/2092940811495506277",
+  "twitterUrl": "https://twitter.com/Voha2303/status/2092940811495506277",
+  "text": "🚀 Check this out: \"First time building a SaaS, how do I get my first users? 😅 Hi guys, I don&amp;#39;t know what to say or...\" #Tech #Viral https://t.co/lyfqHTatAg",
+  "fullText": "🚀 Check this out: \"First time building a SaaS, how do I get my first users? 😅 Hi guys, I don&amp;#39;t know what to say or...\" #Tech #Viral https://t.co/lyfqHTatAg",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 5,
+  "likeCount": 2,
+  "quoteCount": 1,
+  "viewCount": 205,
+  "createdAt": "Thu Aug 27 11:42:29 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2092940811495506277",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Voha2303",
+    "url": "https://x.com/Voha2303",
+    "twitterUrl": "https://twitter.com/Voha2303",
+    "id": "1434907889135599617",
+    "name": "VoHa | mocmien",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1434908740726116357/VeoTotoV_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1434907889135599617/1696611753",
+    "description": "Content Creator |\nSaaS B2B Project Ambassadors |\nAI Tool Support |\nCollabs: tinhkhuat181@gmail.com | Some links are affiliate 💙\nAirdrop/Retroactive",
+    "location": "",
+    "followers": 5953,
+    "following": 4652,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 06 15:54:43 +0000 2021",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 5549,
+    "isTranslator": false,
+    "mediaCount": 1141,
+    "statusesCount": 10494,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1998420384354640355"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/lyfqHTatAg",
+        "expanded_url": "https://x.com/Voha2303/status/2092940811495506277/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2092940249496432642",
+        "indices": [
+          140,
+          163
+        ],
+        "media_key": "3_2092940249496432642",
+        "media_results": {
+          "result": {
+            "media_key": "3_2092940249496432642"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HQueEWtaMAI_uQs.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 672,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 675,
+              "x": 113,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 592,
+              "x": 154,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 338,
+              "x": 281,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 675,
+          "width": 1200
+        },
+        "sizes": {
+          "large": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/lyfqHTatAg"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          127,
+          132
+        ],
+        "text": "Tech"
+      },
+      {
+        "indices": [
+          133,
+          139
+        ],
+        "text": "Viral"
+      }
+    ],
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/lyfqHTatAg",
+        "expanded_url": "https://x.com/Voha2303/status/2092940811495506277/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": []
+          },
+          "medium": {
+            "faces": []
+          },
+          "orig": {
+            "faces": []
+          },
+          "small": {
+            "faces": []
+          }
+        },
+        "id_str": "2092940249496432642",
+        "indices": [
+          140,
+          163
+        ],
+        "media_key": "3_2092940249496432642",
+        "media_results": {
+          "result": {
+            "media_key": "3_2092940249496432642"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/HQueEWtaMAI_uQs.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 672,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 675,
+              "x": 113,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 592,
+              "x": 154,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 338,
+              "x": 281,
+              "y": 0
+            },
+            {
+              "h": 675,
+              "w": 1200,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 675,
+          "width": 1200
+        },
+        "sizes": {
+          "large": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "medium": {
+            "h": 675,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 383,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/lyfqHTatAg"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/HQueEWtaMAI_uQs.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2082956304641819028",
+  "url": "https://x.com/LolitoDev/status/2082956304641819028",
+  "twitterUrl": "https://twitter.com/LolitoDev/status/2082956304641819028",
+  "text": "Every time I started a new project, I had to answer the same question:\n\n\"How do I get my first users?\"\n\nI'm tired of solving that problem from scratch every time.",
+  "fullText": "Every time I started a new project, I had to answer the same question:\n\n\"How do I get my first users?\"\n\nI'm tired of solving that problem from scratch every time.",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 125,
+  "createdAt": "Thu Jul 30 22:27:37 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2082956304641819028",
+  "author": {
+    "type": "user",
+    "userName": "LolitoDev",
+    "url": "https://x.com/LolitoDev",
+    "twitterUrl": "https://twitter.com/LolitoDev",
+    "id": "2016560501283536896",
+    "name": "lolito",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2016561352567885824/QCnbR6cw_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/2016560501283536896/1769628566",
+    "description": "Laravel • AI • Mobile Apps\nSharing my journey from developer to entrepreneur.",
+    "location": "",
+    "followers": 974,
+    "following": 1066,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 28 17:15:27 +0000 2026",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 3978,
+    "isTranslator": false,
+    "mediaCount": 457,
+    "statusesCount": 2535,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2073012088625156211",
+  "url": "https://x.com/Sherifdeenolat2/status/2073012088625156211",
+  "twitterUrl": "https://twitter.com/Sherifdeenolat2/status/2073012088625156211",
+  "text": "How do I get my first users after spending way to much time building my product?",
+  "fullText": "How do I get my first users after spending way to much time building my product?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 1,
+  "replyCount": 8,
+  "likeCount": 9,
+  "quoteCount": 0,
+  "viewCount": 455,
+  "createdAt": "Fri Jul 03 11:52:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2073012088625156211",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Sherifdeenolat2",
+    "url": "https://x.com/Sherifdeenolat2",
+    "twitterUrl": "https://twitter.com/Sherifdeenolat2",
+    "id": "941559459855458304",
+    "name": "Your MVP Guy",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2058769200584245248/GqKDipVs_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/941559459855458304/1765539841",
+    "description": "I help founders decide what not to build and build a feature focus MVP that attracts users fast. \nPortfolio: https://t.co/7OQ63Eq6qD",
+    "location": "Book a call ↗️",
+    "followers": 3557,
+    "following": 774,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 15 06:44:03 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "jimohsherifdeen.vercel.app/#works",
+            "expanded_url": "https://jimohsherifdeen.vercel.app/#works",
+            "indices": [
+              109,
+              132
+            ],
+            "url": "https://t.co/7OQ63Eq6qD"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yourmvpguy.com",
+            "expanded_url": "https://www.yourmvpguy.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/WydMYnp3vS"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 62652,
+    "isTranslator": false,
+    "mediaCount": 886,
+    "statusesCount": 54559,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2101890398956269851"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Business",
+      "rest_id": "1689147522684449179"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2072376130657505410",
+  "url": "https://x.com/Baadshah4015/status/2072376130657505410",
+  "twitterUrl": "https://twitter.com/Baadshah4015/status/2072376130657505410",
+  "text": "\"How do I get my first users after spending too much time building my product \"\n\nThese questions show up all time but sometimes go unanswered \n\nMost importantly to get customers for your product, find out where your Target audiences are, where they chill and hangout \n\n👇",
+  "fullText": "\"How do I get my first users after spending too much time building my product \"\n\nThese questions show up all time but sometimes go unanswered \n\nMost importantly to get customers for your product, find out where your Target audiences are, where they chill and hangout \n\n👇",
+  "source": "Twitter for Android",
+  "retweetCount": 1,
+  "replyCount": 3,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 78,
+  "createdAt": "Wed Jul 01 17:45:47 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2072376130657505410",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Baadshah4015",
+    "url": "https://x.com/Baadshah4015",
+    "twitterUrl": "https://twitter.com/Baadshah4015",
+    "id": "1725421480811376641",
+    "name": "Baadshah",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1913274867178172416/FbllJhe9_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1725421480811376641/1767551999",
+    "description": "Helping Projects turn attention into adoption\n\nCommunity growth & user behavior\n\nPortfolio 👇",
+    "location": "Onchain",
+    "followers": 263,
+    "following": 191,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 17 07:52:42 +0000 2023",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "baadshahdivine.lovable.app",
+            "expanded_url": "https://baadshahdivine.lovable.app",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/04Ap7lEhPF"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 16194,
+    "isTranslator": false,
+    "mediaCount": 245,
+    "statusesCount": 4260,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2007157307525005330"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1009,
+          "name": "Community"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1749916194037985581"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2071145790676836736",
+  "url": "https://x.com/Sherifdeenolat2/status/2071145790676836736",
+  "twitterUrl": "https://twitter.com/Sherifdeenolat2/status/2071145790676836736",
+  "text": "Founders,  \n\nHow do I get my first users after spending way to much time building my product?",
+  "fullText": "Founders,  \n\nHow do I get my first users after spending way to much time building my product?",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 34,
+  "likeCount": 31,
+  "quoteCount": 1,
+  "viewCount": 1863,
+  "createdAt": "Sun Jun 28 08:16:51 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2071145790676836736",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "Sherifdeenolat2",
+    "url": "https://x.com/Sherifdeenolat2",
+    "twitterUrl": "https://twitter.com/Sherifdeenolat2",
+    "id": "941559459855458304",
+    "name": "Your MVP Guy",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2058769200584245248/GqKDipVs_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/941559459855458304/1765539841",
+    "description": "I help founders decide what not to build and build a feature focus MVP that attracts users fast. \nPortfolio: https://t.co/7OQ63Eq6qD",
+    "location": "Book a call ↗️",
+    "followers": 3557,
+    "following": 774,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 15 06:44:03 +0000 2017",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "jimohsherifdeen.vercel.app/#works",
+            "expanded_url": "https://jimohsherifdeen.vercel.app/#works",
+            "indices": [
+              109,
+              132
+            ],
+            "url": "https://t.co/7OQ63Eq6qD"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yourmvpguy.com",
+            "expanded_url": "https://www.yourmvpguy.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/WydMYnp3vS"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 62652,
+    "isTranslator": false,
+    "mediaCount": 886,
+    "statusesCount": 54559,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2101890398956269851"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Business",
+      "rest_id": "1689147522684449179"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2067630949001547971",
+  "url": "https://x.com/WasimShips/status/2067630949001547971",
+  "twitterUrl": "https://twitter.com/WasimShips/status/2067630949001547971",
+  "text": "Building in stealth mode is dying and I don't think founders realize how fast.\n\nI see 10 \"launching soon\" pages a week.\nMy timeline is full of accounts with no posts asking \"how do I get my first users?\"\n\nProduct Hunt is getting louder. App stores are getting more crowded. AI is going to surface only the apps people already talk about.\n\nStealth building will be irrelevant within 2 years.\n\nIndie founders are going to have to run marketing playbooks from day one. Public builds, UGC clips, X threads, waitlist-first.\n\nThe founders still coding in silence for 6 months are building on a foundation that's already cracking under them.",
+  "fullText": "Building in stealth mode is dying and I don't think founders realize how fast.\n\nI see 10 \"launching soon\" pages a week.\nMy timeline is full of accounts with no posts asking \"how do I get my first users?\"\n\nProduct Hunt is getting louder. App stores are getting more crowded. AI is",
+  "source": "SuperX.so",
+  "retweetCount": 1,
+  "replyCount": 4,
+  "likeCount": 7,
+  "quoteCount": 0,
+  "viewCount": 419,
+  "createdAt": "Thu Jun 18 15:30:07 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "2067630949001547971",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "WasimShips",
+    "url": "https://x.com/WasimShips",
+    "twitterUrl": "https://twitter.com/WasimShips",
+    "id": "1749425181704196097",
+    "name": "Wasim",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2005567404248862721/HdmkB26L_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1749425181704196097/1771947802",
+    "description": "Co-Founder https://t.co/vyaVwEEUsh ⊹ we build AI powered MVPs & products for founders and startups",
+    "location": "Book a call →",
+    "followers": 3693,
+    "following": 400,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 22 13:34:17 +0000 2024",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dreamlaunch.studio",
+            "expanded_url": "http://dreamlaunch.studio",
+            "indices": [
+              11,
+              34
+            ],
+            "url": "https://t.co/vyaVwEEUsh"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cal.com/dreamlaunch/30",
+            "expanded_url": "http://cal.com/dreamlaunch/30",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/OIm8Z9xoNW"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 6524,
+    "isTranslator": false,
+    "mediaCount": 583,
+    "statusesCount": 3803,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2046878489614376990"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Business",
+      "rest_id": "1851961278765633671"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2035103685877846094",
+  "url": "https://x.com/akivisualz/status/2035103685877846094",
+  "twitterUrl": "https://twitter.com/akivisualz/status/2035103685877846094",
+  "text": "@shredandship “how do i get my first users” to claude at 3 am is so real.\n\nlet’s connect tho",
+  "fullText": "@shredandship “how do i get my first users” to claude at 3 am is so real.\n\nlet’s connect tho",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 3,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 74,
+  "createdAt": "Fri Mar 20 21:18:23 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "2035079485108744251",
+  "conversationId": "2035079485108744251",
+  "inReplyToUserId": "1496951722333417472",
+  "inReplyToUsername": "shredandship",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "akivisualz",
+    "url": "https://x.com/akivisualz",
+    "twitterUrl": "https://twitter.com/akivisualz",
+    "id": "1706308282283851776",
+    "name": "Aki",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2034725654508212224/Ajvl4v_h_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1706308282283851776/1782463135",
+    "description": "Busy rn, will be back to posting soon!\n\nFreelance Motion Designer | 200M+ views for brands like @polymarket @replit @alexhormozi @rpstrength & more.",
+    "location": "CT, USA",
+    "followers": 106,
+    "following": 287,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 25 14:03:19 +0000 2023",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "inspo.zone",
+            "expanded_url": "https://www.inspo.zone/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/s2AV8UsPH4"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 2623,
+    "isTranslator": false,
+    "mediaCount": 9,
+    "statusesCount": 304,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2022014905965215939"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 1093,
+          "name": "Motion Designer"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1708318288134980092"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1496951722333417472",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Johan",
+        "screen_name": "shredandship"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2027012778230251806",
+  "url": "https://x.com/rcmisk/status/2027012778230251806",
+  "twitterUrl": "https://twitter.com/rcmisk/status/2027012778230251806",
+  "text": "\"How do I get my first users?\"\n\nI see this question every single day on Reddit.\n\nSo I built the answer — a 48-hour distribution plan with:\n\n✅ 24 specific actions (one per hour)\n✅ Copy-paste templates for 8 platforms\n✅ Real conversion data (Indie Hackers: 23.1% conversion rate)\n✅ The DM strategy that guarantees signups\n✅ 24 research sources backing every decision\n\n8 pages. Free PDF. No email required.\n\nSolo founders — this is for you →\nReply - 48PLAN",
+  "fullText": "\"How do I get my first users?\"\n\nI see this question every single day on Reddit.\n\nSo I built the answer — a 48-hour distribution plan with:\n\n✅ 24 specific actions (one per hour)\n✅ Copy-paste templates for 8 platforms\n✅ Real conversion data (Indie Hackers: 23.1% conversion rate)",
+  "source": "erased32468840_KP5Q9yDxxu",
+  "retweetCount": 0,
+  "replyCount": 13,
+  "likeCount": 13,
+  "quoteCount": 0,
+  "viewCount": 793,
+  "createdAt": "Thu Feb 26 13:28:01 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 6,
+  "isReply": false,
+  "conversationId": "2027012778230251806",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "rcmisk",
+    "url": "https://x.com/rcmisk",
+    "twitterUrl": "https://twitter.com/rcmisk",
+    "id": "1739647570983387136",
+    "name": "Ricky",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1999509839819444225/1_VugYkf_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1739647570983387136/1754026463",
+    "description": "building @vibedraft_app - https://t.co/v53XdAiaCy\n\nvibe coding myself to financial freedom.\n\nlearnings and lessons a long the way.",
+    "location": "Boston",
+    "followers": 2162,
+    "following": 3071,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 26 14:01:35 +0000 2023",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "vibedraft.app/l/bio",
+            "expanded_url": "http://vibedraft.app/l/bio",
+            "indices": [
+              26,
+              49
+            ],
+            "url": "https://t.co/v53XdAiaCy"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rcmisk.com",
+            "expanded_url": "https://rcmisk.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/AHSgkHiWoY"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 12350,
+    "isTranslator": false,
+    "mediaCount": 461,
+    "statusesCount": 11948,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2049467111907455264"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 713,
+          "name": "Science & Technology"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1739777032324530364"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2020053016955744625",
+  "url": "https://x.com/whyKislay/status/2020053016955744625",
+  "twitterUrl": "https://twitter.com/whyKislay/status/2020053016955744625",
+  "text": "\"how do i get my first users?\"\n\ngo where they already are\n\nreddit threads asking for solutions\ntwitter complaints about competitors\ndiscord servers in your niche\n\ndon't spam\nanswer questions\nbe genuinely helpful\n\nthe product sells itself when the help is real",
+  "fullText": "\"how do i get my first users?\"\n\ngo where they already are\n\nreddit threads asking for solutions\ntwitter complaints about competitors\ndiscord servers in your niche\n\ndon't spam\nanswer questions\nbe genuinely helpful\n\nthe product sells itself when the help is real",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 70,
+  "createdAt": "Sat Feb 07 08:32:24 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "2020053016955744625",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "whyKislay",
+    "url": "https://x.com/whyKislay",
+    "twitterUrl": "https://twitter.com/whyKislay",
+    "id": "1802426711956422656",
+    "name": "Kislay",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2030533239291654144/uxoYrN08_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1802426711956422656/1786467426",
+    "description": "Founder @joinforg @fenloHQ, Backed by God",
+    "location": "Karnataka, India",
+    "followers": 402,
+    "following": 177,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 16 19:43:18 +0000 2024",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "forg.to/@kislay",
+            "expanded_url": "http://forg.to/@kislay",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/scfHedzNwd"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 6263,
+    "isTranslator": false,
+    "mediaCount": 462,
+    "statusesCount": 3894,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2080742871549018621"
+    ],
+    "professional": {
+      "category": [],
+      "professional_type": "Creator",
+      "rest_id": "1876971217619411175"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "2010269378286424541",
+  "url": "https://x.com/rvritesh07/status/2010269378286424541",
+  "twitterUrl": "https://twitter.com/rvritesh07/status/2010269378286424541",
+  "text": "A creator messaged me last week:\n\n“I post every day but nothing grows.\nWhat am I doing wrong?”\nSo I asked:\n\n“Why are you posting?”\n\nHe said:\n“To grow.”\n\nFair answer. But wrong starting point.\nSo I asked again:\n\n“Who are you posting for?”\n\nSilence.\n\nHe didn’t have a person in mind.\nHe had an algorithm in mind.\n\nSo I told him this 👇\n\nThe algorithm doesn’t reward consistency.\n People do.\nPeople follow when they feel:\n\nUnderstood\n\nHelped\nLess alone\n\nSo I asked him:\n\n“What question do people ask you again and again?”\n\nHe said:\n“How do I get my first users?”\n\nBoom. That’s the content.\n\nNot:\n“Here are 5 growth hacks.”\n\nBut:\n“Here’s how I got my first users — and what I tried that didn’t work.”\n\nWe rewrote one of his posts together.\nInstead of:\n“Growth is important. You should focus on distribution.”\n\nWe changed it to:\n\n“I wasted 3 months building before talking to users.\nHere’s what I wish I did instead…”\nSame knowledge.\nDifferent framing.\n\nOne feels like advice.\nThe other feels like a story you want to reply to.\nBefore he left, I told him:\n\nDon’t ask \"What should I post today\" ?\n\nAsk “What did someone struggle with today that I can help with?”\n\nThat’s your content.\nNow I want to hear from you:\n\nWhat’s a question you keep getting?\nOr what’s something you struggled with recently?",
+  "fullText": "A creator messaged me last week:\n\n“I post every day but nothing grows.\nWhat am I doing wrong?”\nSo I asked:\n\n“Why are you posting?”\n\nHe said:\n“To grow.”\n\nFair answer. But wrong starting point.\nSo I asked again:\n\n“Who are you posting for?”\n\nSilence.\n\nHe didn’t have a person in",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 33,
+  "createdAt": "Sun Jan 11 08:35:43 +0000 2026",
+  "lang": "en",
+  "bookmarkCount": 1,
+  "isReply": false,
+  "conversationId": "2010269378286424541",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "rvritesh07",
+    "url": "https://x.com/rvritesh07",
+    "twitterUrl": "https://twitter.com/rvritesh07",
+    "id": "1157607550574927873",
+    "name": "Riteish",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1960262928973594624/Iuei06h4_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1157607550574927873/1775301648",
+    "description": "A frontend developer who turns ideas into products that solve real problems for real people.\n\nTurn complaints into product https://t.co/tl5QQsbinu",
+    "location": "Founder at",
+    "followers": 1207,
+    "following": 1187,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 03 11:02:02 +0000 2019",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "saazio.com",
+            "expanded_url": "https://saazio.com",
+            "indices": [
+              123,
+              146
+            ],
+            "url": "https://t.co/tl5QQsbinu"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "launchmvp.in",
+            "expanded_url": "https://www.launchmvp.in",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/fxPopJLGwz"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 5343,
+    "isTranslator": false,
+    "mediaCount": 318,
+    "statusesCount": 4207,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2040345383097000104"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 986,
+          "name": "Software Application"
+        }
+      ],
+      "professional_type": "Business",
+      "rest_id": "1468469871898140675"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1993137384205262904",
+  "url": "https://x.com/BulatReal/status/1993137384205262904",
+  "twitterUrl": "https://twitter.com/BulatReal/status/1993137384205262904",
+  "text": "My first app is ready. My marketing skills are not.\n\nHow do I get my first users? https://t.co/zKhusB7CPv",
+  "fullText": "My first app is ready. My marketing skills are not.\n\nHow do I get my first users? https://t.co/zKhusB7CPv",
+  "source": "Twitter for iPhone",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 60,
+  "createdAt": "Tue Nov 25 01:59:17 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1993137384205262904",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "BulatReal",
+    "url": "https://x.com/BulatReal",
+    "twitterUrl": "https://twitter.com/BulatReal",
+    "id": "1953691572631220227",
+    "name": "Bulat",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1996183890935840768/303XK6bQ_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1953691572631220227/1766001401",
+    "description": "🛠 Building a web + iOS product ecosystem ✨ Helping startups get noticed 📈 On a journey from $0 to $10k MRR",
+    "location": "",
+    "followers": 16,
+    "following": 43,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 08 05:35:55 +0000 2025",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "startupdeck.app",
+            "expanded_url": "https://startupdeck.app",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/HiTXtoE4NL"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 222,
+    "isTranslator": false,
+    "mediaCount": 19,
+    "statusesCount": 112,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "2002167908957642961"
+    ]
+  },
+  "extendedEntities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/zKhusB7CPv",
+        "expanded_url": "https://x.com/GBulat_8/status/1993137384205262904/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 1087,
+                "y": 26
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 141,
+                "w": 141,
+                "x": 1011,
+                "y": 24
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 1087,
+                "y": 26
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 573,
+                "y": 13
+              }
+            ]
+          }
+        },
+        "id_str": "1993137378236497920",
+        "indices": [
+          82,
+          105
+        ],
+        "media_key": "3_1993137378236497920",
+        "media_results": {
+          "result": {
+            "media_key": "3_1993137378236497920"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/G6kL4qpXAAA9Fi-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 722,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 979,
+              "x": 123,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 859,
+              "x": 183,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 490,
+              "x": 367,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 979,
+          "width": 1289
+        },
+        "sizes": {
+          "large": {
+            "h": 979,
+            "resize": "fit",
+            "w": 1289
+          },
+          "medium": {
+            "h": 911,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 516,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/zKhusB7CPv"
+      }
+    ]
+  },
+  "card": {},
+  "place": {},
+  "entities": {
+    "media": [
+      {
+        "allow_download_status": {
+          "allow_download": true
+        },
+        "display_url": "pic.x.com/zKhusB7CPv",
+        "expanded_url": "https://x.com/GBulat_8/status/1993137384205262904/photo/1",
+        "ext_media_availability": {
+          "status": "Available"
+        },
+        "features": {
+          "large": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 1087,
+                "y": 26
+              }
+            ]
+          },
+          "medium": {
+            "faces": [
+              {
+                "h": 141,
+                "w": 141,
+                "x": 1011,
+                "y": 24
+              }
+            ]
+          },
+          "orig": {
+            "faces": [
+              {
+                "h": 152,
+                "w": 152,
+                "x": 1087,
+                "y": 26
+              }
+            ]
+          },
+          "small": {
+            "faces": [
+              {
+                "h": 80,
+                "w": 80,
+                "x": 573,
+                "y": 13
+              }
+            ]
+          }
+        },
+        "id_str": "1993137378236497920",
+        "indices": [
+          82,
+          105
+        ],
+        "media_key": "3_1993137378236497920",
+        "media_results": {
+          "result": {
+            "media_key": "3_1993137378236497920"
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/G6kL4qpXAAA9Fi-.jpg",
+        "original_info": {
+          "focus_rects": [
+            {
+              "h": 722,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 979,
+              "x": 123,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 859,
+              "x": 183,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 490,
+              "x": 367,
+              "y": 0
+            },
+            {
+              "h": 979,
+              "w": 1289,
+              "x": 0,
+              "y": 0
+            }
+          ],
+          "height": 979,
+          "width": 1289
+        },
+        "sizes": {
+          "large": {
+            "h": 979,
+            "resize": "fit",
+            "w": 1289
+          },
+          "medium": {
+            "h": 911,
+            "resize": "fit",
+            "w": 1200
+          },
+          "small": {
+            "h": 516,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "type": "photo",
+        "url": "https://t.co/zKhusB7CPv"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [
+    "https://pbs.twimg.com/media/G6kL4qpXAAA9Fi-.jpg"
+  ],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1981769623319032209",
+  "url": "https://x.com/HeroOfKVcache/status/1981769623319032209",
+  "twitterUrl": "https://twitter.com/HeroOfKVcache/status/1981769623319032209",
+  "text": "@bearsnake_21 Ok bear, how do I get my first users",
+  "fullText": "@bearsnake_21 Ok bear, how do I get my first users",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 3,
+  "quoteCount": 0,
+  "viewCount": 106,
+  "createdAt": "Fri Oct 24 17:07:52 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": true,
+  "inReplyToId": "1981769228517814356",
+  "conversationId": "1981762706983338003",
+  "inReplyToUserId": "1349431082316222465",
+  "inReplyToUsername": "bearsnake_21",
+  "author": {
+    "type": "user",
+    "userName": "HeroOfKVcache",
+    "url": "https://x.com/HeroOfKVcache",
+    "twitterUrl": "https://twitter.com/HeroOfKVcache",
+    "id": "1302096384708009985",
+    "name": "The Hero of KVcache",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2067373199013085184/a1kJvnFe_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1302096384708009985/1781735189",
+    "description": "I saw a mudcrab the other day",
+    "location": "",
+    "followers": 17422,
+    "following": 4852,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 05 04:09:16 +0000 2020",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 54083,
+    "isTranslator": false,
+    "mediaCount": 4845,
+    "statusesCount": 23173,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 15,
+          "name": "Entertainment & Recreation"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1679669873398480897"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "user_mentions": [
+      {
+        "id_str": "1349431082316222465",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "bearsnake 🍩",
+        "screen_name": "bearsnake_21"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1981762706983338003",
+  "url": "https://x.com/HeroOfKVcache/status/1981762706983338003",
+  "twitterUrl": "https://twitter.com/HeroOfKVcache/status/1981762706983338003",
+  "text": "Ok chat, how do I get my first users",
+  "fullText": "Ok chat, how do I get my first users",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 2,
+  "likeCount": 5,
+  "quoteCount": 0,
+  "viewCount": 229,
+  "createdAt": "Fri Oct 24 16:40:23 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1981762706983338003",
+  "author": {
+    "type": "user",
+    "userName": "HeroOfKVcache",
+    "url": "https://x.com/HeroOfKVcache",
+    "twitterUrl": "https://twitter.com/HeroOfKVcache",
+    "id": "1302096384708009985",
+    "name": "The Hero of KVcache",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2067373199013085184/a1kJvnFe_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1302096384708009985/1781735189",
+    "description": "I saw a mudcrab the other day",
+    "location": "",
+    "followers": 17422,
+    "following": 4852,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 05 04:09:16 +0000 2020",
+    "entities": {
+      "description": {}
+    },
+    "favouritesCount": 54083,
+    "isTranslator": false,
+    "mediaCount": 4845,
+    "statusesCount": 23173,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 15,
+          "name": "Entertainment & Recreation"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1679669873398480897"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1955610365594890525",
+  "url": "https://x.com/Ayushfounds/status/1955610365594890525",
+  "twitterUrl": "https://twitter.com/Ayushfounds/status/1955610365594890525",
+  "text": "How do I get my first users for my cloud company https://t.co/cTC6v89dpk",
+  "fullText": "How do I get my first users for my cloud company https://t.co/cTC6v89dpk",
+  "source": "Twitter for Android",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 2,
+  "quoteCount": 0,
+  "viewCount": 39,
+  "createdAt": "Wed Aug 13 12:40:19 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1955610365594890525",
+  "possiblySensitive": false,
+  "author": {
+    "type": "user",
+    "userName": "Ayushfounds",
+    "url": "https://x.com/Ayushfounds",
+    "twitterUrl": "https://twitter.com/Ayushfounds",
+    "id": "1392700233927122946",
+    "name": "Ayush Mishra",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2100655526732525568/h46j5O9y_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/1392700233927122946/1789672528",
+    "description": "building adorable.",
+    "location": "",
+    "followers": 38,
+    "following": 57,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu May 13 04:36:59 +0000 2021",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "myadorable.site",
+            "expanded_url": "http://myadorable.site",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/5zISPCeP8m"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 249,
+    "isTranslator": false,
+    "mediaCount": 29,
+    "statusesCount": 320,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 713,
+          "name": "Science & Technology"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1992481501322342806"
+    }
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "https://t.co/cTC6v89dpk"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "amlexia.com",
+        "expanded_url": "http://www.amlexia.com",
+        "indices": [
+          49,
+          72
+        ],
+        "url": "https://t.co/cTC6v89dpk"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1912773523942031491",
+  "url": "https://x.com/sametozkale/status/1912773523942031491",
+  "twitterUrl": "https://twitter.com/sametozkale/status/1912773523942031491",
+  "text": "Your first problem isn’t just “What should my product be?”\n\nAND it’s not just “How do I get my first users?”\n\nIt’s BOTH — at the SAME TIME.\n\nBecause here’s the secret:\n\nTrying to get users shows you exactly what your product should be.\n\nSo stop overthinking. \nStart building. \nStart sharing.\n\nYour first users will guide you to your best product.",
+  "fullText": "Your first problem isn’t just “What should my product be?”\n\nAND it’s not just “How do I get my first users?”\n\nIt’s BOTH — at the SAME TIME.\n\nBecause here’s the secret:\n\nTrying to get users shows you exactly what your product should be.\n\nSo stop overthinking. \nStart building.",
+  "source": "Twitter Web Client",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "viewCount": 89,
+  "createdAt": "Thu Apr 17 07:42:00 +0000 2025",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1912773523942031491",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "sametozkale",
+    "url": "https://x.com/sametozkale",
+    "twitterUrl": "https://twitter.com/sametozkale",
+    "id": "416226612",
+    "name": "Samet Ozkale",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/2056101454570467328/tuxA8Ebg_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/416226612/1778841125",
+    "description": "Design engineer · AI-native product builder · 3x Entrepreneur · https://t.co/7G4pUwIQfF · 🇪🇪🇹🇷",
+    "location": "Tallinn, Estonia",
+    "followers": 2296,
+    "following": 1677,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 19 11:57:20 +0000 2011",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "samet.works",
+            "expanded_url": "https://samet.works",
+            "indices": [
+              64,
+              87
+            ],
+            "url": "https://t.co/7G4pUwIQfF"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "oberyon.com",
+            "expanded_url": "https://oberyon.com/",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/RmGazYJm1h"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 94608,
+    "isTranslator": true,
+    "mediaCount": 562,
+    "statusesCount": 9151,
+    "translatorTypeEnum": "regular",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1990691454537384207"
+    ],
+    "professional": {
+      "category": [
+        {
+          "icon_name": "IconBriefcaseStroke",
+          "id": 958,
+          "name": "Entrepreneur"
+        }
+      ],
+      "professional_type": "Creator",
+      "rest_id": "1470509107085992005"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1824116033474478490",
+  "url": "https://x.com/tseringredmond/status/1824116033474478490",
+  "twitterUrl": "https://twitter.com/tseringredmond/status/1824116033474478490",
+  "text": "How do I get my first users?\n\nOften share the classic one-liner\n\n\"find the people that love your product, learn what it is they love and focus there\"\n\nBut Nick just dropped the detailed and practical explanation to that (he's a must-follow)",
+  "fullText": "How do I get my first users?\n\nOften share the classic one-liner\n\n\"find the people that love your product, learn what it is they love and focus there\"\n\nBut Nick just dropped the detailed and practical explanation to that (he's a must-follow)",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 1,
+  "likeCount": 12,
+  "quoteCount": 0,
+  "viewCount": 848,
+  "createdAt": "Thu Aug 15 16:08:47 +0000 2024",
+  "lang": "en",
+  "quoteId": "1824067992029683960",
+  "bookmarkCount": 3,
+  "isReply": false,
+  "conversationId": "1824116033474478490",
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "tseringredmond",
+    "url": "https://x.com/tseringredmond",
+    "twitterUrl": "https://twitter.com/tseringredmond",
+    "id": "3166077258",
+    "name": "Tsering 🦜",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1811080228984242176/ycbS_k-O_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/3166077258/1721338614",
+    "description": "Quit my job as Head of Marketing after making 100m for others. \n\nNow building https://t.co/lOxihf4T8t 🦜 AI articles that humans love to read",
+    "location": "AI articles that don't suck →",
+    "followers": 1902,
+    "following": 348,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 21 02:24:42 +0000 2015",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "macawhq.com",
+            "expanded_url": "https://macawhq.com",
+            "indices": [
+              78,
+              101
+            ],
+            "url": "https://t.co/lOxihf4T8t"
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "articIe.com",
+            "expanded_url": "http://articIe.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/P6K9rau02u"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 7383,
+    "isTranslator": false,
+    "mediaCount": 330,
+    "statusesCount": 3373,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "1823421009480896776"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {},
+  "isRetweet": false,
+  "isQuote": true,
+  "quote": {
+    "type": "tweet",
+    "id": "1824067992029683960",
+    "text": "How to get the first 100 users for your SaaS\n\nYou should be able to get 5-10 users organically, posting on Reddit, X, and reaching out to people in your network\n\nThey are the key to it all\n\nReach out and setup a tight feedback loop with them\n\nYou want them to tell you whats good but more importantly, whats bad\n\nGive them referral links, they will share the product because of your relationship with them\n\nOn top of this, continue the organic methods, trying to have a tight relationship with the first 100 users\n\nGive them all referral links, provide incentives for them to share it with people in their network\n\nEven give the people that are using the referral links incentives to signup\n\nThis method obviously doesn't scale well and thats the point\n\nYou are building a community that is passionate about the product and is giving you all the feedback you need",
+    "source": "Twitter Web App",
+    "retweetCount": 0,
+    "replyCount": 5,
+    "likeCount": 22,
+    "quoteCount": 1,
+    "viewCount": 1672,
+    "createdAt": "Thu Aug 15 12:57:53 +0000 2024",
+    "lang": "en",
+    "bookmarkCount": 17,
+    "author": {
+      "type": "user",
+      "userName": "_nickpac",
+      "url": "https://x.com/_nickpac",
+      "twitterUrl": "https://twitter.com/_nickpac",
+      "id": "1748173689047175168",
+      "name": "Nick",
+      "isVerified": false,
+      "isBlueVerified": false,
+      "profilePicture": "https://pbs.twimg.com/profile_images/2088240811280343041/AaXQ1rQJ_normal.jpg",
+      "coverPicture": "https://pbs.twimg.com/profile_banners/1748173689047175168/1742817522",
+      "description": "advising consumer startups, product + data",
+      "location": "Toronto",
+      "followers": 874,
+      "following": 376,
+      "protected": false,
+      "status": "",
+      "canDm": false,
+      "canMediaTag": true,
+      "createdAt": "Fri Jan 19 02:41:17 +0000 2024",
+      "entities": {
+        "description": {}
+      },
+      "favouritesCount": 4946,
+      "isTranslator": false,
+      "mediaCount": 0,
+      "statusesCount": 31,
+      "translatorTypeEnum": "none",
+      "affiliatesHighlightedLabel": {},
+      "possiblySensitive": false
+    },
+    "extendedEntities": {},
+    "card": {},
+    "place": {},
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    }
+  },
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "1694025371052650874",
+  "url": "https://x.com/inesTheTechie/status/1694025371052650874",
+  "twitterUrl": "https://twitter.com/inesTheTechie/status/1694025371052650874",
+  "text": "A common question —and a red flag🚩— when developing a Product:\n\n🤔\"How do I get my first users?\"\n\n✅You’re supposed to be solving a problem for a group of people you’ve already met and discussed their pain points with, so you know they want your product. 👈 These are your first users.\n\n⚠️If you’re building for an imaginary group of people you’ve never talked to… be careful, you can end up building a product with no audience.\n\n#buildinpublic #indiehackers",
+  "fullText": "A common question —and a red flag🚩— when developing a Product:\n\n🤔\"How do I get my first users?\"\n\n✅You’re supposed to be solving a problem for a group of people you’ve already met and discussed their pain points with, so you know they want your product. 👈 These are your first",
+  "source": "Twitter Web App",
+  "retweetCount": 0,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 1,
+  "viewCount": 677,
+  "createdAt": "Tue Aug 22 16:34:56 +0000 2023",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "1694025371052650874",
+  "author": {
+    "type": "user",
+    "userName": "inesTheTechie",
+    "url": "https://x.com/inesTheTechie",
+    "twitterUrl": "https://twitter.com/inesTheTechie",
+    "id": "213767774",
+    "name": "Ines",
+    "isVerified": false,
+    "isBlueVerified": true,
+    "profilePicture": "https://pbs.twimg.com/profile_images/1914793641307992064/dpiOkNWc_normal.jpg",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/213767774/1745502127",
+    "description": "👩🏼‍💻 CS Engineer & Mobile Dev\n🤖 AI Agents & Automations\n🎨 MVP Design & Prototyping | UXUI",
+    "location": "10+ years experience",
+    "followers": 847,
+    "following": 395,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 09 19:06:44 +0000 2010",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "inesthetechie.com",
+            "expanded_url": "https://www.inesthetechie.com",
+            "indices": [
+              0,
+              23
+            ],
+            "url": "https://t.co/5njR4b65kf"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 1989,
+    "isTranslator": false,
+    "mediaCount": 183,
+    "statusesCount": 1231,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "professional": {
+      "category": [],
+      "professional_type": "Business",
+      "rest_id": "1690779424189231520"
+    }
+  },
+  "extendedEntities": {},
+  "card": {},
+  "place": {},
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          427,
+          441
+        ],
+        "text": "buildinpublic"
+      },
+      {
+        "indices": [
+          442,
+          455
+        ],
+        "text": "indiehackers"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+},
+{
+  "type": "tweet",
+  "id": "486514618442190848",
+  "url": "https://x.com/idonethis/status/486514618442190848",
+  "twitterUrl": "https://twitter.com/idonethis/status/486514618442190848",
+  "text": "Everyone launching a new web or mobile app has the same question: How do I get my first users? via @getautosend http://t.co/TusqWqTKMC",
+  "fullText": "Everyone launching a new web or mobile app has the same question: How do I get my first users? via @getautosend http://t.co/TusqWqTKMC",
+  "source": "Buffer App",
+  "retweetCount": 1,
+  "replyCount": 0,
+  "likeCount": 4,
+  "quoteCount": 0,
+  "createdAt": "Tue Jul 08 14:18:18 +0000 2014",
+  "lang": "en",
+  "bookmarkCount": 0,
+  "isReply": false,
+  "conversationId": "486514618442190848",
+  "possiblySensitive": false,
+  "isPinned": false,
+  "author": {
+    "type": "user",
+    "userName": "idonethis",
+    "url": "https://x.com/idonethis",
+    "twitterUrl": "https://twitter.com/idonethis",
+    "id": "233384112",
+    "name": "I Done This",
+    "isVerified": false,
+    "isBlueVerified": false,
+    "profilePicture": "https://pbs.twimg.com/profile_images/698209718305619968/-_i_fy6s_normal.png",
+    "coverPicture": "https://pbs.twimg.com/profile_banners/233384112/1500590351",
+    "description": "The easiest way to share and celebrate what you get done. Contact us at success@idonethis.com.",
+    "location": "San Francisco, CA",
+    "followers": 5224,
+    "following": 3641,
+    "protected": false,
+    "status": "",
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 03 02:49:54 +0000 2011",
+    "entities": {
+      "description": {},
+      "url": {
+        "urls": [
+          {
+            "display_url": "idonethis.com",
+            "expanded_url": "http://idonethis.com",
+            "indices": [
+              0,
+              22
+            ],
+            "url": "http://t.co/fwCIBJek4D"
+          }
+        ]
+      }
+    },
+    "favouritesCount": 8968,
+    "isTranslator": false,
+    "mediaCount": 2048,
+    "statusesCount": 19886,
+    "translatorTypeEnum": "none",
+    "affiliatesHighlightedLabel": {},
+    "possiblySensitive": false,
+    "pinnedTweetIds": [
+      "892782710204366848"
+    ]
+  },
+  "extendedEntities": {},
+  "card": {
+    "rest_id": "http://t.co/TusqWqTKMC"
+  },
+  "place": {},
+  "entities": {
+    "urls": [
+      {
+        "display_url": "bit.ly/1qdJyYw",
+        "expanded_url": "http://bit.ly/1qdJyYw",
+        "indices": [
+          112,
+          134
+        ],
+        "url": "http://t.co/TusqWqTKMC"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id_str": "1611143138",
+        "indices": [
+          99,
+          111
+        ],
+        "name": "Autosend.io",
+        "screen_name": "getautosend"
+      }
+    ]
+  },
+  "isRetweet": false,
+  "isQuote": false,
+  "media": [],
+  "isConversationControlled": false
+}]

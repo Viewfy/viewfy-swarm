@@ -1,0 +1,286 @@
+{
+  "fetchedAt": "2026-09-27T21:03:01+00:00",
+  "real": true,
+  "signals": [
+    {
+      "id": "s1",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "date": "2026-09-15"
+    },
+    {
+      "id": "s2",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "s3",
+      "title": "India's MoEngage bets marketing's future on millions of AI agents",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "date": "2026-06-23"
+    },
+    {
+      "id": "s4",
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "date": "2026-04-06"
+    },
+    {
+      "id": "s5",
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "date": "2026-08-04"
+    },
+    {
+      "id": "s6",
+      "title": "Daydream raises $15M to blend AI and human SEO expertise",
+      "outlet": "Business Insider",
+      "url": "https://www.businessinsider.com/daydream-raises-15-m-ai-human-seo-expertise-2026-4",
+      "date": "2026-04-02"
+    },
+    {
+      "id": "s7",
+      "title": "n8n boss: 'Our goal is to get to 1bn users with fewer than 1,000 employees'",
+      "outlet": "Sifted",
+      "url": "https://sifted.eu/articles/n8n-boss-1bn-users-fewer-than-1000-employees",
+      "date": "2026-09-21"
+    },
+    {
+      "id": "s8",
+      "title": "AI SDR startup Outcraft AI rolls out per-lead pricing",
+      "outlet": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-sdr-startup-outcraft-ai-180800035.html",
+      "date": "2026-09-10"
+    },
+    {
+      "id": "s9",
+      "title": "The 11 standout startups from YC's Demo Day, according to VCs",
+      "outlet": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "date": "2026-06-18"
+    },
+    {
+      "id": "s10",
+      "title": "Four mistakes not to make as a first-time founder",
+      "outlet": "Sifted",
+      "url": "https://sifted.eu/articles/four-mistakes-not-to-make-as-a-first-time-founder",
+      "date": "2026-06-16"
+    },
+    {
+      "id": "s11",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "outlet": "The Verge",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "date": "2026-09-26"
+    }
+  ],
+  "journalists": [
+    {
+      "id": "j1",
+      "name": "Maya Chen",
+      "outlet": "TechCrunch",
+      "beat": "AI search, AEO/GEO and startup funding",
+      "signalId": "s1"
+    },
+    {
+      "id": "j2",
+      "name": "Daniel Okafor",
+      "outlet": "TechCrunch",
+      "beat": "AI agents for small businesses and growth",
+      "signalId": "s2"
+    },
+    {
+      "id": "j3",
+      "name": "Priya Raman",
+      "outlet": "The Verge",
+      "beat": "AI search, SEO and the future of the open web",
+      "signalId": "s4"
+    },
+    {
+      "id": "j4",
+      "name": "Lena Fischer",
+      "outlet": "Sifted",
+      "beat": "European AI startups and lean founder playbooks",
+      "signalId": "s7"
+    },
+    {
+      "id": "j5",
+      "name": "Marcus Bell",
+      "outlet": "Business Insider",
+      "beat": "AI marketing startups and adtech funding",
+      "signalId": "s6"
+    },
+    {
+      "id": "j6",
+      "name": "Sofia Alvarez",
+      "outlet": "VentureBeat",
+      "beat": "AI sales agents, AI SDRs and outbound automation",
+      "signalId": "s8"
+    }
+  ],
+  "publishers": [
+    {
+      "id": "p1",
+      "name": "Lenny's Newsletter",
+      "domain": "lennysnewsletter.com",
+      "kind": "newsletter",
+      "audience": "Product and growth leaders, early-stage founders"
+    },
+    {
+      "id": "p2",
+      "name": "Indie Hackers",
+      "domain": "indiehackers.com",
+      "kind": "community",
+      "audience": "Bootstrapped and solo founders sharing revenue and growth tactics"
+    },
+    {
+      "id": "p3",
+      "name": "First Round Review",
+      "domain": "review.firstround.com",
+      "kind": "blog",
+      "audience": "Seed and Series A founders and operators"
+    },
+    {
+      "id": "p4",
+      "name": "My First Million",
+      "domain": "mfmpod.com",
+      "kind": "podcast",
+      "audience": "Founders and builders hunting for growth ideas"
+    },
+    {
+      "id": "p5",
+      "name": "Product Hunt",
+      "domain": "producthunt.com",
+      "kind": "community",
+      "audience": "Makers, early adopters and launch-day founders"
+    }
+  ],
+  "community": [
+    {
+      "id": "c1",
+      "handle": "@She***",
+      "text": "Founders,  \n\nHow do I get my first users after spending way to much time building my product?",
+      "url": "https://x.com/i/status/2071145790676836736",
+      "likes": 31,
+      "topic": "first users"
+    },
+    {
+      "id": "c2",
+      "handle": "@sha***",
+      "text": "Creating a product is hard.\n\nGetting your first users?\n\nWay harder. 😂\n\nMy team spent months creating CalendarFlow, fixing bugs, improving the experience, and getting everything ready for launch.\n\nThen launch day came and I realized something:\n\nCreating the product is only half",
+      "url": "https://x.com/i/status/2102778107723927563",
+      "likes": 8,
+      "topic": "launch day"
+    },
+    {
+      "id": "c3",
+      "handle": "@har***",
+      "text": "as technical founder, Marketing is the hard part",
+      "url": "https://x.com/i/status/2043690307049705529",
+      "likes": 3,
+      "topic": "technical founder marketing"
+    },
+    {
+      "id": "c4",
+      "handle": "@coo***",
+      "text": "Marketing has always been the hard part.\n\nEvery technical founder just thought their marketing team sucks.\n\nGoodnight.",
+      "url": "https://x.com/i/status/2021791923158032885",
+      "likes": 101,
+      "topic": "technical founder marketing"
+    },
+    {
+      "id": "c5",
+      "handle": "@nou***",
+      "text": "I feel many founders have hard time finding early adopters.\n\nI’m a technical founder trying to understand the real process. How do other technical founders actually find their first early adopters?\nWhat step by step process you follow?\n\nHow you define ICP?\nYou use Lean Canvas,",
+      "url": "https://x.com/i/status/2058989964550197671",
+      "likes": 2,
+      "topic": "early adopters"
+    },
+    {
+      "id": "c6",
+      "handle": "@Lol***",
+      "text": "Every time I started a new project, I had to answer the same question:\n\n\"How do I get my first users?\"\n\nI'm tired of solving that problem from scratch every time.",
+      "url": "https://x.com/i/status/2082956304641819028",
+      "likes": 5,
+      "topic": "first users"
+    },
+    {
+      "id": "c7",
+      "handle": "@DRu***",
+      "text": "I originally started BuildTraction as a way for founders to get feedback from other founders and build better products.\n\nThen I found 4–6 other apps doing almost the same thing.\n\nAnd I kept coming back to one question:\n\nHow am I going to get users?\n\nThen I realized almost every https://t.co/2QSsubQx3G",
+      "url": "https://x.com/i/status/2101563335674335600",
+      "likes": 10,
+      "topic": "first users"
+    },
+    {
+      "id": "c8",
+      "handle": "@Pau***",
+      "text": "Founder here too\n\nbuilding a SaaS for web devs and learning very quickly that distribution is the hard part",
+      "url": "https://x.com/i/status/2031345067441664149",
+      "likes": 4,
+      "topic": "distribution"
+    },
+    {
+      "id": "c9",
+      "handle": "@the***",
+      "text": "From all the declining revenue charts I’m seeing lately it’s clear indie founders are in trouble. But in most cases it’s not because AI models are directly competing with them. It’s a distribution problem.\n\nThe old playbook ran on search traffic. Pump out content, rank for the",
+      "url": "https://x.com/i/status/2081728964133847122",
+      "likes": 86,
+      "topic": "distribution"
+    },
+    {
+      "id": "c10",
+      "handle": "@cle***",
+      "text": "This is sad and uncomfortable news for me because after 10 years I was getting pretty good at being a technical founder.\n\nIt's hard to get good at marketing.",
+      "url": "https://x.com/i/status/2066902662335938562",
+      "likes": 1,
+      "topic": "technical founder marketing"
+    },
+    {
+      "id": "c11",
+      "handle": "@aki***",
+      "text": "“how do i get my first users” to claude at 3 am is so real.\n\nlet’s connect tho",
+      "url": "https://x.com/i/status/2035103685877846094",
+      "likes": 4,
+      "topic": "GTM at 3am"
+    },
+    {
+      "id": "c12",
+      "handle": "@Nor***",
+      "text": "This is hard part nobody talks about as a SaaS founder...\n\nIn the beginning, you're used to doing everything in the company.\n\nDevelopment work, sales, outbound, marketing, customer support, operations, finances, etc.\n\nAs you grow, you start hiring people specialized for those",
+      "url": "https://x.com/i/status/2066816293538238467",
+      "likes": 3,
+      "topic": "founder doing everything"
+    },
+    {
+      "id": "c13",
+      "handle": "@ter***",
+      "text": "Technical founder learning Marketing 101\n\nI've learned the hard way how important it is to be more active on socials if you're trying to grow a product. I've had several users reach out to me after going through this flow:\n\n1. Hear about my product either from friends or online https://t.co/W9Iw0XpGsw",
+      "url": "https://x.com/i/status/2013158750237098131",
+      "likes": 10,
+      "topic": "founder-led social"
+    },
+    {
+      "id": "c14",
+      "handle": "@luk***",
+      "text": "Hot take:\n\nA lot of early-stage SaaS companies won’t lose because the product is bad.\n\nThey’ll lose because nobody remembers they exist.\n\nMeanwhile, founders building strong distribution on X are quietly pulling in users every week without huge ad budgets.\n\nYou can already see",
+      "url": "https://x.com/i/status/2057330586868498616",
+      "likes": 17,
+      "topic": "visibility on X"
+    },
+    {
+      "id": "c15",
+      "handle": "@the***",
+      "text": "Had an idea in 2017. Couldn't get it out of my head. Launched and nobody cared. Worked on it every single day for 8 years. This year it was acquired by a $12B company. Not bad",
+      "url": "https://x.com/i/status/2051294440610787526",
+      "likes": 4145,
+      "topic": "nobody saw my launch"
+    }
+  ]
+}

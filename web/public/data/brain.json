@@ -1,0 +1,86 @@
+{
+  "real": true,
+  "pages": 30,
+  "sampleQueries": [
+    {
+      "q": "TechCrunch",
+      "hits": [
+        {
+          "title": "TechCrunch",
+          "snippet": "…agents for small businesses and growth Recent signals from TechCrunch - 2026-09-15 \"AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round\" https://techcrunch.co…",
+          "source": "outlets/techcrunch"
+        },
+        {
+          "title": "Maya Chen",
+          "snippet": "Journalist at TechCrunch. - Beat: AI search, AEO/GEO and startup funding - Last contact: 2026-09-27 (Loop 33) - Status: warm - call booked Tuesday - Hook: \"AEO startup Profound hits unicorn valuation, raises $180M Series…",
+          "source": "people/maya-chen"
+        },
+        {
+          "title": "Daniel Okafor",
+          "snippet": "Journalist at TechCrunch. - Beat: AI agents for small businesses and growth - Last contact: 2026-09-26 (Loop 30) - Status: interested - asked for traction numbers - Hook: \"Runable hits $21M to bet AI agents can go from b…",
+          "source": "people/daniel-okafor"
+        },
+        {
+          "title": "What worked (GTM playbook)",
+          "snippet": "…(founder voice) - Lead with a number (the data angle). Maya Chen / TechCrunch replied positive. (Loop 25) - Tie the pitch to a funding signal less than 48h old. (Loop 30) - Follow up within 24h with ONE asset. (Loop 33) …",
+          "source": "playbooks/what-worked"
+        },
+        {
+          "title": "Loop 25 · 14:00",
+          "snippet": "Pitched Maya Chen (TechCrunch) with the data angle: \"73% of seed-stage startups get zero citations in ChatGPT answers\". Reply: positive. Learned: Lead with a number. - Action: Pitched Maya Chen (TechCrunch) with the data…",
+          "source": "loops/loop-25"
+        }
+      ]
+    },
+    {
+      "q": "data angle",
+      "hits": [
+        {
+          "title": "Loop 25 · 14:00",
+          "snippet": "Pitched Maya Chen (TechCrunch) with the data angle: \"73% of seed-stage startups get zero citations in ChatGPT answers\". Reply: positive. Learned: Lead with a number. - Action: Pitched Maya Chen (TechCrunch) with the data…",
+          "source": "loops/loop-25"
+        },
+        {
+          "title": "Maya Chen",
+          "snippet": "Journalist at TechCrunch. - Beat: AI search, AEO/GEO and startup funding - Last contact: 2026-09-27 (Loop 33) - Status: warm - call booked Tuesday - Hook: \"AEO startup Profound hits unicorn valuation, raises $180M Series…",
+          "source": "people/maya-chen"
+        },
+        {
+          "title": "What worked (GTM playbook)",
+          "snippet": "…loop. Press (founder voice) - Lead with a number (the data angle). Maya Chen / TechCrunch replied positive. (Loop 25) - Tie the pitch to a funding signal less than 48h old. (Loop 30) - Follow up within 24h with ONE asset…",
+          "source": "playbooks/what-worked"
+        }
+      ]
+    },
+    {
+      "q": "what worked on X",
+      "hits": [
+        {
+          "title": "What worked (GTM playbook)",
+          "snippet": "Distilled by the Coach agent from loops 25-36. Recalled at the start of every hourly loop. Press (founder voice) - Lead with a number (the data angle). Maya Chen / TechCrunch replied positive. (Loop 25) - Tie the pitch t…",
+          "source": "playbooks/what-worked"
+        },
+        {
+          "title": "Viewfy",
+          "snippet": "The growth agent that gets you users while you ship. https://viewfy.ai · X: @viewfy_ai What it is Viewfy Swarm is an AI GTM \"sales floor\": a swarm of agents that runs go-to-market every hour in the founder's own voice an…",
+          "source": "companies/viewfy"
+        },
+        {
+          "title": "Loop 29 · 18:00",
+          "snippet": "X community: replied to 5 technical founders saying \"marketing is the hard part\". Best reply was a concrete 3-line teardown of their landing page. Reply: 31 likes on best reply, 4 profile visits. Learned: A specific tear…",
+          "source": "loops/loop-29"
+        },
+        {
+          "title": "Loop 26 · 15:00",
+          "snippet": "X community: replied in founder voice to a founder asking \"how do I get my first users?\" with a 3-step answer, no link. Reply: 12 likes, 2 replies, 1 signup. Learned: On X, answer first and pitch never. Only mention View…",
+          "source": "loops/loop-26"
+        },
+        {
+          "title": "Loop 34 · 09:00",
+          "snippet": "X post at 23:00 PT the night before got 3x fewer impressions than morning posts. Reply: low reach. Learned: Post on X between 8-10am PT. Queue night drafts for the morning. - Action: X post at 23:00 PT the night before g…",
+          "source": "loops/loop-34"
+        }
+      ]
+    }
+  ]
+}

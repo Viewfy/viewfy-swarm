@@ -1,0 +1,1111 @@
+[{
+  "#debug": {
+    "requestId": "4UmlcH8Vf5Kizuy",
+    "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+SDR+raises+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+SDR+raises+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:techcrunch.com AI SDR raises 2026",
+    "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+SDR+raises+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+SDR+raises+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": false,
+  "serpProviderCode": "O",
+  "relatedQueries": [],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/4UmlcH8Vf5Kizuy-0.html?signature=13TE47eEhuCM3D3oRILPD"
+},
+{
+  "#debug": {
+    "requestId": "8RBiaNbOQsFoHWh",
+    "url": "http://www.google.com/search?q=site%3Aventurebeat.com+AI+search+visibility+brands+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Aventurebeat.com+AI+search+visibility+brands+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:venturebeat.com AI search visibility brands 2026",
+    "url": "http://www.google.com/search?q=site%3Aventurebeat.com+AI+search+visibility+brands+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Aventurebeat.com+AI+search+visibility+brands+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": false,
+  "serpProviderCode": "O",
+  "relatedQueries": [],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/8RBiaNbOQsFoHWh-0.html?signature=1y9ty9A1KI0AwBk36vJjk"
+},
+{
+  "#debug": {
+    "requestId": "Iyb2OxsTnaQWdsT",
+    "url": "http://www.google.com/search?q=AI+search+optimization+startup+raises+funding+2026+news&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=AI+search+optimization+startup+raises+funding+2026+news&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "AI search optimization startup raises funding 2026 news",
+    "url": "http://www.google.com/search?q=AI+search+optimization+startup+raises+funding+2026+news&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=AI+search+optimization+startup+raises+funding+2026+news&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [
+    {
+      "title": "Ai search optimization startup raises funding 2026 news today",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Ai+search+optimization+startup+raises+funding+2026+news+today&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg4EAE"
+    },
+    {
+      "title": "Profound AI funding",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Profound+AI+funding&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg7EAE"
+    },
+    {
+      "title": "Daydream SEO",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Daydream+SEO&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg8EAE"
+    },
+    {
+      "title": "Profound Series D",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Profound+Series+D&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg9EAE"
+    },
+    {
+      "title": "Krane ai construction funding",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Krane+ai+construction+funding&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg2EAE"
+    },
+    {
+      "title": "Daydream startup",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Daydream+startup&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg3EAE"
+    },
+    {
+      "title": "Withdaydream",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Withdaydream&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg5EAE"
+    },
+    {
+      "title": "AI clothes shopping assistant",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=AI+clothes+shopping+assistant&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg6EAE"
+    },
+    {
+      "title": "Ai search optimization startup raises funding 2026 news today",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Ai+search+optimization+startup+raises+funding+2026+news+today&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg4EAE"
+    },
+    {
+      "title": "Profound AI funding",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Profound+AI+funding&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg7EAE"
+    },
+    {
+      "title": "Daydream SEO",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Daydream+SEO&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg8EAE"
+    },
+    {
+      "title": "Profound Series D",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Profound+Series+D&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg9EAE"
+    },
+    {
+      "title": "Krane ai construction funding",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Krane+ai+construction+funding&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg2EAE"
+    },
+    {
+      "title": "Daydream startup",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Daydream+startup&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg3EAE"
+    },
+    {
+      "title": "Withdaydream",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=Withdaydream&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg5EAE"
+    },
+    {
+      "title": "AI clothes shopping assistant",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnsJNJsdN9hB73Xv5tHBW4Ifo5DVVg:1790542907928&q=AI+clothes+shopping+assistant&sa=X&ved=2ahUKEwi_je2P1I-XAxVxlZUCHdMSJt0Q1QJ6BAg6EAE"
+    }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+    {
+      "title": "Daydream Raises $15M to Blend AI and Human SEO ...",
+      "websiteTitle": "Business Insider",
+      "url": "https://www.businessinsider.com/daydream-raises-15-m-ai-human-seo-expertise-2026-4",
+      "displayedUrl": "https://www.businessinsider.com › Startups › AI",
+      "description": "Daydream, led by Thenuka Karunaratne and Shravan Rajinikanth, raises $15M to enhance AI-driven SEO services with human oversight.",
+      "date": "2026-04-02T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Daydream, led by Thenuka Karunaratne and Shravan Rajinikanth"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 1
+    },
+    {
+      "title": "Sunbeam Founders Share AI-Powered SEO Expertise",
+      "websiteTitle": "LinkedIn · Will Phillips",
+      "url": "https://www.linkedin.com/posts/will-phillips-3b9a25191_most-startups-raise-venture-capital-and-immediately-activity-7468708262717227011-kcE6",
+      "displayedUrl": "20+ reactions  ·  3 months ago",
+      "description": "",
+      "emphasizedKeywords": [],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 2
+    },
+    {
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "displayedUrl": "https://techcrunch.com › 2026/09/15 › aeo-startup-prof...",
+      "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+      "date": "2026-09-15T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Profound has raised a $180 million Series D"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 3
+    },
+    {
+      "title": "Edge AI Market Funding News (September 2026)",
+      "websiteTitle": "New Market Pitch",
+      "url": "https://newmarketpitch.com/blogs/news/edge-ai-funding-news",
+      "displayedUrl": "https://newmarketpitch.com › blogs › edge-ai-funding-n...",
+      "description": "Edgify raised $9M in a Series A+ round in August 2026. · Quadric extended its Series C to $46M in July 2026. · CTHINGS.CO secured approximately $2M for expansion ...Read more",
+      "date": "2026-09-19T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Edgify raised $9M in a Series A+ round in August 2026"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 4
+    },
+    {
+      "title": "Profound raises $180M for AI search engine optimization",
+      "websiteTitle": "Facebook",
+      "url": "https://www.facebook.com/Internetofthingstechnology/posts/profound-raises-180m-to-power-the-ai-search-era-aeo-startup-profound-has-raised-/1587132176543786/",
+      "displayedUrl": "https://www.facebook.com › posts › profound-raises-18...",
+      "description": "Profound has raised $180 million in Series D funding at a $1.8 billion valuation—just seven months after its previous round.",
+      "emphasizedKeywords": [
+        "Profound has raised $180 million in Series D funding"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 5
+    },
+    {
+      "title": "daydream Raises $15M Series A to Build the World's Best ...",
+      "websiteTitle": "EQS News",
+      "url": "https://www.eqs-news.com/news/corporate/daydream-raises-15m-series-a-to-build-the-worlds-best-ai-native-agency-for-seo/45e82542-0e24-4561-b47a-4d12955ff69b_en",
+      "displayedUrl": "https://www.eqs-news.com › news › corporate › daydre...",
+      "description": "The round brings daydream's total funding to $21 million and will be used to accelerate hiring, product development, and go-to-market expansion.",
+      "date": "2026-04-02T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "daydream's total funding to $21 million"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 6
+    },
+    {
+      "title": "Profound valuation: $1.8B (Sep 2026) — funding & investors",
+      "websiteTitle": "Value Add VC",
+      "url": "https://valueaddvc.com/pulse/company/profound",
+      "displayedUrl": "https://valueaddvc.com › Pulse › Companies",
+      "description": "Raised $180M Series D at a $1.8B valuation TechCrunch ; First reported total funding: >$335M Bloomberg ; AEO Startup Profound Hits $1.8B In Just 7 Months Pulse ...Read more",
+      "date": "2026-09-15T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Raised",
+        "funding",
+        "Startup"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 7
+    },
+    {
+      "title": "Trishla Ostwal's Post",
+      "websiteTitle": "LinkedIn · Trishla Ostwal",
+      "url": "https://www.linkedin.com/posts/trishlaostwal_news-bluefish-an-ai-marketing-startup-that-activity-7449816111216287744-ZYPE",
+      "displayedUrl": "60+ reactions",
+      "description": "Lightspeed Venture Partners and Sequoia Capital led a February investment round valuing AI search startup Profound, which was founded in 2024, at $1 billion.Read more",
+      "emphasizedKeywords": [
+        "Capital",
+        "AI search startup"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 8
+    },
+    {
+      "title": "List of Funded Series A Startups (2026)",
+      "websiteTitle": "Fundraise Insider",
+      "url": "https://fundraiseinsider.com/blog/series-a-startups/",
+      "displayedUrl": "https://fundraiseinsider.com › blog › series-a-startups",
+      "description": "Search engine optimization and paid advertising; Customer success tools and onboarding automation; Sales and marketing enablement platforms; Recruiting and ...Read more",
+      "date": "2026-07-23T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Search engine optimization and paid advertising"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 9
+    },
+    {
+      "title": "Latest AI Startup Funding News and VC Investment Deals",
+      "websiteTitle": "Crescendo.ai",
+      "url": "https://www.crescendo.ai/news/latest-vc-investment-deals-in-ai-startups",
+      "displayedUrl": "https://www.crescendo.ai › news › latest-vc-investment-...",
+      "description": "LeapXpert Raises $180 Million for AI-Powered Governed Communications · When: June 30, 2026 · Recipient Company: LeapXpert (Governed Communication Intelligence ...Read more",
+      "date": "2026-07-03T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "LeapXpert Raises $180 Million for AI-Powered Governed Communications"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 10
+    }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/Iyb2OxsTnaQWdsT-0.html?signature=1iTtfbkEJ6K0LguS3KzUm"
+},
+{
+  "#debug": {
+    "requestId": "faiAP2l1Z4wgpri",
+    "url": "http://www.google.com/search?q=site%3Asifted.eu+AI+go-to-market+startup+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Asifted.eu+AI+go-to-market+startup+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:sifted.eu AI go-to-market startup 2026",
+    "url": "http://www.google.com/search?q=site%3Asifted.eu+AI+go-to-market+startup+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Asifted.eu+AI+go-to-market+startup+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+    {
+      "title": "Inside the UK startup building AI's next enterprise category",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/uk-startup-building-ais-next-enterprise-category-brnd/",
+      "displayedUrl": "https://sifted.eu › articles › uk-startup-building-ais-next-e...",
+      "description": "Founded by solo female founder Fayola-Maria Jack, Resolutiion has raised more than $10.4m to date, backed by funds and strategic investors.",
+      "date": "2026-09-23T21:01:50.097Z",
+      "emphasizedKeywords": [
+        "Resolutiion"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 1
+    },
+    {
+      "title": "Four mistakes not to make as a first-time founder",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/four-mistakes-not-to-make-as-a-first-time-founder",
+      "displayedUrl": "https://sifted.eu › articles › four-mistakes-not-to-make-as...",
+      "description": "When founders spend too much time reacting to competitors, they stop thinking independently, lose conviction and become driven by market noise rather than ...Read more",
+      "date": "2026-06-16T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "market"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 2
+    },
+    {
+      "title": "Should we fear AI-led performance reviews?",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/alan-chang-fuse-ai-reviews",
+      "displayedUrl": "https://sifted.eu › articles › alan-chang-fuse-ai-reviews",
+      "description": "Fuse Energy boss Alan Chang says the tech is helping him achieve \"the ultimate meritocracy\" — but some are sceptical that AI can do this job well.",
+      "date": "2026-09-23T21:01:50.100Z",
+      "emphasizedKeywords": [
+        "AI"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 3
+    },
+    {
+      "title": "What if companies could finally use their most valuable data?",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/companies-finally-use-their-most-valuable-data-brnd",
+      "displayedUrl": "https://sifted.eu › articles › companies-finally-use-their-m...",
+      "description": "Businesses are spending heavily on AI while some of the data most likely to generate real commercial value from it remains locked away.",
+      "date": "2026-09-22T21:01:50.102Z",
+      "emphasizedKeywords": [
+        "AI"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 4
+    },
+    {
+      "title": "Latest nick clegg news and analysis from startup Europe",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/tag/nick-clegg/",
+      "displayedUrl": "https://sifted.eu › tag › nick-clegg",
+      "description": "5 reasons to get excited about Sifted Summit. Harry Stebbings, Henry Hayes, Nick Clegg and the other speakers I'm looking forward to seeing.Read more",
+      "date": "2026-09-24T21:01:50.104Z",
+      "emphasizedKeywords": [
+        "get"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 5
+    },
+    {
+      "title": "Latest Connect Ventures news and analysis from startup ...",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/tag/connect-ventures",
+      "displayedUrl": "https://sifted.eu › tag › connect-ventures",
+      "description": "Europe's leading pre-seed investors in 2026 · Exclusive: Connect Ventures raises $55m in first close of fifth fund to chase deeptech founders.Read more",
+      "date": "2026-09-23T21:01:50.105Z",
+      "emphasizedKeywords": [
+        "Connect Ventures raises $55m in first close of fifth fund"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 6
+    },
+    {
+      "title": "Inside Malmö's bet to turn the city into a testbed for impact ...",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/malmo-testbed-for-impact-innovation-brnd",
+      "displayedUrl": "https://sifted.eu › articles › malmo-testbed-for-impact-inn...",
+      "description": "Ecodrop has developed a small device that attaches to taps, turning water consumption into real-time data and giving users immediate feedback on how much water ...",
+      "date": "2026-09-14T12:00:00.000Z",
+      "emphasizedKeywords": [],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 7
+    },
+    {
+      "title": "Latest Events news and analysis from startup Europe",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/sector/events",
+      "displayedUrl": "https://sifted.eu › sector › events",
+      "description": "The best meetups in London for founders and VCs List August 13, 2026. AI' Pro Exclusive April. The tech events Sifted will be attending money to startups. ...",
+      "date": "2026-08-13T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "2026",
+        "AI",
+        "startups"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 8
+    },
+    {
+      "title": "A founder's guide to early IP management: 'You don't own it ...",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/a-founders-guide-to-early-ip-management-brnd",
+      "displayedUrl": "https://sifted.eu › articles › a-founders-guide-to-early-ip-...",
+      "description": "When Flatfrog's founders started developing interactive touchscreen whiteboards, their first assumption wasn't about patent count at all.",
+      "date": "2026-09-17T12:00:00.000Z",
+      "emphasizedKeywords": [],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 9
+    },
+    {
+      "title": "N8n boss: 'Our goal is to get to 1bn users with fewer than ...",
+      "websiteTitle": "Sifted",
+      "url": "https://sifted.eu/articles/n8n-boss-1bn-users-fewer-than-1000-employees",
+      "displayedUrl": "https://sifted.eu › articles",
+      "description": "Jan Oberhauser on the surge in demand for AI agents and how companies can now do more with a much lower headcount.",
+      "date": "2026-09-21T21:01:50.108Z",
+      "emphasizedKeywords": [
+        "AI"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 10
+    }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/faiAP2l1Z4wgpri-0.html?signature=HfnqGYBTc029KZbLkpXx"
+},
+{
+  "#debug": {
+    "requestId": "VAAQnTUe4hp41Zu",
+    "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+agents+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+agents+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:techcrunch.com AI agents marketing startups 2026",
+    "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+agents+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Atechcrunch.com+AI+agents+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": true,
+  "serpProviderCode": "L",
+  "relatedQueries": [
+    {
+      "title": "Top ai agents marketing startups 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Top+ai+agents+marketing+startups+2026&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAgyEAE"
+    },
+    {
+      "title": "Best ai agents marketing startups 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Best+ai+agents+marketing+startups+2026&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAgzEAE"
+    },
+    {
+      "title": "Ai agents marketing startups 2026 reddit",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Ai+agents+marketing+startups+2026+reddit&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAg1EAE"
+    },
+    {
+      "title": "Ai agents marketing startups 2026 usa",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Ai+agents+marketing+startups+2026+usa&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAg0EAE"
+    },
+    {
+      "title": "Top ai agents marketing startups 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Top+ai+agents+marketing+startups+2026&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAgyEAE"
+    },
+    {
+      "title": "Best ai agents marketing startups 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Best+ai+agents+marketing+startups+2026&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAgzEAE"
+    },
+    {
+      "title": "Ai agents marketing startups 2026 reddit",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Ai+agents+marketing+startups+2026+reddit&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAg1EAE"
+    },
+    {
+      "title": "Ai agents marketing startups 2026 usa",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&tbs=qdr:m6&sxsrf=APpeQnuQgDSTihUqcRvi2CGBjnSHCegwxg:1790542906983&q=Ai+agents+marketing+startups+2026+usa&sa=X&ved=2ahUKEwjTjbOP1I-XAxWvH7kGHVy5OvMQ1QJ6BAg0EAE"
+    }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+    {
+      "title": "Meta now lets AI agents handle the boring parts ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "displayedUrl": "https://techcrunch.com › 2026/09/15 › meta-now-lets-ai...",
+      "description": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry ... Meta now lets AI agents handle the boring parts of WhatsApp Business setup.Read more",
+      "date": "2026-09-15T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "2026",
+        "AI agents"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 1
+    },
+    {
+      "title": "The 11 standout startups from YC's Demo Day, according ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/18/the-11-standout-startups-from-ycs-demo-day-according-to-vcs/",
+      "displayedUrl": "https://techcrunch.com › 2026/06/18 › the-11-standout-...",
+      "description": "On Tuesday, the Spring 2026 cohort was unveiled, filled with defense tech, robotics, AI infrastructure and developer tools, and of course, AI agents. TechCrunch ...Read more",
+      "date": "2026-06-18T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "2026",
+        "AI",
+        "AI agents"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 2
+    },
+    {
+      "title": "Runable hits $21M to bet AI agents can go from building ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "displayedUrl": "https://techcrunch.com › 2026/08/26 › runable-hits-21...",
+      "description": "Founded in 2025, Runable is targeting small businesses in an increasingly crowded market that includes AI giants such as Anthropic and OpenAI and coding ...Read more",
+      "date": "2026-08-26T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "AI"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 3
+    },
+    {
+      "title": "India's MoEngage bets that the future of marketing is ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+      "displayedUrl": "https://techcrunch.com › 2026/06/23 › indias-moengag...",
+      "description": "Founded in 2020, Aampe develops software that assigns a dedicated AI agent to each customer, allowing brands to personalize messaging based on individual ...Read more",
+      "date": "2026-06-23T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "AI agent"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 4
+    },
+    {
+      "title": "Mark Zuckerberg predicts that billions of people will have ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "displayedUrl": "https://techcrunch.com › 2026/07/29 › mark-zuckerber...",
+      "description": "Meta pours billions into AI infrastructure and agents, Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "date": "2026-07-29T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "AI",
+        "agents",
+        "AI agents"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 5
+    },
+    {
+      "title": "Acti puts AI agents directly into your smartphone keyboard",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+      "displayedUrl": "https://techcrunch.com › 2026/06/30 › acti-puts-ai-agen...",
+      "description": "Disrupt 2026: OpenAI, Anthropic, Replit, and more take over 6 industry stages. bringing AI tools directly into the apps you already use, including email, ...",
+      "date": "2026-06-30T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "2026",
+        "AI"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 6
+    },
+    {
+      "title": "Beyond Lovable and Mistral: 21 European startups to watch",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/02/beyond-lovable-and-mistral-21-european-startups-to-watch/",
+      "displayedUrl": "https://techcrunch.com › 2026/05/02 › beyond-lovable-...",
+      "description": "What it does: AI agents for complex use cases. Why it's worth watching: HappyRobot, a startup backed by a16z and Y Combinator, is one of many building AI agents ...Read more",
+      "date": "2026-05-02T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "HappyRobot, a startup backed by a16z and Y Combinator"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 7
+    },
+    {
+      "title": "Everything new coming to Meta's AI agent Muse",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "displayedUrl": "https://techcrunch.com › 2026/09/23 › everything-new-...",
+      "description": "Muse, which launched in early September, interacts across a user's devices and digital accounts. The agent is powered by Muse Spark, Meta's multimodal AI model ...Read more",
+      "date": "2026-09-23T21:01:48.873Z",
+      "emphasizedKeywords": [
+        "Muse, which launched in early September"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 8
+    },
+    {
+      "title": "The most interesting startups showcased at Google Cloud ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+      "displayedUrl": "https://techcrunch.com › 2026/04/22 › the-most-interest...",
+      "description": "Vapi, which makes dev tools for building conversational voice agents. Vurvey Labs, which conducts synthetic market research via AI agents. Wand, an in-game ...Read more",
+      "date": "2026-04-22T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "agents",
+        "AI agents"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 9
+    },
+    {
+      "title": "Meta's AI agent for WhatsApp Business is now available ...",
+      "websiteTitle": "TechCrunch",
+      "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
+      "displayedUrl": "https://techcrunch.com › 2026/06/03 › metas-ai-agent-f...",
+      "description": "Meta said the AI agent can answer customer questions, recommend products, book appointments, qualify sales leads, and reroute queries to a person if needed. The ...Read more",
+      "date": "2026-06-03T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "AI agent"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 10
+    }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/VAAQnTUe4hp41Zu-0.html?signature=7pNP9h2GTPTD94hnMmXQ"
+},
+{
+  "#debug": {
+    "requestId": "xzJrO1ujYv15uhw",
+    "url": "http://www.google.com/search?q=site%3Abusinessinsider.com+AI+agents+sales+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Abusinessinsider.com+AI+agents+sales+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:businessinsider.com AI agents sales marketing startups 2026",
+    "url": "http://www.google.com/search?q=site%3Abusinessinsider.com+AI+agents+sales+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Abusinessinsider.com+AI+agents+sales+marketing+startups+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": true,
+  "serpProviderCode": "O",
+  "relatedQueries": [],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+    {
+      "title": "NiteShyft Announces October Launch Of AI Business ...",
+      "websiteTitle": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/niteshyft-announces-october-launch-of-ai-business-operating-platform-for-small-companies-1036530656",
+      "displayedUrl": "https://markets.businessinsider.com › News › Stock News",
+      "description": "NiteShyft will open its AI business operating platform to the public in October 2026, AI agents completed more than 2,000 business tasks ・ marketing, content, ...",
+      "date": "2026-09-08T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "NiteShyft will open its AI business operating platform to the public in October 2026"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 1
+    },
+    {
+      "title": "MERGE Acquires Brado's Digital and Insight Practices to ...",
+      "websiteTitle": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/merge-acquires-brado-s-digital-and-insight-practices-to-deepen-behavioral-research-and-accelerate-ai-driven-discoverability-1036494375",
+      "displayedUrl": "https://markets.businessinsider.com › News › Stock News",
+      "description": "MERGE Acquires Brado's Digital and Insight Practices to Deepen Behavioral Research and Accelerate AI-Driven Discoverability ... CHICAGO, Aug. 26, 2026 (GLOBE ...Read more",
+      "date": "2026-08-26T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "AI",
+        "2026"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 2
+    },
+    {
+      "title": "5 Founder-Led Companies Built to Innovate and Outperform",
+      "websiteTitle": "businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/5-founder-led-companies-built-to-innovate-and-outperform-15809226",
+      "displayedUrl": "https://markets.businessinsider.com › news › stocks › 5-...",
+      "description": "NVIDIA, Amazon, Berkshire, Palantir and Dell stand out as founder-run companies with strong vision, innovation and long-term growth drivers.",
+      "date": "2026-07-20T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "NVIDIA, Amazon, Berkshire, Palantir and Dell"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 3
+    },
+    {
+      "title": "Innodata vs. Snowflake: Which AI Data Stock Has the Edge?",
+      "websiteTitle": "businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/innodata-vs--snowflake--which-ai-data-stock-has-the-edge-15760532",
+      "displayedUrl": "https://markets.businessinsider.com › news › stocks › in...",
+      "description": "Innodata raised its 2026 revenue growth outlook as AI revenue scaled and margins expanded. Snowflake's AI adoption is rising, but Innodata's lower valuation ...Read more",
+      "date": "2026-06-23T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Innodata raised its 2026 revenue growth outlook"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 4
+    },
+    {
+      "title": "Should Bandwidth Stock Be in Your Portfolio Pre-Q2 ...",
+      "websiteTitle": "businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/should-bandwidth-stock-be-in-your-portfolio-pre-q2-earnings-15825420",
+      "displayedUrl": "https://markets.businessinsider.com › news › stocks › sh...",
+      "description": "BAND heads into Q2 2026 earnings with AI platform expansion, consensus estimates of $217M in sales and $0.36 EPS. BAND launched Build to expand AI ...",
+      "date": "2026-07-27T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "BAND heads into Q2 2026 earnings"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 5
+    },
+    {
+      "title": "Hashdex Announces Addition of HYPE to NCIQ Multi-Asset ...",
+      "websiteTitle": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/hashdex-announces-addition-of-hype-to-nciq-multi-asset-spot-etf-1036511327",
+      "displayedUrl": "https://markets.businessinsider.com › News › Stock News",
+      "description": "Paralel Distributors LLC serves as the marketing agent, and Coinbase Custody, BitGo Trust and Fidelity Digital Assets Services serve as crypto asset custodians.Read more",
+      "date": "2026-09-01T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "marketing agent"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 6
+    },
+    {
+      "title": "Elutia Completes SimpliDerm® Sale on Schedule, Adds $8 ...",
+      "websiteTitle": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/elutia-completes-simpliderm-sale-on-schedule-adds-8-million-in-cash-to-fund-nxt-41x-through-full-commercial-launch-1036470137",
+      "displayedUrl": "https://markets.businessinsider.com › news › stocks",
+      "description": "Elutia Completes SimpliDerm® Sale on Schedule, Adds $8 Million in Cash. Deal valued at $11 million in cash, with $8 million at closing and up to $3 million … ...",
+      "date": "2026-08-18T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Sale"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 7
+    },
+    {
+      "title": "New REDUCE-IT® Legacy Analysis Presented at European ...",
+      "websiteTitle": "markets.businessinsider.com",
+      "url": "https://markets.businessinsider.com/news/stocks/new-reduce-it-legacy-analysis-presented-at-european-society-of-cardiology-esc-congress-2026-suggests-persistent-cardiovascular-benefit-following-icosapent-ethyl-treatment-cessation-in-adherent-1036502783",
+      "displayedUrl": "https://markets.businessinsider.com › news › stocks › ne...",
+      "description": "A new analysis from the landmark REDUCE-IT trial evaluated the impact of treatment adherence on cardiovascular (CV) outcomes and explored whether the benefits ...Read more",
+      "date": "2026-08-28T12:00:00.000Z",
+      "emphasizedKeywords": [],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 8
+    }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/xzJrO1ujYv15uhw-0.html?signature=3wgEwf6Tg8DtFTuTsPT7"
+},
+{
+  "#debug": {
+    "requestId": "2PpyweSSFeEiAFc",
+    "url": "http://www.google.com/search?q=site%3Atheverge.com+ChatGPT+search+ads+brands+2026&hl=en&tbs=qdr%3Am6",
+    "loadedUrl": "http://www.google.com/search?q=site%3Atheverge.com+ChatGPT+search+ads+brands+2026&hl=en&tbs=qdr%3Am6",
+    "method": "GET",
+    "retryCount": 0,
+    "errorMessages": [],
+    "statusCode": 200
+  },
+  "#error": false,
+  "searchQuery": {
+    "term": "site:theverge.com ChatGPT search ads brands 2026",
+    "url": "http://www.google.com/search?q=site%3Atheverge.com+ChatGPT+search+ads+brands+2026&hl=en&tbs=qdr%3Am6",
+    "device": "DESKTOP",
+    "page": 1,
+    "type": "SEARCH",
+    "domain": "google.com",
+    "countryCode": "US",
+    "languageCode": "en",
+    "locationUule": null,
+    "resultsPerPage": 10
+  },
+  "url": "http://www.google.com/search?q=site%3Atheverge.com+ChatGPT+search+ads+brands+2026&hl=en&tbs=qdr%3Am6",
+  "hasNextPage": true,
+  "serpProviderCode": "O",
+  "relatedQueries": [
+    {
+      "title": "Chatgpt search ads brands 2026 reddit",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+reddit&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgJEAE"
+    },
+    {
+      "title": "Chatgpt search ads brands 2026 list",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+list&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgNEAE"
+    },
+    {
+      "title": "Chatgpt search ads brands 2026 free",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+free&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgMEAE"
+    },
+    {
+      "title": "Best chatgpt search ads brands 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Best+chatgpt+search+ads+brands+2026&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgLEAE"
+    },
+    {
+      "title": "Chatgpt search ads brands 2026 reddit",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+reddit&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgJEAE"
+    },
+    {
+      "title": "Chatgpt search ads brands 2026 list",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+list&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgNEAE"
+    },
+    {
+      "title": "Chatgpt search ads brands 2026 free",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Chatgpt+search+ads+brands+2026+free&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgMEAE"
+    },
+    {
+      "title": "Best chatgpt search ads brands 2026",
+      "url": "https://www.google.com/search?sca_esv=b558929c8c713236&hl=en&gl=US&tbs=qdr:m6&sxsrf=APpeQnuAkg20vA9YaJcvBBE2IgNvYCkC1Q:1790542919878&q=Best+chatgpt+search+ads+brands+2026&sa=X&ved=2ahUKEwia3MaV1I-XAxUhqpUCHXv_IToQ1QJ6BAgLEAE"
+    }
+  ],
+  "paidResults": [],
+  "paidProducts": [],
+  "organicResults": [
+    {
+      "title": "Can AI responses be influenced? The SEO industry is trying",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/tech/900302/ai-seo-industry-google-search-chatgpt-gemini-marketing",
+      "displayedUrl": "https://www.theverge.com › Tech › Business › Creators",
+      "description": "Some users are searching elsewhere, using chatbots like ChatGPT and Claude to find things they had used traditional search for. For some publishers and brands ...Read more",
+      "date": "2026-04-06T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "searching",
+        "ChatGPT",
+        "find",
+        "search",
+        "brands"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 1
+    },
+    {
+      "title": "From ChatGPT to Gemini: how AI is rewriting the internet",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/23610427/chatbots-chatgpt-new-bing-google-bard-conversational-ai",
+      "displayedUrl": "https://www.theverge.com › chatbots-chatgpt-new-bing...",
+      "description": "How we find answers on the internet is changing with the advent of OpenAI's ChatGPT and other generative AI tech, like Microsoft Copilot and Google Gemini.",
+      "date": "2026-09-15T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "find",
+        "ChatGPT"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 2
+    },
+    {
+      "title": "$122 billion funding round, 900 million weekly ChatGPT ...",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/904727/openai-chatgpt-investment",
+      "displayedUrl": "https://www.theverge.com › openai-chatgpt-investment",
+      "description": "Search usage has nearly tripled in a year, and our ads pilot reached more than $100 million in ARR in under six weeks. Follow topics and authors from this story ...Read more",
+      "date": "2026-03-31T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "Search",
+        "ads"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 3
+    },
+    {
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "displayedUrl": "https://www.theverge.com › Podcasts › AI › Business",
+      "description": "Bots could outnumber human users online by 1000 times within five years. Can Cloudflare use its place in the ecosystem to save a post-advertising, post-search",
+      "date": "2026-09-26T21:02:01.683Z",
+      "emphasizedKeywords": [
+        "search"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 4
+    },
+    {
+      "title": "Can Reddit fend off a new wave of AI SEO spam?",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "displayedUrl": "https://www.theverge.com › AI › Business › Tech",
+      "description": "The era of AI-powered search has made Reddit mentions highly valuable. Subreddit moderators are catching brands trying to take advantage.",
+      "date": "2026-08-04T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "search",
+        "brands"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 5
+    },
+    {
+      "title": "April Fools' Day 2026: the best and cringiest pranks",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
+      "displayedUrl": "https://www.theverge.com › tldr › april-fools-day-2026...",
+      "description": "April Fools' 2026: Bass Magazine written by ChatGPT, sponsored by Suno. It's no secret that musicians are generally not huge fans of AI. So obviously, a ...Read more",
+      "date": "2026-04-01T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "April Fools' 2026: Bass Magazine written by ChatGPT"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 6
+    },
+    {
+      "title": "You're about to feel the AI money squeeze",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "displayedUrl": "https://www.theverge.com › AI › Business › Report",
+      "description": "In consumer chatbots, some model makers are trying to mitigate this with advertising. OpenAI recently introduced ads within ChatGPT, which show up as a separate ...Read more",
+      "date": "2026-04-23T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "ads",
+        "ChatGPT"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 7
+    },
+    {
+      "title": "US v. Google search antitrust trial: updates",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/23869483/us-v-google-search-antitrust-case-updates",
+      "displayedUrl": "https://www.theverge.com › Tech › Google",
+      "description": "Everything that's happened so far in the Department of Justice's antitrust case against Google's search business.",
+      "date": "2026-05-22T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "search"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 8
+    },
+    {
+      "title": "Would you let robots spend your money? Google is betting ...",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/news/932927/google-io-agentic-ai-shopping-universal-cart",
+      "displayedUrl": "https://www.theverge.com › News › AI › Business",
+      "description": "OpenAI's efforts at checkout features within ChatGPT were disappointing. As more shoppers use AI chatbots to research products to buy or get recommendations, ...Read more",
+      "date": "2026-05-19T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "ChatGPT"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 9
+    },
+    {
+      "title": "Why OpenAI killed Sora",
+      "websiteTitle": "The Verge",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
+      "displayedUrl": "https://www.theverge.com › AI › Report › Analysis",
+      "description": "By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it ...Read more",
+      "date": "2026-03-28T12:00:00.000Z",
+      "emphasizedKeywords": [
+        "ChatGPT"
+      ],
+      "siteLinks": [],
+      "productInfo": {},
+      "type": "organic",
+      "position": 10
+    }
+  ],
+  "suggestedResults": [],
+  "peopleAlsoAsk": [],
+  "customData": null,
+  "htmlSnapshotUrl": "https://api.apify.com/v2/key-value-stores/4dZDpcyR4wgXOWhpw/records/2PpyweSSFeEiAFc-0.html?signature=1d2ZvqkKDkPQXMHYGmqCF"
+}]
