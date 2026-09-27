@@ -75,7 +75,7 @@ function VoiceLayout() {
             <GmailGlyph />
             <span className="font-bold text-cream">Gmail</span>
             <span className="text-cream/50">·</span>
-            <span className="tabular">1,912</span> sent emails
+            founder emails
           </Chip>
           <Chip glow>
             <span className="h-2 w-2 rounded-full bg-violet" />
