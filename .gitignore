@@ -225,3 +225,4 @@ data/brain/
 data/ledger.jsonl
 *.mp4
 *.webm
+river/docs/
