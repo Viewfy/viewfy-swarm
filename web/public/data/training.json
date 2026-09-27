@@ -1,0 +1,171 @@
+{
+  "provider": "river",
+  "real": false,
+  "baseModel": "Qwen/Qwen3.5-9B",
+  "adapter": "pending",
+  "examples": 0,
+  "steps": [
+    {
+      "step": 1,
+      "loss": 3.929
+    },
+    {
+      "step": 2,
+      "loss": 3.639
+    },
+    {
+      "step": 3,
+      "loss": 3.453
+    },
+    {
+      "step": 4,
+      "loss": 3.159
+    },
+    {
+      "step": 5,
+      "loss": 3.009
+    },
+    {
+      "step": 6,
+      "loss": 2.802
+    },
+    {
+      "step": 7,
+      "loss": 2.594
+    },
+    {
+      "step": 8,
+      "loss": 2.491
+    },
+    {
+      "step": 9,
+      "loss": 2.292
+    },
+    {
+      "step": 10,
+      "loss": 2.21
+    },
+    {
+      "step": 11,
+      "loss": 2.047
+    },
+    {
+      "step": 12,
+      "loss": 1.941
+    },
+    {
+      "step": 13,
+      "loss": 1.882
+    },
+    {
+      "step": 14,
+      "loss": 1.84
+    },
+    {
+      "step": 15,
+      "loss": 1.673
+    },
+    {
+      "step": 16,
+      "loss": 1.61
+    },
+    {
+      "step": 17,
+      "loss": 1.589
+    },
+    {
+      "step": 18,
+      "loss": 1.565
+    },
+    {
+      "step": 19,
+      "loss": 1.463
+    },
+    {
+      "step": 20,
+      "loss": 1.389
+    },
+    {
+      "step": 21,
+      "loss": 1.41
+    },
+    {
+      "step": 22,
+      "loss": 1.255
+    },
+    {
+      "step": 23,
+      "loss": 1.313
+    },
+    {
+      "step": 24,
+      "loss": 1.208
+    },
+    {
+      "step": 25,
+      "loss": 1.157
+    },
+    {
+      "step": 26,
+      "loss": 1.124
+    },
+    {
+      "step": 27,
+      "loss": 1.119
+    },
+    {
+      "step": 28,
+      "loss": 1.154
+    },
+    {
+      "step": 29,
+      "loss": 1.055
+    },
+    {
+      "step": 30,
+      "loss": 1.082
+    },
+    {
+      "step": 31,
+      "loss": 1.069
+    },
+    {
+      "step": 32,
+      "loss": 1.02
+    },
+    {
+      "step": 33,
+      "loss": 1.025
+    },
+    {
+      "step": 34,
+      "loss": 0.952
+    },
+    {
+      "step": 35,
+      "loss": 0.938
+    },
+    {
+      "step": 36,
+      "loss": 0.943
+    },
+    {
+      "step": 37,
+      "loss": 0.989
+    },
+    {
+      "step": 38,
+      "loss": 0.949
+    },
+    {
+      "step": 39,
+      "loss": 0.926
+    },
+    {
+      "step": 40,
+      "loss": 0.95
+    }
+  ],
+  "voiceMatch": 0.0,
+  "notes": "placeholder written before the River run; will be overwritten by river/train_voice.py"
+}

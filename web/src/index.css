@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+/* Viewfy Swarm design tokens — see web/src/DESIGN.md */
+@theme {
+  --color-night-950: #050814;
+  --color-night-900: #0a1024;
+  --color-night-800: #111a36;
+  --color-night-700: #1b2650;
+  --color-night-600: #2a3870;
+
+  --color-star: #88c8f8;
+  --color-star-bright: #bfe3ff;
+  --color-star-deep: #4a9fe8;
+  --color-cream: #f8f5f1;
+  --color-ink: #181717;
+
+  --color-gold: #f6c667;
+  --color-coral: #ff8a70;
+  --color-mint: #6ee7b7;
+  --color-violet: #a78bfa;
+  --color-pink: #f472b6;
+  --color-sky: #7cc4fa;
+
+  --font-sans: "Lato", ui-sans-serif, system-ui, sans-serif;
+  --font-hand: "Caveat", cursive;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-night-950);
+  color: var(--color-cream);
+  font-family: var(--font-sans);
+  overflow: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Shared glass panel look */
+.glass {
+  background: color-mix(in oklab, var(--color-night-900) 72%, transparent);
+  border: 1px solid rgb(255 255 255 / 0.09);
+  box-shadow:
+    0 0 0 1px rgb(136 200 248 / 0.04) inset,
+    0 24px 60px -20px rgb(0 0 0 / 0.6);
+  backdrop-filter: blur(14px) saturate(1.2);
+  -webkit-backdrop-filter: blur(14px) saturate(1.2);
+  border-radius: 20px;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
