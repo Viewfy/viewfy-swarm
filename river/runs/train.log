@@ -1,0 +1,55 @@
+[voice] 108 SFT examples (69 posts, 33 replies, 6 emails) from @viewfy_ai
+[transformers] PyTorch was not found. Models won't be available and only tokenizers, configuration and file/data utilities can be used.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[river] model_id=ce86e0bd-6d5e-42fe-83d1-f662ffc2d4e0:model:1 base=Qwen/Qwen3.5-9B lora_rank=16
+step  1  loss/token=0.2513  (sum=177.6, tokens=707)  24s
+step  2  loss/token=0.2858  (sum=136.9, tokens=479)  40s
+step  3  loss/token=0.2221  (sum=111.3, tokens=501)  46s
+step  4  loss/token=0.2411  (sum=112.1, tokens=465)  52s
+step  5  loss/token=0.2181  (sum=146.8, tokens=673)  57s
+step  6  loss/token=0.2174  (sum=125.4, tokens=577)  65s
+step  7  loss/token=0.2209  (sum=141.0, tokens=638)  71s
+step  8  loss/token=0.2046  (sum=103.5, tokens=506)  77s
+step  9  loss/token=0.1732  (sum=147.4, tokens=851)  83s
+step 10  loss/token=0.2099  (sum=91.1, tokens=434)  90s
+step 11  loss/token=0.2021  (sum=123.9, tokens=613)  98s
+step 12  loss/token=0.1778  (sum=89.6, tokens=504)  104s
+step 13  loss/token=0.1822  (sum=113.0, tokens=620)  110s
+step 14  loss/token=0.1978  (sum=94.6, tokens=478)  116s
+step 15  loss/token=0.1510  (sum=112.6, tokens=746)  122s
+step 16  loss/token=0.1673  (sum=91.3, tokens=546)  130s
+step 17  loss/token=0.1769  (sum=88.3, tokens=499)  136s
+step 18  loss/token=0.1612  (sum=71.7, tokens=445)  142s
+step 19  loss/token=0.1448  (sum=108.2, tokens=747)  147s
+step 20  loss/token=0.1527  (sum=73.1, tokens=479)  155s
+[river] saved adapter river://ec955e61-67cf-492c-b6be-1dbc1fa99820/sampler_weights/viewfy-voice
+======================================================================
+post on X about a build-in-public ship note
+--- tuned ---
+Shipped the first onboarding flow. First visitor sees the form, not the bill. Drafts stay local until you approve. No Stripe surprises.
+======================================================================
+post on X about distribution for founders who ship
+--- tuned ---
+You ship. Then you distribute. One doesn't replace the other. Most founders do the inverse.
+======================================================================
+reply to a founder on X who asks how to get first users without ads
+--- tuned ---
+Ads are a leak, not a faucet. Build a funnel that doesn't need one to fill, and the first 10 users will find you anyway.
+======================================================================
+short email to a journalist who covers AI agents. Hook: solo founders are using agents for GTM
+--- tuned ---
+Subject: solo founders are using agents for GTM
+
+Hi [Name],
+
+saw your piece on AI agents. one thing you don't see much: founders running the agent as the marketer.
+
+it's not a sales rep. it's the first person on the queue. drafts the reply, I approve. flies solo, not a whole team.
+
+thought of you.
+
+Mike
+[voice] voice score tuned=0.716 base=0.461
+[rl] {'rewardMean': 0.486, 'rewards': [0.16479184330021646, 0.1039720770839918, 0.2079441541679836, 0.16479184330021646, 0.2687639203842082, 0.24141568686511503, 1.329583686600433, 1.4062075301653314], 'rollouts': 8, 'loss': 0.016075782477855682, 'updated': True}
+[voice] wrote /Users/mike/repos/viewfy-swarm/web/public/data/training.json
+EXIT 0
