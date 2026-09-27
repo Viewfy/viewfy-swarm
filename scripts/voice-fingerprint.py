@@ -50,7 +50,7 @@ examples = [
     "build distribution, not 100 apps",
     "viewfy's seo fixes land as a pull request, not a locked report. you merge it, app logic stays untouched. 💙",
     "the buyers are already typing the question. go find it.",
-    "Capped our draft Reddit replies at 2-5 sentences this week. The long ones always read like a pitch wearing a helpful hat: three paragraphs nobody asked for, then the link. Short answers get upvoted.",
+    "distribution's not scary, it's just a second product you haven't built yet",
 ]
 
 fp = {"traits": traits, "signaturePhrases": phrases, "avgWords": avg_words, "emojiRate": emoji_rate, "examples": examples}

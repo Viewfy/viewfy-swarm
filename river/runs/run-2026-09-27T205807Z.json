@@ -1,0 +1,129 @@
+{
+  "startedAt": "2026-09-27T20:58:07Z",
+  "finishedAt": "2026-09-27T21:01:34Z",
+  "adapter": {
+    "baseModel": "Qwen/Qwen3.5-9B",
+    "adapter": "river://ec955e61-67cf-492c-b6be-1dbc1fa99820/sampler_weights/viewfy-voice",
+    "modelId": "ce86e0bd-6d5e-42fe-83d1-f662ffc2d4e0:model:1",
+    "trainingRunId": "ec955e61-67cf-492c-b6be-1dbc1fa99820",
+    "savedAt": "2026-09-27T21:01:02Z"
+  },
+  "steps": [
+    {
+      "step": 1,
+      "loss": 0.2513
+    },
+    {
+      "step": 2,
+      "loss": 0.2858
+    },
+    {
+      "step": 3,
+      "loss": 0.2221
+    },
+    {
+      "step": 4,
+      "loss": 0.2411
+    },
+    {
+      "step": 5,
+      "loss": 0.2181
+    },
+    {
+      "step": 6,
+      "loss": 0.2174
+    },
+    {
+      "step": 7,
+      "loss": 0.2209
+    },
+    {
+      "step": 8,
+      "loss": 0.2046
+    },
+    {
+      "step": 9,
+      "loss": 0.1732
+    },
+    {
+      "step": 10,
+      "loss": 0.2099
+    },
+    {
+      "step": 11,
+      "loss": 0.2021
+    },
+    {
+      "step": 12,
+      "loss": 0.1778
+    },
+    {
+      "step": 13,
+      "loss": 0.1822
+    },
+    {
+      "step": 14,
+      "loss": 0.1978
+    },
+    {
+      "step": 15,
+      "loss": 0.151
+    },
+    {
+      "step": 16,
+      "loss": 0.1673
+    },
+    {
+      "step": 17,
+      "loss": 0.1769
+    },
+    {
+      "step": 18,
+      "loss": 0.1612
+    },
+    {
+      "step": 19,
+      "loss": 0.1448
+    },
+    {
+      "step": 20,
+      "loss": 0.1527
+    }
+  ],
+  "tunedSamples": {
+    "### Channel: x_post\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: post on X about a build-in-public ship note\n### Draft:\n": "Shipped the first onboarding flow. First visitor sees the form, not the bill. Drafts stay local until you approve. No Stripe surprises.",
+    "### Channel: x_post\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: post on X about distribution for founders who ship\n### Draft:\n": "You ship. Then you distribute. One doesn't replace the other. Most founders do the inverse.",
+    "### Channel: x_reply\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: reply to a founder on X who asks how to get first users without ads\n### Draft:\n": "Ads are a leak, not a faucet. Build a funnel that doesn't need one to fill, and the first 10 users will find you anyway.",
+    "### Channel: gmail\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: short email to a journalist who covers AI agents. Hook: solo founders are using agents for GTM\n### Draft:\n": "Subject: solo founders are using agents for GTM\n\nHi [Name],\n\nsaw your piece on AI agents. one thing you don't see much: founders running the agent as the marketer.\n\nit's not a sales rep. it's the first person on the queue. drafts the reply, I approve. flies solo, not a whole team.\n\nthought of you.\n\nMike"
+  },
+  "baseSamples": {
+    "### Channel: x_post\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: post on X about a build-in-public ship note\n### Draft:\n": "This is the ship note for Viewfy.\n\nWe're building Viewfy, an AI-powered tool that helps you organize and manage your social media posts.",
+    "### Channel: x_post\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: post on X about distribution for founders who ship\n### Draft:\n": "### 1000x distribution with zero overhead when you ship with Viewfy.",
+    "### Channel: x_reply\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: reply to a founder on X who asks how to get first users without ads\n### Draft:\n": "\"Hey [name], great question! 👋👋👋\n\nThe first 100 users are golden—build for them, and they become your army. No ads needed.\n\n1️⃣ **Leverage your day job**: If you’re in SaaS, post your builds in communities you already belong to.\n2️⃣ **Product Hunt launch**: The simplest free path to discoverability.\n3️⃣ **Direct outreach**: Email 50 potential users—yes, 50.\n4️⃣ **Ambassador program**: Incentivize your first fans.\n\nThe secret? **One-on-one conversations**. No cold DMs. Just genuine chats about their problems.\n\nP.S. I",
+    "### Channel: gmail\n### Voice: founder of Viewfy (@viewfy_ai)\n### Context: short email to a journalist who covers AI agents. Hook: solo founders are using agents for GTM\n### Draft:\n": "Subject: 🚀 New AI Agent for Solo Founders to Automate GTM\nHello [Name],\nI hope this email finds you well. I’m the founder of Viewfy, an AI-powered platform that helps solo founders and small teams automate their Go-to-Market (GTM) workflows.\nWe’ve been seeing a surge in interest from solo founders who are leveraging AI agents to streamline their GTM efforts, from content creation to lead qualification.\nWould you be open to a brief call to discuss our platform and how it’s helping founders like you cover this space effectively?\nBest regards,\n[Your Name]\nViewfy\n---"
+  },
+  "voiceScoreTuned": 0.716,
+  "voiceScoreBase": 0.461,
+  "rl": {
+    "rewardMean": 0.486,
+    "rewards": [
+      0.16479184330021646,
+      0.1039720770839918,
+      0.2079441541679836,
+      0.16479184330021646,
+      0.2687639203842082,
+      0.24141568686511503,
+      1.329583686600433,
+      1.4062075301653314
+    ],
+    "rollouts": 8,
+    "loss": 0.016075782477855682,
+    "updated": true
+  },
+  "config": {
+    "steps": 20,
+    "batch": 16,
+    "lr": 0.0001,
+    "rank": 16
+  }
+}

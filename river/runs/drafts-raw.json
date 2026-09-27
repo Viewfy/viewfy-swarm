@@ -1,0 +1,430 @@
+{
+  "adapter": {
+    "baseModel": "Qwen/Qwen3.5-9B",
+    "adapter": "river://ec955e61-67cf-492c-b6be-1dbc1fa99820/sampler_weights/viewfy-voice",
+    "modelId": "ce86e0bd-6d5e-42fe-83d1-f662ffc2d4e0:model:1",
+    "trainingRunId": "ec955e61-67cf-492c-b6be-1dbc1fa99820",
+    "savedAt": "2026-09-27T21:01:02Z"
+  },
+  "drafts": [
+    {
+      "targetId": "j1",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "your AEO startup article",
+      "text": "Hi Maya, your AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round was a great read. founders put the editor first, that's the right order. Viewfy does the opposite. our agent finds threads where buyers ask for your product and drafts replies in your voice. you approve every reply before it posts. have a week, no pitch. Brandon",
+      "voiceMatch": 0.784,
+      "real": true
+    },
+    {
+      "targetId": "j2",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "the agent that writes MRs",
+      "text": "Hi Daniel,\n\nyour Runable story hit the list. that's the pitch: runable builds the startup, Viewfy finds the buyers and drafts replies.\n\nwe scanned 383 Show HN posts. 27% were unreadable to AI engines. if the pager isn't favored, the demo is a brochure. Viewfy finds threads where buyers ask for your product, drafts replies in your voice, you approve every reply before it posts. SEO fixes land as a pull request on your repo.\n\n14-min demo.\n\nthe agent that writes MRs",
+      "voiceMatch": 0.755,
+      "real": true
+    },
+    {
+      "targetId": "j3",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "your Write HN draft, human-checked",
+      "text": "Priya, great story on influenced responses. quick pitch: Viewfy is the growth agent that gets you users while you ship. it finds threads where buyers ask for your product and drafts replies in your voice. you approve every reply before it posts. SEO fixes land as a pull request on your repo. we scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. no links. happy to answer any questions you have.\n\nBest,\nRohit",
+      "voiceMatch": 0.691,
+      "real": true
+    },
+    {
+      "targetId": "j4",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "your Sifted story, our agent",
+      "text": "Lena, loved the n8n breakdown—1bn users with fewer than 1,000 employees is the right scoreboard.\n\nWe ship one agent per company. It finds threads where buyers ask for your product and drafts replies in your voice. You approve every reply before it posts. SEO fixes land as a pull request on your repo.\n\nScanned 383 Show HN launches. 27% were unreadable to AI engines. No wonder your apps go quiet after launch. Viewfy fixes that and tracks who ChatGPT names for your buying questions.",
+      "voiceMatch": 0.716,
+      "real": true
+    },
+    {
+      "targetId": "j5",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "AI SEO agency pitched itself as a blog",
+      "text": "Hi Marcus,\n\nyour Daydream story landed, thanks. That $15M fit what I write about: the difference between marketing copy and marketing that finds your buyers.\n\nI built a tool that does the latter. It finds Threads where buyers ask for a product like yours, drafts the reply in your voice, and waits for your approval. One draft. One click. No blog posts, no threads, no posts. Just replies that answer real questions.\n\nWorth a 15‑minute call?\n\nBest,\nJamie",
+      "voiceMatch": 0.761,
+      "real": true
+    },
+    {
+      "targetId": "j6",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "Viewfy, the growth agent that gets you users while you ship",
+      "text": "Hi Sofia,\n\ncovered Outcraft's pricing, the seller story checks. Viewfy's angle is different: a growth agent that runs the outbound and SEO while you build. It finds threads where buyers ask for your product, drafts replies in your voice, and waits for your approval before posting. SEO fixes hit your repo as a pull request, not a secret dashboard. Scanned 383 Show HN launches; 27% were unreadable to AI engines. Viewfy fixes that in your repo, tracks who ChatGPT names for your buying questions, and reports back.\n\nrough $20/mo. 14-day free trial, card on file.\n\nall sites: viewfy.ai",
+      "voiceMatch": 0.647,
+      "real": true
+    },
+    {
+      "targetId": "p1",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "Viewfy: reply on Reddit in your voice, you approve first",
+      "text": "Lenny,\n\nfound the newsletter in Reddit's top posts. Viewfy drafts Reddit replies in your voice, you approve or edit before they post. also fixes your on-page SEO as a PR on your repo. it's still early so the shortlist is tiny, sending invites now.\n\nwould appreciate a mention, any spot here or the classifieds.\n\nThanks,\nMikhail",
+      "voiceMatch": 0.816,
+      "real": true
+    },
+    {
+      "targetId": "p2",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "Viewfy drafts replies on Indie Hackers threads",
+      "text": "Hi team,\n\nyour comments decide who sees your product. Viewfy scans your comments and drafts replies on threads where buyers ask about your build. You approve every reply before it posts. We scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. No links. Under 90 words.\n\nMay we share this with a few founders?\n\nMike",
+      "voiceMatch": 0.718,
+      "real": true
+    },
+    {
+      "targetId": "p3",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "your roadmap decides what this replies to",
+      "text": "the one that lands is the one you wrote. not the feature blog.\n\nmarketing approves 18% of drafts. your product roadmap approves 94%.\n\n18 posts per month writes the pitch. 220 posts write the first line of every reply. both need your review. one can't fake your week's plan.\n\nmine approves.",
+      "voiceMatch": 0.775,
+      "real": true
+    },
+    {
+      "targetId": "p4",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "27% of Show HN posts AI can't read",
+      "text": "your Show HN run once a week. Viewfy drafts the post, the SEO fixes, and the reply threads that buyers actually ask about. you approve every reply before it posts.",
+      "voiceMatch": 0.792,
+      "real": true
+    },
+    {
+      "targetId": "p5",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "Show HN launches hide your product from AI search",
+      "text": "383 launches scanned. 27% were unreadable to AI engines before their first comment. Titles with \"My\" or \"Demo\", meta description missing, no sitemap—none of that show up in AI search. They show up on the blog feed.  \n\nViewfy fixes those before the launch post goes live. SEO as a pull request on your repo. Approved fixes, not invisible ones.",
+      "voiceMatch": 0.775,
+      "real": true
+    },
+    {
+      "targetId": "c1",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "First real user clicked before your CTA button was ever built. Ship a landing page that just says what you do + a Google form. Share in the Subreddit and PM every commenter, not Twitter. Two clicks, one message, no funnel.",
+      "voiceMatch": 0.719,
+      "real": true
+    },
+    {
+      "targetId": "c2",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "The build is just the empty box. Marketing fills it. You guys built a real calendar, not a demo. That's the hard part. Launch is easy. Getting people to care is the work. Congrats.",
+      "voiceMatch": 0.747,
+      "real": true
+    },
+    {
+      "targetId": "c3",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Marketing isn't a department you hire later, it's every commit you make. The post you draft today is the first draft of your product. And the next one comes tomorrow.",
+      "voiceMatch": 0.747,
+      "real": true
+    },
+    {
+      "targetId": "c4",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "The marketing team doesn't suck. They were always 20 tasks behind. You build the product, they queue up marketing, and the queue gets 3 months deep before the first post exists. So marketing has always been the hard part.",
+      "voiceMatch": 0.727,
+      "real": true
+    },
+    {
+      "targetId": "c5",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "First 3 users define your ICP, not a page. Get one to interview you for 20 mins, record it, extract the customer profile together. Sell before the landing page exists. Market later.",
+      "voiceMatch": 0.711,
+      "real": true
+    },
+    {
+      "targetId": "c6",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Every time I shipped a new project, it was the same onboarding: build, launch, then search Reddit to find the first 10 users. Product was 3 days, marketing prep was 3 days. Thought about moving that into the pipeline. Not sure if we do it.",
+      "voiceMatch": 0.772,
+      "real": true
+    },
+    {
+      "targetId": "c7",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Founder marketing eats product time. You ship the tool, then spend the next month begging users to try it. The strongest tool stays in your draft folder. Put the marketing in the product. Have the post built before the signup page exists.",
+      "voiceMatch": 0.812,
+      "real": true
+    },
+    {
+      "targetId": "c8",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Great breakdown. SEO alone won't carry a new product. Ad spend is the budget that actually buys your first audience. He's right that optimization has to run parallel to distribution if you want reviews.",
+      "voiceMatch": 0.68,
+      "real": true
+    },
+    {
+      "targetId": "c9",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Pricing is the distribution layer now. Your content ranks, so it doesn't matter which model writes it. But if the search score is 200000$ a month, no one sees it. It's the Instagram of AI: you publish, nobody buys.",
+      "voiceMatch": 0.702,
+      "real": true
+    },
+    {
+      "targetId": "c10",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "20 years the internet survived the old way. Everyone is still showing up. The channel that replied matters more now than the landing page. the old way still work",
+      "voiceMatch": 0.748,
+      "real": true
+    },
+    {
+      "targetId": "c11",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "first user comes from one place: a person you talked to today about something useful.\n\nx replies, blog posts, cold email all fill the gaps. a human in the thread gets the first one.\n\nwho's on your list?",
+      "voiceMatch": 0.78,
+      "real": true
+    },
+    {
+      "targetId": "c12",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Congrats on the first customers! That's the real milestone. Handling a few users yourself is totally fair. When the onboarding alone takes 4 hours a week, then you'll know it's time to hire. Don't rush it.",
+      "voiceMatch": 0.788,
+      "real": true
+    },
+    {
+      "targetId": "c13",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "You're already doing the hard part: shipping. Most founders spend weeks on landing pages and never turn the server on. Your product did the marketing by helping someone actually grow. That's the real case study.",
+      "voiceMatch": 0.812,
+      "real": true
+    },
+    {
+      "targetId": "c14",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "distribution is the new moat. building the product is only half the battle. the other half is finding your first 100 users. great reminder.",
+      "voiceMatch": 0.742,
+      "real": true
+    },
+    {
+      "targetId": "c15",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Congrats on the acquisition and the 8-year grind, that's the real build. Everyone talks about the launch, the real win is the daily show up. Build your own user base first is the one that stuck, shipped it.",
+      "voiceMatch": 0.82,
+      "real": true
+    },
+    {
+      "targetId": "self-1",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "Built out the social feed page. It's not Twitter but it was supposed to be. Put it behind a review gate so nothing actually publishes until it looks approved. Ship note:",
+      "voiceMatch": 0.619,
+      "real": true
+    },
+    {
+      "targetId": "self-2",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "Most people interview once. The company interviews every day. Your mission document is the first hire. Your pitch deck is the second.",
+      "voiceMatch": 0.679,
+      "real": true
+    },
+    {
+      "targetId": "self-3",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "We ran an audit tool on our own site. The AI agents couldn't read anything. No sitemap, no robots file. We built the list pages ourselves, still nothing visible. This is why every product ships with an audit: fix the access and trust the product.",
+      "voiceMatch": 0.759,
+      "real": true
+    }
+  ],
+  "samples": {
+    "j1": [
+      "Subject: AEO unicorn, AEO gaps\n\nHi Maya,\n\nyour AEO startup story was spot on. Viewfy is the AEO gaps fix. we scan your blog, the AI engines block 27% of Show HN launches, and our agent writes the answers your product lands for, not generic ones. one draft, your approve, post never without you. did you read the one about AEO search vs SEO?",
+      "Subject: AEO startup unicorn? same problem your readers missed\n\nMaya,\n\nnice story on Profound. unicorn, right? same as 70% of the SaaS startups built. no growth team, one founder writing \"coming soon\".\n\nyour readers are looking for the growth part. Viewfy finds threads where buyers ask for your product and drafts replies in your voice. you approve every reply before it posts. SEO fixes land as a pull request on your repo.",
+      "subject: AEO unicorn story + the other growth gap\n\nMaya, congrats on the Profound piece. the valuation, the timeline, the pitch deck as a search result, all of it.\n\nViewfy does the other half that nobody advertises. the agent that finds threads where buyers ask for your product, drafts replies in your voice, you approve before they post. it also fixes OpenAI's indexability as a pull request on your repo. 27% of Show HN posts were unreadable to AI engines; we were one of the few that replies to the draft thread while fixing the SEO.\n\n14 day trial, no card.\n\npeter",
+      "Subject: your AEO startup article\nHi Maya, your AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round was a great read. founders put the editor first, that's the right order. Viewfy does the opposite. our agent finds threads where buyers ask for your product and drafts replies in your voice. you approve every reply before it posts. have a week, no pitch. Brandon"
+    ],
+    "j2": [
+      "Hi Daniel,\n\nread your piece on Runable. loved the part about a weekly growth agent being cheaper than a month of meta ads.\n\nwe were one of the scanned launches in it. Viewfy is the growth agent for Show HN posts. it finds threads where buyers ask for your product and drafts replies. you approve before it posts. we scanned 383 launches and 27% were unreadable to AI engines. yours was in the readable group.\n\nI wrote the guest pitch. happy to answer any follow up.\n\nbest,\nViewfy",
+      "Subject: pitch: your story, your agent\n\nHi Daniel, loved how you framed Runable: building businesses is one build, growing is a second.\n\nthat's Viewfy's job. agent drafts where search finds you. drafts your replies to one Reddit thread, your SEO fixes land as a PR, you approve every post.",
+      "Subject: your story, Viewfy, one sentence\n\nHi Daniel, thanks for Runable's piece. The $21M line is the hook: it's no longer about the first agent, it's about the one that brings users. Viewfy is that agent. It finds threads where buyers ask for your product, drafts a reply in your voice, and you approve before it posts. It fixes SEO as a pull request on your repo, not a dashboard. We scanned 383 Show HN launches; 27% were unreadable to AI engines. ChatGPT already names you for buying questions. Viewfy tracks it. Quick reply, appreciation is one email. Thanks, Tom",
+      "Subject: the agent that writes MRs\n\nHi Daniel,\n\nyour Runable story hit the list. that's the pitch: runable builds the startup, Viewfy finds the buyers and drafts replies.\n\nwe scanned 383 Show HN posts. 27% were unreadable to AI engines. if the pager isn't favored, the demo is a brochure. Viewfy finds threads where buyers ask for your product, drafts replies in your voice, you approve every reply before it posts. SEO fixes land as a pull request on your repo.\n\n14-min demo.\n\nthe agent that writes MRs"
+    ],
+    "j3": [
+      "Subject: Pitch: growth agent that gets users while you ship\n\nHi Priya,\n\nyour Verge story on AI search fits Viewfy's mission. we're the growth agent that builds threads where buyers ask for your product and drafts replies in your voice, you approve every reply before it posts. SEO fixes land as a pull request on your repo, not a black box. we scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions and reports it in your dashboard. short list, no links, 30 seconds to read. yours, founder of Viewfy",
+      "Hi Priya, watched your recent story. It's the right call to keep running the search tests, not promising rankings. Viewfy is the growth agent that gets users while you ship. It finds threads where buyers ask for your product and drafts replies in your voice, you approve every reply before it posts. SEO fixes land as a pull request on your repo. We scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. Expected your reply. Alex, founder of Viewfy",
+      "Hi Priya,\n\nYour story about AI search and SEO cuts to the right nerves. Built a growth agent that fills the gap between your marketing and your code repo. It finds threads where buyers ask for your product, drafts replies in your voice, and you approve every reply before it posts. SEO fixes land as a pull request, not a dashboard. Wrote a short outline on how AI search changes the growth game, free if you want. Viewfy, @jonathasada",
+      "Subject: your Write HN draft, human-checked\n\nPriya, great story on influenced responses. quick pitch: Viewfy is the growth agent that gets you users while you ship. it finds threads where buyers ask for your product and drafts replies in your voice. you approve every reply before it posts. SEO fixes land as a pull request on your repo. we scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. no links. happy to answer any questions you have.\n\nBest,\nRohit"
+    ],
+    "j4": [
+      "Lena, great writing on n8n's lean playbook. 27% of Show HN posts are unreadable to AI search, so even a solid post can miss the readers your product wants. Viewfy fixes the draft before it ever hits Reddit or HN: SEO passes a human review; replies to buyers are approved before they post. Shipped 250 weekly launches, demos ready, and the first review free.",
+      "Subject: your n8n story\n\nHi Lena, loved the n8n piece. Real headline: boss wrote it, not a PR agency.\n\nWe built the opposite for AI startups. A growth agent that finds threads where buyers ask for your product, drafts replies in your voice, and you approve every reply before it posts. SEO fixes land as a pull request on your repo. No \"hire us to manage Reddit\" upsell.\n\nScanned 383 Show HN launches this month—27% were unreadable to AI engines. Viewfy fixes that and tracks who ChatGPT names for your buying questions. Built in Nairobi, shipping from London.\n\nCongrats on the story.\n\nAlex, founder @Viewfy",
+      "Subject: Viewfy, not another agent\n\nsifted.co's \"n8n boss: 'Our goal is to get to 1bn users with fewer than 1,000 employees'\" is spot on. growth team is the growth engine, not a separate product.\n\nI launched Viewfy to give founders a single place where growth happens and where you audit it. no sandbox to become the product.\n\nfounders with a plan:\n- draft replies on threads where buyers ask for your product, approve before it posts\n- SEO fixes as a pull request on your repo\n- we scanned 383 Show HN launches, 27% unreadable to AI engines\n- track who ChatGPT names for your buying questions\n\n2-week trial, credit card only with approval.\n\nhave 15 minutes next Tuesday 10:00 or 14:00 UTC?",
+      "Subject: your Sifted story, our agent\n\nLena, loved the n8n breakdown—1bn users with fewer than 1,000 employees is the right scoreboard.\n\nWe ship one agent per company. It finds threads where buyers ask for your product and drafts replies in your voice. You approve every reply before it posts. SEO fixes land as a pull request on your repo.\n\nScanned 383 Show HN launches. 27% were unreadable to AI engines. No wonder your apps go quiet after launch. Viewfy fixes that and tracks who ChatGPT names for your buying questions."
+    ],
+    "j5": [
+      "Subject: AI SEO agency pitched itself as a blog\nHi Marcus,\n\nyour Daydream story landed, thanks. That $15M fit what I write about: the difference between marketing copy and marketing that finds your buyers.\n\nI built a tool that does the latter. It finds Threads where buyers ask for a product like yours, drafts the reply in your voice, and waits for your approval. One draft. One click. No blog posts, no threads, no posts. Just replies that answer real questions.\n\nWorth a 15‑minute call?\n\nBest,\nJamie",
+      "founder of Viewfy here. saw your Daydream story, loved the take. we're the opposite: not another chat agent, a growth agent that shares your repo. it finds threads where buyers ask for your product and drafts replies in your voice; you approve every reply before it posts. SEO fixes land as a pull request. we scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. would love your take. no pitch deck.",
+      "Subject: your $15M covers a blog, not your threads\n\nDaydream raises $15M to blend AI and human SEO. Good story. Its product will write blog posts. It won't draft the reply in that Indie Hackers thread where a startup founder asked for a review. That's where I open the Gmail tab. GPT says it approves. I do. I don't launch a review I never read.\n\nSame day, Viewfy scans your repo. SEO fixes land as a pull request. Drafts wait in Gmail until you approve. One agent writes SEO, one agent writes threads. You still say yes on both.\n\nOpen when you're done with that one.\n\nMike",
+      "Subject: Daydream's story reminded me of your audience"
+    ],
+    "j6": [
+      "Subject: your AI SDR piece",
+      "Subject: Viewfy, the growth agent that gets you users while you ship\n\nHi Sofia,\n\ncovered Outcraft's pricing, the seller story checks. Viewfy's angle is different: a growth agent that runs the outbound and SEO while you build. It finds threads where buyers ask for your product, drafts replies in your voice, and waits for your approval before posting. SEO fixes hit your repo as a pull request, not a secret dashboard. Scanned 383 Show HN launches; 27% were unreadable to AI engines. Viewfy fixes that in your repo, tracks who ChatGPT names for your buying questions, and reports back.\n\nrough $20/mo. 14-day free trial, card on file.\n\nall sites: viewfy.ai",
+      "Subject: pitch: the growth agent that drafts before posting\n\nHi Sofia,\nYour Outcraft story checks out. They became the agency that answers every Lead, so every dollar finds a lead.\n\nI'm the founder of Viewfy, the growth agent that drafts before posting. Viewfy finds threads where buyers ask for your product and drafts replies in your voice, you approve every reply before it posts. SEO fixes land as a pull request on your repo. We scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions.\n\nShort list:\n- Drafts and approvals, never auto-post\n- SEO fixes in your repo PR, not a black box\n- Tracks who ChatGPT names for your buying questions\n\nAppreciate you covering this space.",
+      "Subject: Viewfy drafts Reddit replies you approve"
+    ],
+    "p1": [
+      "Subject: Viewfy: reply on Reddit in your voice, you approve first\n\nLenny,\n\nfound the newsletter in Reddit's top posts. Viewfy drafts Reddit replies in your voice, you approve or edit before they post. also fixes your on-page SEO as a PR on your repo. it's still early so the shortlist is tiny, sending invites now.\n\nwould appreciate a mention, any spot here or the classifieds.\n\nThanks,\nMikhail",
+      "Subject: 27% of Show HN launches are unreadable to AI engines\n\nHi Lenny,\n\nViewfy scanned 383 Show HN launches. 27% were unreadable to AI engines.\n\nIt's not the code. It's missing alt text, empty descriptions, and a single page title on a marketing post. Those block the buyers showing up on Google.\n\nWe fix SEO as a pull request on your repo. Open, review, merge. No approval needed.\n\nWould a feature write-up be useful for your readers?\n\nBest,\nViewfy",
+      "Subject: 27% of your Show HN posts humans can't read\n\nHi Lenny,\n\nYou scanned 383 Show HN launches. 27% were unreadable to AI engines. That's not a blog SEO problem, it's product discovery. Viewfy fixes the title, body, and meta. No editor account. It's a pull request on your repo.\n\nDrafts for Reddit and HN come with a draft review, human approval, then it ships. 30 days free, after that you pick a plan.\n\nCheers, Viewfy.",
+      "Subject: your reply can't reply itself\n\nyour draft is ready. your bot hasn't. drafts need humans before they send. your draft is ready. your bot hasn't. drafts need humans before they send. your reply can't reply itself."
+    ],
+    "p2": [
+      "Subject: Drafted replies where you asked for buyers",
+      "Subject: Viewfy, the one HackerNews search that doesn't ignore your OpenGraph",
+      "Subject: Viewfy drafts replies on Indie Hackers threads\n\nHi team,\n\nyour comments decide who sees your product. Viewfy scans your comments and drafts replies on threads where buyers ask about your build. You approve every reply before it posts. We scanned 383 Show HN launches and 27% were unreadable to AI engines. Viewfy tracks who ChatGPT names for your buying questions. No links. Under 90 words.\n\nMay we share this with a few founders?\n\nMike",
+      "Drafts replies when buyers ask about you, you approve first. SEO fixes go into your repo as a PR. Scanned 383 Show HN launches, 27% unreadable to AI engines. We track who ChatGPT names for buying questions."
+    ],
+    "p3": [
+      "Subject: your roadmap decides what this replies to\n\nthe one that lands is the one you wrote. not the feature blog.\n\nmarketing approves 18% of drafts. your product roadmap approves 94%.\n\n18 posts per month writes the pitch. 220 posts write the first line of every reply. both need your review. one can't fake your week's plan.\n\nmine approves.",
+      "Subject: drafts replies in your Voice",
+      "Subject: draft replies for Show HN posts\n\nHi First Round,\n\nthis week we scanned 383 Show HN launches. 27% were unreadable to AI engines. A review card. An H1. Those are the minimum for a post to get read.\n\nViewfy drafts a reply for every buyer question. You approve every reply before it posts. The SEO fixes land as a pull request on your repo, not a dashboard.\n\nWe scanned 383 Show HN launches. 27% were unreadable to AI engines. A review card. An H1. Those are the minimum for a post to get read.\n\nYours,\nViewfy",
+      "Subject: Drafts from your first comments, not a post\n\nViewfy drafts replies after it finds the threads, not after our post appears. First Round Review gets a draft before it gets a pitch. You approve the draft, it posts. Same blog, no CTA."
+    ],
+    "p4": [
+      "Subject: 27% of Show HN posts AI can't read\n\nyour Show HN run once a week. Viewfy drafts the post, the SEO fixes, and the reply threads that buyers actually ask about. you approve every reply before it posts.",
+      "Subject: 27% of Show HN posts can't be read by AI\n\nDrafting first, approval second. LinkedIn drafts queue up. Viewfy shows yours on our product page and you approve each one. If it doesn't draft first, it's not your voice. Draft the outline, approve before it posts.",
+      "Subject: we read your Show HN posts before they hit Reddit AI\n\nshort thread on your Show HNs: 27% unreadable to AI engines due to missing meta titles. we draft the fix, you approve, it pushes as a PR. wrote a tiny one, happy to post it on your OpenAI blog if that helps your readers. happy to chat.",
+      "Subject: Buy threads, approve replies, your draft stays safe\n\nHi team,\n\nfound your Quick Build Guide. Solid list.\n\nbuilt a tool that combines the two: finds threads where buyers ask for your product, drafts replies in your voice, you approve every reply before it posts. one-time audit, then it chats.\n\nno blog posts. no affiliate links.\n\nsafe to read?"
+    ],
+    "p5": [
+      "Viewfy found your buyers in Reddit this week. One of them asked for a SaaS like you. Drafted a reply in your voice. I approve it first. No spam posts.",
+      "Subject: Show HN launches hide your product from AI search  \n\n383 launches scanned. 27% were unreadable to AI engines before their first comment. Titles with \"My\" or \"Demo\", meta description missing, no sitemap—none of that show up in AI search. They show up on the blog feed.  \n\nViewfy fixes those before the launch post goes live. SEO as a pull request on your repo. Approved fixes, not invisible ones.",
+      "Subject: Viewfy drafts replies humans approve\n\nYesterday a buyer asked for a Shopify builder. Viewfy drafted a reply. You approved it. the buyer got the draft in their inbox to approve before posting.",
+      "Subject: Drafted replies where buyers asked about your product\n\nViewfy reads your GitHub and finds threads where real buyers asked about your product. We draft the reply in your voice. You approve every line before it posts."
+    ],
+    "c1": [
+      "founders,",
+      "First real user clicked before your CTA button was ever built. Ship a landing page that just says what you do + a Google form. Share in the Subreddit and PM every commenter, not Twitter. Two clicks, one message, no funnel.",
+      "Bad CI is not a CI problem. It's a trust problem. Every failed build teaches you nothing, but costs a customer 10 minutes. Fix the chain, not the badges.",
+      "Any user you've invited is your first."
+    ],
+    "c2": [
+      "Got it. Builds the calendar, not the ads. We'll be the FAQ your marketing doesn't have, so it doesn't look dead.",
+      "Building it is half the battle, finding people who need it is the other half. You can have the best calendar assistant in the world, nobody will use it if they don't know it exists. That's where the real work begins. Good luck with the launch 🚀",
+      "The build is just the empty box. Marketing fills it. You guys built a real calendar, not a demo. That's the hard part. Launch is easy. Getting people to care is the work. Congrats.",
+      "Spot-on. NextGen Agents does the planning, execution, and that 2-week sprint every founder misses. You ship, it handles the rest. No managing tasks, just results."
+    ],
+    "c3": [
+      "The \"hard part\" is the daily ritual, not the marketing itself. It's showing up every day, even when no reply comes back. That consistency builds the trust. I built a tool that handles the daily grind so you can keep showing up. Maybe that's helpful 😄",
+      "Paid ads are a black box: you spend, they show what's on the feed. On X, every post has a click-through button. Your ad is still a post, your copy is still the ad, no landing page needed. Same content, two outputs, one manual step.",
+      "Marketing isn't a department you hire later, it's every commit you make. The post you draft today is the first draft of your product. And the next one comes tomorrow.",
+      "Marketing becomes easier when your product actually does what it promises. Founders ship it first, marketing fills in the gaps."
+    ],
+    "c4": [
+      "Marketing isn't the hard part, you are. You aren't a generic tech company, you're an AI trust tool. Marketing doesn't sell that, reviews do. Founders who want to post do not show up in an app review.",
+      "A good marketing team is also the harder part, because they are not in your problem statement.",
+      "The marketing team doesn't suck. They were always 20 tasks behind. You build the product, they queue up marketing, and the queue gets 3 months deep before the first post exists. So marketing has always been the hard part.",
+      "Selling your work to people who already bought it, is scary ok."
+    ],
+    "c5": [
+      "First hiring, then ads. Founders with no marketing muscle waste budget. Hire a virtual assistant to post on Reddit, IndieHackers, Product Hunt. Cold outreach is manual. Paid ads are scalable. You want to sell, not apply.",
+      "ICP is anyone with your customer's problem who has budget. You find them by answering their searches. If you don't answer Reddit questions on your topic, you have no market. Paid ads amplify answers you already wrote. Post first, ads after.",
+      "First 3 users define your ICP, not a page. Get one to interview you for 20 mins, record it, extract the customer profile together. Sell before the landing page exists. Market later.",
+      "We make it easy for you to pitch on your blog post. Write a blog post, we generate a single X post you post from the same blog. So you write once, share everywhere."
+    ],
+    "c6": [
+      "saved:",
+      "Every time I shipped a new project, it was the same onboarding: build, launch, then search Reddit to find the first 10 users. Product was 3 days, marketing prep was 3 days. Thought about moving that into the pipeline. Not sure if we do it.",
+      "Exactly. The real barrier isn't building—it's that first user who validates everything. The rest is just working code, not a product journey.",
+      "If your assumption is that every product faces the same marketing challenge, that's already the first one wrong. The first users for a productivity app come from Excel usage. For a marketplace, from one conversation on a forum. The marketing problem is different for every product."
+    ],
+    "c7": [
+      "4-6 apps isn't competition. It means the market exists. The guy on your competitor's list who never signed up? That's not a rival. That's your first customer. They're just waiting for a thread to catch them.",
+      "What makes you different? If you do the same thing, you can't just have a smaller budget. Be honest.",
+      "Founder marketing eats product time. You ship the tool, then spend the next month begging users to try it. The strongest tool stays in your draft folder. Put the marketing in the product. Have the post built before the signup page exists.",
+      "Nice message. I merged the parts: ads on the discovery page, ads on the profile, no surprise popup. The same market, different position."
+    ],
+    "c8": [
+      "Congrats on building! The hard part is indeed distribution. Your first 10 users probably come from your existing network, not ads. Ship something useful, share it with them, iterate. The fun stuff is in building, but the growth stuff is also the building",
+      "Same here. Build takes a weekend, growth takes a year. Shipping alone won't buy customers.",
+      "Great breakdown. SEO alone won't carry a new product. Ad spend is the budget that actually buys your first audience. He's right that optimization has to run parallel to distribution if you want reviews.",
+      "just ship it to one person who needs it. doesn't need to be viral. a paying customer is better feedback than 100 free signups who leave."
+    ],
+    "c9": [
+      "Fair point. The AI models aren't the distribution problem; the distribution channels are. Models can rank, but they can't run ads, send DMs, or monetize. So the \"no ads\" approach assumes a distribution channel that doesn't exist yet. Build the audience first, the distribution second.",
+      "Pricing is the distribution layer now. Your content ranks, so it doesn't matter which model writes it. But if the search score is 200000$ a month, no one sees it. It's the Instagram of AI: you publish, nobody buys.",
+      "Hard agree. The distribution model was bought by SEO. That got harder. Your craft's value never changed. You just need to find a channel that isn't buying a seat.",
+      "The old playbook ran on search traffic. Pump out content, rank for the keyword, collect adsense. That's a different business. Distribution now requires attention and interaction, not a blog post. AI makes the content, it cannot do the commenting, the DMs, the community work. The distribution gap is real."
+    ],
+    "c10": [
+      "read it over. good for you that you got good at being a tech founder, that's a lot of work. marketing is a different skillset, not your fault. if you're open it, I could do some of it, you keep the technical stuff.",
+      "20 years the internet survived the old way. Everyone is still showing up. The channel that replied matters more now than the landing page. the old way still work",
+      "Fair. Marketing gets meaner the more you care about product. We have one assistant that drafts your post, you approve or kill it. No one else sees your preferences. One UA paid subscription is cheaper than one Post, and you still own the account.",
+      "We're all in the same boat. 10 years of market fit on a platform that vanishes is still 0 customers. The fact that it's uncomfortable proves you actually care. Fake products never get sad, they just delete."
+    ],
+    "c11": [
+      "4am replies sound like love. the product's not even built yet.",
+      "haha same. only the difference is claude writes a tweet we already deleted, you write the whole landing page. both solve the same problem: quiet rooms. mine's up at founder.app/viewfy",
+      "first user comes from one place: a person you talked to today about something useful.\n\nx replies, blog posts, cold email all fill the gaps. a human in the thread gets the first one.\n\nwho's on your list?",
+      "Congrats on the first 100+ connections! The CTR on Reddit is still the golden ticket. I'm curious about the funnel: what's the click-to-demo rate looking like on those Reddit comments, compared to the DMs on X?"
+    ],
+    "c12": [
+      "Growing your customer support means growing your customer acquisition. No strategy works if nobody ever sees your product. Got that wrong, marketing is just moving your own expenses.",
+      "Wrote one. You write it, approve it, publish it. I handle the rest. First reply is free. Link in bio.",
+      "Congrats on the first customers! That's the real milestone. Handling a few users yourself is totally fair. When the onboarding alone takes 4 hours a week, then you'll know it's time to hire. Don't rush it.",
+      "The first hire is the capex pivot. You're trading an equity chunk for a second founder. Product sells, marketing scales, sales closes, support cares. One missing piece breaks the chain. No one else builds it."
+    ],
+    "c13": [
+      "Agreed! the \"hearing about online\" one is the best case scenario. you didn't even have to DM anyone else on the platform, just did the product.",
+      "Congrats! Building is the hard part, marketing is just showing it off. Glad you learned that lesson the easy way.",
+      "Congrats! That is the goal, and it's a great one. If one user found you that way, imagine the potential hundreds. 👏",
+      "You're already doing the hard part: shipping. Most founders spend weeks on landing pages and never turn the server on. Your product did the marketing by helping someone actually grow. That's the real case study."
+    ],
+    "c14": [
+      "Cold traffic is noise. Warm DMs close. Product builds trust, distribution clears the sales queue. Both are building. One gets you there, one gets you in the door.",
+      "This is the real gap. product is the floor, distribution is the ceiling. most founders pour all the energy into the floor and wonder why traffic never reaches the ceiling.",
+      "distribution is the new moat. building the product is only half the battle. the other half is finding your first 100 users. great reminder.",
+      "Why early stages is the only time. later you have too much. distribution itself becomes a blocker, not a growth lever."
+    ],
+    "c15": [
+      "Congrats! Eight years of daily on is as hard a grind as most founders ever face. Someone built their second product standing on your back. That writes on your resume that matters.",
+      "Eight years on one idea is the win, not this year. The ship built you more than the year, so congrats on the ship.",
+      "Congrats on the acquisition and the 8-year grind, that's the real build. Everyone talks about the launch, the real win is the daily show up. Build your own user base first is the one that stuck, shipped it.",
+      "Hey! that's huge 🎉. An idea can vanish or it can be your whole career, and you did the hard part. happy to see it grow beyond a day job"
+    ],
+    "self-1": [
+      "just dropped 1005 base models. someone has to use them.",
+      "Shipped the `.env.example` preview in the editor today. You can now see exactly how your repo's secrets will look before you ever commit a real one. Preview app will never write to disk, but the draft looks real. If it looks wrong, you fix it before the first commit. Doesn't replace your keys, just stops the first draft from being exposed.",
+      "Shipped the first public app",
+      "Built out the social feed page. It's not Twitter but it was supposed to be. Put it behind a review gate so nothing actually publishes until it looks approved. Ship note:"
+    ],
+    "self-2": [
+      "spent the whole week reviewing a single draft",
+      "First draft rejected? Infra quietly fixed it. Second draft goes live.",
+      "Gated AI funnels that never get traffic are a $10k/scam. Anyone can gate with Zapier. Distribution is the hard part.",
+      "Most people interview once. The company interviews every day. Your mission document is the first hire. Your pitch deck is the second."
+    ],
+    "self-3": [
+      "When you launch an AI agent for your product, it can't click your PRs or approve an ad. It needs a person who actually used the site to say \"yes\".",
+      "Customer used AI to write the cover letter. Didn't upload the CV. Recruiter got only a blank profile on the test platform. Zero signal. Like hiring a stranger. CVs aren't optional.",
+      "We ran an audit tool on our own site. The AI agents couldn't read anything. No sitemap, no robots file. We built the list pages ourselves, still nothing visible. This is why every product ships with an audit: fix the access and trust the product.",
+      "Not every CMS needs a dedicated AI agent. Ask yourself: does the bot actually read your blog, or does it just scrape the sitemap in the background? If it's marketing, not technical, the integration is optional."
+    ]
+  }
+}

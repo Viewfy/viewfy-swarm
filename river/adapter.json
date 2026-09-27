@@ -1,0 +1,7 @@
+{
+  "baseModel": "Qwen/Qwen3.5-9B",
+  "adapter": "river://ec955e61-67cf-492c-b6be-1dbc1fa99820/sampler_weights/viewfy-voice",
+  "modelId": "ce86e0bd-6d5e-42fe-83d1-f662ffc2d4e0:model:1",
+  "trainingRunId": "ec955e61-67cf-492c-b6be-1dbc1fa99820",
+  "savedAt": "2026-09-27T21:01:02Z"
+}

@@ -1,0 +1,9 @@
+[project]
+name = "viewfy-voice"
+version = "0.1.0"
+description = "Viewfy Swarm voice agent: River LoRA SFT + outcome-reward RL"
+requires-python = ">=3.12"
+dependencies = ["river-client>=0.12", "transformers", "python-dotenv"]
+
+[tool.uv]
+package = false

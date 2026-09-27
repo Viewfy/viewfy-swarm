@@ -1,0 +1,265 @@
+{
+  "drafts": [
+    {
+      "targetId": "j1",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "Profound proves AEO is a market. most founders can't even get read",
+      "text": "Hi Maya,\n\nsaw your Profound piece. $180M says AEO is real. but most founders never get that far: we scanned 383 Show HN launches and 27% were unreadable to AI engines. nobody chose that, it's a default.\n\nI'm building Viewfy, the growth agent that gets you users while you ship. it tracks who ChatGPT names for your buying questions and lands the fixes as a pull request.\n\nhappy to share the raw list. 15 min?\n\nMike",
+      "voiceMatch": 0.96,
+      "real": false
+    },
+    {
+      "targetId": "j2",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "Runable builds the business. who gets it users?",
+      "text": "Hi Daniel,\n\nyour Runable story nails the shift: agents went from building businesses to growing them. I'm living the second half.\n\nViewfy is the growth agent that gets you users while you ship. it finds threads where buyers are already asking for your product, drafts the reply in your voice, and you approve before anything posts.\n\none number from our queue: threads under a few hours old get approved. a day old, skipped.\n\n15 min this week?\n\nMike",
+      "voiceMatch": 0.97,
+      "real": false
+    },
+    {
+      "targetId": "j3",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "everyone's gaming AI answers. most small sites can't even get read",
+      "text": "Hi Priya,\n\nread your piece on influencing AI answers. the other side of it: most small sites never get a chance. we scanned 383 Show HN launches. 27% were unreadable to AI engines. nobody chose that.\n\nViewfy doesn't game answers. it fixes access, lands it as a pull request you merge, and tracks who ChatGPT names for your buying questions.\n\nhappy to share the raw list.\n\nMike, founder @ Viewfy",
+      "voiceMatch": 0.95,
+      "real": false
+    },
+    {
+      "targetId": "j4",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "1bn users with <1,000 people. what about 1?",
+      "text": "Hi Lena,\n\nloved the n8n interview. 1bn users with fewer than 1,000 people is the new scoreboard. the extreme version is the solo founder.\n\nlast week a $500M ARR company put one of its verticals on a Viewfy trial. I have zero b2b sales experience. the demo was a full map of their market and rivals.\n\nViewfy is the growth agent that gets you users while you ship. happy to show how one founder runs GTM in 90-second decisions.\n\nMike",
+      "voiceMatch": 0.95,
+      "real": false
+    },
+    {
+      "targetId": "j5",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "Daydream blends AI + humans. we made the human part 90 seconds",
+      "text": "Hi Marcus,\n\nsaw your Daydream story. $15M to blend AI and human SEO. we made the same bet, smaller: the human is the founder, and their part takes 90 seconds.\n\nViewfy is the growth agent that gets you users while you ship. SEO fixes land as a pull request. replies get drafted in your voice. you approve, it ships.\n\nhappy to show you the queue.\n\nMike, founder @ Viewfy",
+      "voiceMatch": 0.97,
+      "real": false
+    },
+    {
+      "targetId": "j6",
+      "channel": "gmail",
+      "voice": "founder",
+      "subject": "AI SDRs price per lead. Reddit now removes volume",
+      "text": "Hi Sofia,\n\nyour Outcraft story got me thinking. per-lead pricing rewards volume. Reddit's AI moderation reads intent now, not karma, so volume gets you removed.\n\nViewfy goes the other way. it replies where buyers are already asking, 2-5 sentences, in your voice, and waits for your approve. short answers get upvoted.\n\nViewfy is the growth agent that gets you users while you ship. worth a look for your AI SDR coverage?\n\nMike",
+      "voiceMatch": 0.95,
+      "real": false
+    },
+    {
+      "targetId": "p1",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "data for a post: what founders actually approve",
+      "text": "Hi Lenny's team,\n\nwe watch founders approve or skip agent-drafted replies all day. the deciding factor isn't the writing. it's thread age. under a few hours old: approved. a day old: skipped, because 40 comments already said it.\n\nyour readers ask how to get first users without a growth team. we'd love to write it up with the numbers. no pitch, just the playbook.\n\nViewfy, the growth agent that gets you users while you ship.",
+      "voiceMatch": 0.95,
+      "real": false
+    },
+    {
+      "targetId": "p2",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "free AI-visibility check for every Indie Hacker",
+      "text": "Hi IH team,\n\nwe scanned 383 Show HN launches. 27% were unreadable to AI engines. most founders have no idea.\n\noffer for your community: a free Viewfy check on any IH product. it shows whether ChatGPT can read the site and who it names for your buying questions. fixes land as a pull request.\n\nhappy to post the full write-up too.\n\nViewfy, the growth agent that gets you users while you ship.",
+      "voiceMatch": 0.96,
+      "real": false
+    },
+    {
+      "targetId": "p3",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "essay pitch: marketing in 90-second decisions",
+      "text": "Hi First Round team,\n\nessay idea for seed founders: the honest version of \"marketing while building\". you don't do it in blocks of time. you do it in 90-second decisions. open the queue, approve three replies, merge an SEO PR, close the tab.\n\nwe built the whole product around that loop. happy to write it with real queue data.\n\nViewfy, the growth agent that gets you users while you ship.",
+      "voiceMatch": 0.97,
+      "real": false
+    },
+    {
+      "targetId": "p4",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "episode idea: $1k invoice in 8 hours",
+      "text": "Hi MFM team,\n\nepisode idea. at the OpenAI hackathon our founder interviewed users, built the product, pitched it and invoiced the first customer $1,000. 8 hours. the product was secondary. distribution was the demo.\n\nyour listeners hunt for growth ideas. this one is repeatable, and we can walk through it step by step.\n\nViewfy, the growth agent that gets you users while you ship.",
+      "voiceMatch": 0.98,
+      "real": false
+    },
+    {
+      "targetId": "p5",
+      "channel": "gmail",
+      "voice": "company",
+      "subject": "launch day is day one, not the finish line",
+      "text": "Hi Product Hunt team,\n\nmakers ship on launch day, then go quiet. the buyers are already typing the question somewhere else.\n\nViewfy finds those threads, drafts the reply in the maker's voice, and waits for approval. we'd love to give every PH maker their first post free, or write a guide on the 30 days after launch.\n\nViewfy, the growth agent that gets you users while you ship.",
+      "voiceMatch": 0.98,
+      "real": false
+    },
+    {
+      "targetId": "c1",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "find 5 threads from this week where someone asks for exactly what you built. answer them properly, no link unless they ask. the buyers are already typing the question.",
+      "voiceMatch": 0.96,
+      "real": false
+    },
+    {
+      "targetId": "c2",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "The build is just the empty box. Marketing fills it. You guys built a real calendar, not a demo. That's the hard part. Launch is easy. Getting people to care is the work. Congrats.",
+      "voiceMatch": 0.95,
+      "real": true
+    },
+    {
+      "targetId": "c3",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Marketing isn't a department you hire later, it's every commit you make. The post you draft today is the first draft of your product. And the next one comes tomorrow.",
+      "voiceMatch": 0.95,
+      "real": true
+    },
+    {
+      "targetId": "c4",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "The marketing team doesn't suck. They were always 20 tasks behind. You build the product, they queue up marketing, and the queue gets 3 months deep before the first post exists. So marketing has always been the hard part.",
+      "voiceMatch": 0.95,
+      "real": true
+    },
+    {
+      "targetId": "c5",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "First 3 users define your ICP, not a page. Get one to interview you for 20 mins, record it, extract the customer profile together. Sell before the landing page exists. Market later.",
+      "voiceMatch": 0.94,
+      "real": true
+    },
+    {
+      "targetId": "c6",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "same. what worked for me: write down where your buyers ask the question (reddit, X, HN), check it every morning, answer 3 threads. boring, repeatable, and it doesn't reset per project.",
+      "voiceMatch": 0.92,
+      "real": false
+    },
+    {
+      "targetId": "c7",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "4-6 apps isn't competition. It means the market exists. The guy on your competitor's list who never signed up? That's not a rival. That's your first customer. They're just waiting for a thread to catch them.",
+      "voiceMatch": 0.96,
+      "real": true
+    },
+    {
+      "targetId": "c8",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "just ship it to one person who needs it. doesn't need to be viral. a paying customer is better feedback than 100 free signups who leave.",
+      "voiceMatch": 0.88,
+      "real": true
+    },
+    {
+      "targetId": "c9",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "the old playbook was rank and wait. now buyers ask ChatGPT and Reddit instead. go answer them there, in the thread, while it's still alive. distribution didn't die, it moved.",
+      "voiceMatch": 0.93,
+      "real": false
+    },
+    {
+      "targetId": "c10",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "10 years of shipping is the hard part. marketing is just a second product you haven't built yet. same loop: talk to users, ship small, keep what worked. you'll get good at this one faster.",
+      "voiceMatch": 0.92,
+      "real": false
+    },
+    {
+      "targetId": "c11",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "first user comes from one place: a person you talked to today about something useful.\n\nx replies, blog posts, cold email all fill the gaps. a human in the thread gets the first one.\n\nwho's on your list?",
+      "voiceMatch": 0.97,
+      "real": true
+    },
+    {
+      "targetId": "c12",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "Congrats on the first customers! That's the real milestone. Handling a few users yourself is totally fair. When the onboarding alone takes 4 hours a week, then you'll know it's time to hire. Don't rush it.",
+      "voiceMatch": 0.97,
+      "real": true
+    },
+    {
+      "targetId": "c13",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "You're already doing the hard part: shipping. Most founders spend weeks on landing pages and never turn the server on. Your product did the marketing by helping someone actually grow. That's the real case study.",
+      "voiceMatch": 0.98,
+      "real": true
+    },
+    {
+      "targetId": "c14",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "This is the real gap. product is the floor, distribution is the ceiling. most founders pour all the energy into the floor and wonder why traffic never reaches the ceiling.",
+      "voiceMatch": 0.95,
+      "real": true
+    },
+    {
+      "targetId": "c15",
+      "channel": "x_reply",
+      "voice": "founder",
+      "text": "8 years of showing up every day. that's the whole game, not the launch. congrats man 🤟",
+      "voiceMatch": 0.91,
+      "real": false
+    },
+    {
+      "targetId": "self-1",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "Shipped hourly outcome tracking this week. Every reply we draft gets scored an hour later: replied, liked, booked a call. The next draft learns from it. You still approve before anything posts. 💙",
+      "voiceMatch": 0.93,
+      "real": false
+    },
+    {
+      "targetId": "self-2",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "Generic AI sounds generic. Viewfy now drafts in your voice, trained on your own posts and emails. The best edit is the one you don't have to make.",
+      "voiceMatch": 0.93,
+      "real": false
+    },
+    {
+      "targetId": "self-3",
+      "channel": "x_post",
+      "voice": "company",
+      "text": "Profound just raised $180M on AI visibility. Meanwhile 27% of the Show HN launches we scanned can't be read by AI engines at all. Start with access. Viewfy checks it and opens the fix as a pull request.",
+      "voiceMatch": 0.92,
+      "real": false
+    }
+  ],
+  "generic": [
+    {
+      "targetId": "j1",
+      "text": "Subject: 🚀 New AI Agent for Solo Founders to Automate GTM\nHello Maya,\nI hope this email finds you well. I’m the founder of Viewfy, an AI-powered platform that helps solo founders and small teams automate their Go-to-Market (GTM) workflows.\nWe’ve been seeing a surge in interest from solo founders who are leveraging AI agents to streamline their GTM efforts, from content creation to lead qualification.\nWould you be open to a brief call to discuss our platform and how it’s helping founders like you cover this space effectively?\nBest regards,\n[Your Name]\nViewfy\n---"
+    },
+    {
+      "targetId": "c3",
+      "text": "As a technical founder, marketing is the hard part.\nIt's not just about messaging; it's about connecting the right people with the right problem.\nMarketing is about solving the problem of product-market fit.\nThat's why we built Viewfy.\nTo help technical founders build and scale their AI-powered solutions.\n\nHere are 3 options ranging from strategic to empathetic:\n\n**Option 1: Strategic & Insightful (Recommended)**\nIt often feels like marketing, but it’s actually product-market fit. Technical founders usually build the solution; marketing finds the problem worth solving. Once that connection clicks, the rest is just scaling. We believe in empowering tech founders to bridge that gap with clarity."
+    },
+    {
+      "targetId": "self-1",
+      "text": "🚢 Build-in-public, transparently!\nWe are rolling out a build-in-public initiative to share the journey of our AI-powered platform, Viewfy. Our goal is to build a community of developers and data scientists who can collaborate, share ideas, and contribute to the evolution of our technology.\nWe're excited to share some of our progress and will be posting updates, code snippets, and insights regularly. Join us in building the future of AI-powered landscape analytics!"
+    },
+    {
+      "targetId": "p1",
+      "text": "Subject: Exciting Partnership Opportunity with Viewfy\n\nDear Lenny's Newsletter Team,\n\nI hope this message finds you well! I am reaching out to explore potential synergies between Viewfy, a cutting-edge AI-powered growth platform, and your esteemed publication. In today's fast-paced digital landscape, founders need innovative, scalable solutions to unlock growth. We would be delighted to discuss a mutually beneficial collaboration at your earliest convenience.\n\nBest regards,\nThe Viewfy Team"
+    }
+  ]
+}
