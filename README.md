@@ -57,11 +57,11 @@ Self-improvement happens in three layers:
 
 | Sponsor | Role in the swarm | Demo status |
 |---|---|---|
-| **River AI** | Voice fine-tune (LoRA) + RL with replies as the reward | **Real API attempt** (train + sample). Falls back to precomputed drafts. |
-| **GBrain** | Memory, plus skills (markdown workflows run on cron) | **Real CLI** (PGLite, keyless). Falls back to in-memory storage. |
+| **River AI** | Voice fine-tune (LoRA) + RL with replies as the reward | **Real**: LoRA rank 16 on Qwen3.5-9B, 20 steps on 108 examples (@viewfy_ai posts + 6 synthetic emails). Voice score 78% vs 46% for the untuned base. 10 of the X replies are raw model output; the emails were hand-edited because the model made up facts. |
+| **GBrain** | Memory, plus skills (markdown workflows run on cron) | **Real CLI** (v0.59, PGLite, keyless). The brain is at `data/brain`, and the live search is in the Memory scene. Falls back to an in-memory store. |
 | **Memorable** | Procedural memory of winning workflows | Mocked |
 | **QM** | Multiplayer harness: room `#gtm-floor`, hourly cron | Mocked. Skills are written in QM/gbrain format. |
-| **Apify** | Scout data: @viewfy_ai tweets (voice corpus), news hooks, founder threads on X | **Real**, cached to fixtures |
+| **Apify** | Scout data: @viewfy_ai tweets (voice corpus), news hooks, founder threads on X | **Real**: 125 @viewfy_ai posts, 11 news articles from 2026, 15 founder posts on X (handles masked). Cached to `web/public/data`. Journalist names are fictional; their outlets are real. |
 | **Computer use** | The Operator's hands | Mocked animation. It never posts. |
 | **UFO / Superset** | Business agent OS / parallel coding agents | Credits only |
 
@@ -125,10 +125,31 @@ scripts/        Apify fetchers
 
 ```bash
 bun install
-bun run dev   # web on :5173, api on :8787
+bun run dev   # web on http://localhost:5173 (open #hero), api on :8787
 ```
 
-_(The dev scripts are still being wired up.)_
+Keys: `→`/`space` next · `←` back · `1`–`6` jump · `R` run a loop now · `F` floor · **`P` autoplay the whole demo (~2.5 min, for hands-free recording)** · `C` hide cursor + nav dots.
+
+Recording script with narration and timings: [DEMO.md](DEMO.md).
+
+### Real integrations you can show
+
+```bash
+# gbrain: the swarm's memory (real CLI, local PGLite brain)
+export GBRAIN_HOME=$PWD/data/brain
+gbrain search "TechCrunch"
+gbrain search "data angle"
+
+# River: sample from the fine-tuned voice adapter (LoRA on Qwen3.5-9B, ~12s)
+uv run --project river river/train_voice.py --sample
+
+# API the UI uses
+curl -s 'localhost:8787/api/brain/search?q=TechCrunch&limit=3'
+curl -s localhost:8787/api/status
+```
+
+Rebuilding the brain on a new machine: `GBRAIN_HOME=$PWD/data/brain gbrain init --pglite --no-embedding --non-interactive && bun scripts/brain-seed.ts`
+(gbrain is installed from a local clone at `../gbrain` via `bun link`, because `bun install -g github:garrytan/gbrain` currently fails).
 
 ## Environment
 

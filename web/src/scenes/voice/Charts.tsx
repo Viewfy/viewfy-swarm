@@ -118,6 +118,7 @@ export function LossCurve({ steps, width = 420, height = 150, delay = 0.4 }: {
           r={9}
           fill={VIOLET}
           fillOpacity={0.25}
+          initial={{ r: 7, fillOpacity: 0.35 }}
           animate={{ r: [7, 13, 7], fillOpacity: [0.35, 0.05, 0.35] }}
           transition={{ duration: 1.8, repeat: Infinity, ease: 'easeInOut' }}
         />

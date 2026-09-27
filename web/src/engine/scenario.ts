@@ -23,7 +23,7 @@ import { isAmbient } from './market'
 // ---------------------------------------------------------------- timing (seconds at speed 1)
 
 export const PHASE_ORDER: PhaseId[] = PHASES.map((p) => p.id)
-export const PHASE_DUR: Record<PhaseId, number> = { sense: 5, recall: 3.5, draft: 5, act: 8, measure: 4.5, learn: 4.5 }
+export const PHASE_DUR: Record<PhaseId, number> = { sense: 5, recall: 3.5, draft: 5, act: 12, measure: 4.5, learn: 4.5 }
 export const PHASE_START = {} as Record<PhaseId, number>
 {
   let t = 0

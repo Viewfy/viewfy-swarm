@@ -109,7 +109,11 @@ function VoiceLayout() {
               <div className="text-[64px] leading-[0.9] font-black tracking-tight text-violet" style={{ textShadow: '0 0 30px rgb(167 139 250 / 0.5)' }}>
                 <CountUp to={voiceMatch * 100} duration={2.6} delay={0.8} suffix="%" />
               </div>
-              <div className="mt-1 text-[14px] font-bold text-cream/70">voice match</div>
+              <div className="mt-1 text-[14px] font-bold text-cream/70">voice match · first fine-tune</div>
+              {/* base-model score measured by river/train_voice.py on the same held-out prompts */}
+              <div className="text-[13px] text-cream/45">
+                untuned base model: <span className="tabular">46%</span>
+              </div>
             </div>
           </div>
         </motion.div>

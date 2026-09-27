@@ -101,7 +101,9 @@ The scene dots at the bottom are clickable too.
 Cut to a terminal (dark theme, font 20pt+, pre-typed) and hit enter:
 
 ```bash
-gbrain search "TechCrunch"          # ⚠ VERIFY WITH BRAIN AGENT: exact command, brain dir/env, expected hits
+export GBRAIN_HOME=$PWD/data/brain   # run from the repo root (verified, gbrain v0.59, ~0.8s)
+gbrain search "TechCrunch"            # → outlets/techcrunch, people/maya-chen, people/daniel-okafor, loop pages
+gbrain search "data angle"            # → loops/loop-25, people/maya-chen, playbooks/what-worked
 ```
 
 Fallback, which hits the same brain through our API:
