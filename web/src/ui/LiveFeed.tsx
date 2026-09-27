@@ -78,7 +78,7 @@ export default function LiveFeed() {
       <div className="flex items-center gap-2.5 border-b border-white/[0.06] px-5 pt-4 pb-3">
         <PulseDot color="#6ee7b7" size={7} />
         <span className="text-[12px] font-bold tracking-[0.2em] text-cream/75 uppercase">Live feed</span>
-        <span className="tabular ml-auto text-[11px] tracking-[0.2em] text-cream/40 uppercase">Loop #{loop}</span>
+        <span className="tabular ml-auto text-[11px] tracking-[0.2em] text-cream/40 uppercase">Run #{loop}</span>
       </div>
       <div className="relative min-h-0 flex-1 overflow-hidden [mask-image:linear-gradient(to_bottom,black_62%,transparent_98%)]">
         {items.length === 0 ? (

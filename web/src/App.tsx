@@ -13,9 +13,9 @@ import { LoopPill } from './ui/FloorHud'
 // `secs` = how long autoplay (P) stays on each scene when recording hands-free.
 const SCENES = [
   { id: 'hero', label: 'Viewfy Swarm', C: HeroScene, secs: 12 },
-  { id: 'floor', label: 'The floor', C: FloorScene, secs: 40 },
+  { id: 'floor', label: 'The team', C: FloorScene, secs: 40 },
   { id: 'voice', label: 'Your voice', C: VoiceScene, secs: 28 },
-  { id: 'hands', label: 'Hands', C: HandsScene, secs: 24 },
+  { id: 'hands', label: 'Execution', C: HandsScene, secs: 24 },
   { id: 'memory', label: 'Memory', C: MemoryScene, secs: 28 },
   { id: 'close', label: 'Own it', C: CloseScene, secs: 15 },
 ] as const

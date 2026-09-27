@@ -11,7 +11,7 @@ const OWN = [
   { mine: 'Your voice', by: 'River', color: '#a78bfa' },
   { mine: 'Your memory', by: 'gbrain', color: '#88c8f8' },
   { mine: 'Your playbooks', by: 'Memorable', color: '#f6c667' },
-  { mine: 'Your floor', by: 'QM', color: '#6ee7b7' },
+  { mine: 'Your hourly run', by: 'autopilot', color: '#6ee7b7' },
 ]
 
 // Each sponsor as a Viewfy star holding its logo (logo = key in LOGO_MASCOTS; no logo → plain text chip).
@@ -60,11 +60,11 @@ export default function CloseScene() {
 
   const kpis = useSwarm((s) => s.kpis)
   const stats = [
-    { label: 'Loops run', value: kpis.loopsRun, color: '#6ee7b7' },
+    { label: 'Runs completed', value: kpis.loopsRun, color: '#6ee7b7' },
     { label: 'Pitches sent', value: kpis.pitches, color: '#ff8a70' },
     { label: 'Replies', value: kpis.repliesIn, color: '#7cc4fa' },
     { label: 'Meetings booked', value: kpis.meetings, color: '#f6c667' },
-    { label: 'Memories', value: kpis.memories, color: '#88c8f8' },
+    { label: 'CRM notes', value: kpis.memories, color: '#88c8f8' },
   ]
 
   return (
@@ -135,7 +135,7 @@ export default function CloseScene() {
             transition={{ duration: 2.6, repeat: Infinity, ease: 'easeInOut' }}
           />
           <div className="relative overflow-hidden rounded-full bg-[linear-gradient(135deg,#bfe3ff_0%,#88c8f8_52%,#5aa9ec_100%)] px-[clamp(28px,2.2vw,44px)] py-[clamp(14px,1.6vh,20px)] text-[clamp(22px,1.55vw,30px)] leading-none font-black tracking-tight text-night-950 shadow-[0_0_60px_-10px_#88c8f8,inset_0_1px_0_rgb(255_255_255/0.6)]">
-            Hire your swarm <span className="mx-1.5 inline-block">→</span> viewfy.ai
+            Hire your AI growth team <span className="mx-1.5 inline-block">→</span> viewfy.ai
             {/* shimmer sweep */}
             <motion.span
               className="absolute inset-y-0 left-0 w-1/3 -skew-x-12 bg-[linear-gradient(90deg,transparent,rgb(255_255_255/0.55),transparent)]"
@@ -157,7 +157,7 @@ export default function CloseScene() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.6, delay: T.sponsors }}
         >
-          Built with
+          Thanks to
           <span className="h-10 w-px bg-white/15" />
         </motion.div>
         <div className="relative flex items-end gap-[clamp(18px,1.7vw,34px)]">

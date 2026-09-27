@@ -245,7 +245,7 @@ function crew(st: Stage, r: Rng, working: Partial<Record<SquadId, string>>, idle
   for (const id of SQUAD_ORDER) {
     const task = working[id]
     if (task) st.squad(id, { status: 'working', task, workers: 44 + int(r, 0, 20) })
-    else st.squad(id, { status: 'idle', task: idle[id] ?? 'Standing by', workers: 26 + int(r, 0, 8) })
+    else st.squad(id, { status: 'idle', task: idle[id] ?? 'Idle', workers: 26 + int(r, 0, 8) })
   }
 }
 
@@ -341,9 +341,9 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
       st,
       r,
       { scout: `Scanning ${fmt(scanned)} posts on X`, community: 'Listening for "how do I get users"' },
-      { voice: 'Warming up founder voice', press: 'Inbox zero', operator: 'Browser parked', coach: `Reviewing loop ${loop - 1}` },
+      { voice: 'Loading founder voice', press: 'Inbox zero', operator: 'Idle', coach: `Reviewing loop ${loop - 1}` },
     )
-    st.feed('scout', `Loop ${loop} started · scanning X, news & inboxes`, 'info')
+    st.feed('scout', `Run ${loop} started · scanning X, news & inboxes`, 'info')
   })
   const scoutGap = 3.4 / Math.max(1, found.length)
   found.forEach((n, i) => {
@@ -360,7 +360,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
       const first = who(sigs[0])
       st.feed(
         'scout',
-        `Scout found ${sigs.length} stories: '${clip(first.signalTitle ?? first.topic, 70)}' — ${first.org}`,
+        `Research found ${sigs.length} stories: '${clip(first.signalTitle ?? first.topic, 70)}' — ${first.org}`,
         'info',
         sigs.slice(1).map((x) => clip(who(x).signalTitle ?? who(x).topic, 60)).join(' · ') || undefined,
       )
@@ -399,7 +399,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
         press: `Pulling contact history for ${pitches.length} people`,
         voice: 'Loading founder voice · River LoRA',
       },
-      { scout: `Handed ${people.length} targets to gbrain`, community: 'Pulling thread context', operator: 'Browser parked' },
+      { scout: `Handed ${people.length} targets to gbrain`, community: 'Pulling thread context', operator: 'Idle' },
     )
   })
   const pMain = pitches.find((p) => !isAmbient(p.w.node.id)) ?? pitches[0]
@@ -449,21 +449,21 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
         press: `Queueing ${pitches.length} pitches`,
         community: `Queueing ${xreplies.length} X replies`,
       },
-      { scout: 'Watching for new threads', operator: 'Warming up browser' },
+      { scout: 'Watching for new threads', operator: 'Opening browser' },
     )
   })
   pitches.forEach((p, i) => {
     at('draft', 0.5 + i * 0.85, (st) => {
-      const kind = p.d.voice === 'company' ? 'company voice' : 'voice match'
-      st.feed('voice', `Voice drafted pitch to ${p.w.name} · ${Math.round(p.d.voiceMatch * 100)}% ${kind}`, 'info', p.d.subject ? `“${clip(p.d.subject, 80)}”` : undefined)
+      const kind = p.d.voice === 'company' ? 'company brand voice' : 'brand-voice match'
+      st.feed('voice', `Copywriter drafted pitch to ${p.w.name} · ${Math.round(p.d.voiceMatch * 100)}% ${kind}`, 'info', p.d.subject ? `“${clip(p.d.subject, 80)}”` : undefined)
       st.emit({ type: 'handoff', from: 'voice', to: 'press' })
     })
   })
-  at('draft', 2.5, (st) => st.squad('voice', { task: `Drafting ${xreplies.length} X replies · helpful-first` }))
+  at('draft', 2.5, (st) => st.squad('voice', { task: `Drafting ${xreplies.length} X replies · value-first` }))
   if (xreplies.length) {
     at('draft', 3.2, (st) => {
       const avg = xreplies.reduce((a, x) => a + x.d.voiceMatch, 0) / xreplies.length
-      st.feed('voice', `Voice drafted ${xreplies.length} X replies · ${Math.round(avg * 100)}% avg voice match`, 'info', `to ${xreplies[0].w.name}: “${clip(xreplies[0].d.text, 80)}”`)
+      st.feed('voice', `Copywriter drafted ${xreplies.length} X replies · ${Math.round(avg * 100)}% avg brand-voice match`, 'info', `to ${xreplies[0].w.name}: “${clip(xreplies[0].d.text, 80)}”`)
       st.emit({ type: 'handoff', from: 'voice', to: 'community' })
     })
   }
@@ -529,7 +529,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
         press: `Sending ${pitches.length} pitches`,
         community: `Replying on X · ${xreplies.length} threads`,
       },
-      { voice: 'Drafts shipped', scout: 'Watching for new threads', coach: 'Waiting for outcomes' },
+      { voice: 'Drafts ready for approval', scout: 'Watching for new threads', coach: 'Waiting for outcomes' },
     )
   })
   jobs.forEach((j) => {
@@ -544,7 +544,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
       st.kpi(j.app === 'x' ? { xReplies: 1, impressions: impShare } : { pitches: 1, impressions: impShare })
       st.squad('operator', { done: st.state().squads.operator.done + 1 })
       if (j.app === 'x') st.feed('operator', `Replied to ${w.name} on X`, 'act', `“${clip(j.text, 90)}”`)
-      else st.feed('operator', `Operator sent pitch → ${w.full}`, 'act', j.subject ? `“${clip(j.subject, 80)}”` : undefined)
+      else st.feed('operator', `Browser agent sent pitch → ${w.full}`, 'act', j.subject ? `“${clip(j.subject, 80)}”` : undefined)
     })
   })
   const others = [
@@ -575,6 +575,25 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
   }
   at('act', 7.6, (st) => st.emit({ type: 'pulse', squad: 'operator' }))
 
+  // Paid Ads: promotes the best-performing organic post/reply as ad variants.
+  const adBudget = 30 + int(r, 0, 4) * 10
+  at('act', 2.2, (st) => {
+    st.squad('ads', { status: 'working', task: `Launching 3 ad variants · $${adBudget}/day` })
+    st.emit({ type: 'pulse', squad: 'ads' })
+    const aud = sample(r, s.market.filter((n) => n.kind === 'community' || n.kind === 'publisher'), 5)
+    aud.forEach((n) => st.emit({ type: 'transmit', from: 'ads', to: n.id, kind: 'post' }))
+    st.kpi({ impressions: 4_000 + int(r, 0, 6) * 1_000 })
+    st.feed('ads', `Paid Ads launched 3 variants of the top X reply · Meta + Google`, 'act', `$${adBudget}/day · auto-paused below 1% CTR`)
+  })
+  at('act', 9.5, (st) => st.squad('ads', { status: 'idle', task: 'Ads live · watching CTR' }))
+  at('measure', 2.4, (st) => {
+    const ctr = (1.6 + r() * 1.6).toFixed(1)
+    const cpc = (0.45 + r() * 0.4).toFixed(2)
+    st.emit({ type: 'pulse', squad: 'ads' })
+    st.squad('ads', { task: `CTR ${ctr}% · CPC $${cpc}`, done: st.state().squads.ads.done + 3 })
+    st.feed('ads', `Best ad: CTR ${ctr}% · CPC $${cpc}`, 'success', 'moved budget to the winning variant')
+  })
+
   // ======================================================== MEASURE
   at('measure', 0, (st) => {
     st.emit({ type: 'phase', phase: 'measure', loop })
@@ -585,9 +604,9 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
       {
         community: `Counting likes on ${xreplies.length} replies`,
         press: 'Watching inbox for replies',
-        coach: 'Scoring outcomes · reward model',
+        coach: 'Scoring results',
       },
-      { operator: 'Browser parked', voice: 'Standing by', scout: 'Watching for new threads' },
+      { operator: 'Idle', voice: 'Idle', scout: 'Watching for new threads' },
     )
   })
   type Resp = { w: Who; kind: 'reply' | 'like' | 'meeting'; follow?: boolean }
@@ -656,7 +675,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
       st,
       r,
       { coach: `Writing ${memAdd} memories to gbrain`, voice: 'Queueing RL update · River' },
-      { operator: 'Browser parked', press: 'Inbox zero', community: 'Standing by', scout: 'Watching for new threads' },
+      { operator: 'Idle', press: 'Inbox zero', community: 'Idle', scout: 'Watching for new threads' },
     )
   })
   at('learn', 0.5, (st) => {
@@ -664,7 +683,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
     st.emit({ type: 'memory', count: memAdd })
     st.kpi({ memories: memAdd })
     st.addMemories(memItems)
-    st.feed('coach', `+${memAdd} memories → gbrain`, 'learn', memItems[0]?.text)
+    st.feed('coach', `+${memAdd} CRM notes → gbrain`, 'learn', memItems[0]?.text)
   })
   at('learn', 1.6, (st) => {
     st.squad('coach', { task: 'Saving workflow to Memorable' })
@@ -677,10 +696,10 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
           const nv: Workflow = { id: `wf-${loop}`, name: bumpVersion(list[i].name), winRate: Math.min(0.62, list[i].winRate + between(r, 0.015, 0.035)), uses: used, loop }
           list.splice(i, 1, nv)
           st.kpi({ workflows: 1 })
-          st.feed('coach', 'Workflow saved → Memorable', 'learn', `${nv.name} · ${Math.round(nv.winRate * 100)}% win rate`)
+          st.feed('coach', 'Playbook saved → Memorable', 'learn', `${nv.name} · ${Math.round(nv.winRate * 100)}% win rate`)
         } else {
           list[i] = { ...list[i], uses: list[i].uses + used, winRate: Math.min(0.6, list[i].winRate + between(r, 0.003, 0.012)), loop }
-          st.feed('coach', 'Workflow reinforced → Memorable', 'learn', `${list[i].name} · ${Math.round(list[i].winRate * 100)}% win rate · ${list[i].uses} uses`)
+          st.feed('coach', 'Playbook reinforced → Memorable', 'learn', `${list[i].name} · ${Math.round(list[i].winRate * 100)}% win rate · ${list[i].uses} uses`)
         }
       }
       // the X reply workflow gets used every loop too
@@ -696,7 +715,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
     st.squad('voice', { status: 'working', task: `Absorbing reward · voice ${pct(k.voiceMatch + voiceGain)}` })
     st.emit({ type: 'handoff', from: 'coach', to: 'voice' })
     st.kpi({ reward: rewardGain, voiceMatch: voiceGain })
-    st.feed('coach', `RL reward +${(rewardDelta * 100).toFixed(1)}% → River`, 'learn', `voice match ${pct(k.voiceMatch + voiceGain)} · replies are the reward`)
+    st.feed('coach', `Performance score +${(rewardDelta * 100).toFixed(1)}% → River`, 'learn', `brand-voice match ${pct(k.voiceMatch + voiceGain)} · replies are the reward`)
   })
   at('learn', 3.4, (st) => {
     const hist = [...st.state().kpis.replyRateHistory, newRate].slice(-40)
@@ -709,10 +728,10 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
   at('learn', 4.45, (st) => {
     st.kpi({ loopsRun: 1 })
     st.squad('coach', { done: st.state().squads.coach.done + 1 })
-    crew(st, r, {}, Object.fromEntries(SQUAD_ORDER.map((id) => [id, 'Sleeping until next hour'])))
+    crew(st, r, {}, Object.fromEntries(SQUAD_ORDER.map((id) => [id, 'Idle · next run on the hour'])))
     const next = new Date(st.state().nextHourlyRunAt)
     const hh = `${String(next.getHours()).padStart(2, '0')}:00`
-    st.feed('brain', `Loop ${loop} done · reply rate ${pct(newRate)} · next hourly run ${hh}`, 'info')
+    st.feed('brain', `Run ${loop} done · reply rate ${pct(newRate)} · next hourly run ${hh}`, 'info')
     st.emit({ type: 'loopDone', summary })
   })
 
@@ -724,7 +743,7 @@ export function buildLoop(loop: number, s: EngineState, data: DataBundle): LoopS
 
 export const SEED_WORKFLOWS: Workflow[] = [
   { id: 'wf-news-jack', name: 'news-jack pitch · data angle v4', winRate: 0.38, uses: 41, loop: 36 },
-  { id: 'wf-x-reply', name: 'X reply · helpful-first v3', winRate: 0.31, uses: 212, loop: 37 },
+  { id: 'wf-x-reply', name: 'X reply · value-first v3', winRate: 0.31, uses: 212, loop: 37 },
   { id: 'wf-publisher', name: 'publisher pitch · founder story v2', winRate: 0.24, uses: 18, loop: 33 },
   { id: 'wf-follow-up', name: 'follow-up after 5 days v2', winRate: 0.19, uses: 57, loop: 35 },
   { id: 'wf-launch', name: 'launch thread · build in public v1', winRate: 0.14, uses: 11, loop: 29 },
@@ -769,7 +788,7 @@ export function seedLearned(): LearnSummary {
   return {
     loop: 37,
     memoriesAdded: 14,
-    workflowSaved: 'X reply · helpful-first v3',
+    workflowSaved: 'X reply · value-first v3',
     rewardDelta: 0.028,
     replyRate: 0.094,
     notes: ['Lead with a number — 3/4 replies did', 'Mornings beat evenings for X replies'],

@@ -12,7 +12,7 @@ const CHIPS = [
   { name: 'River', what: 'your voice', color: '#a78bfa' },
   { name: 'gbrain', what: 'memory', color: '#88c8f8' },
   { name: 'Memorable', what: 'playbooks', color: '#f6c667' },
-  { name: 'QM', what: 'hourly harness', color: '#6ee7b7' },
+  { name: 'Cron', what: 'runs hourly', color: '#6ee7b7' },
 ]
 
 // timeline (s)
@@ -98,7 +98,7 @@ export default function HeroScene() {
         <h1 className="text-[clamp(64px,5.2vw,108px)] leading-[0.93] font-black tracking-[-0.035em] text-cream">
           <Words text="Your AI" start={T.h1} />
           <br />
-          <Words text="sales floor." start={T.h1 + 0.2} accent />
+          <Words text="growth team." start={T.h1 + 0.2} accent />
           <span ref={endRef} className="inline-block h-[0.72em] w-0" />
         </h1>
 

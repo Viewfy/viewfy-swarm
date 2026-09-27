@@ -329,9 +329,9 @@ export function initEngine(): Promise<void> {
 
     const prevLoop = s.loop - 1
     const seedFeed: FeedItem[] = [
-      { id: `f${++feedSeq}`, at: now - 4_000, loop: prevLoop, squad: 'brain', text: `Loop ${prevLoop} done · reply rate 9.4% · 1 meeting booked`, tone: 'info' },
-      { id: `f${++feedSeq}`, at: now - 9_000, loop: prevLoop, squad: 'coach', text: 'RL reward +2.8% → River', detail: 'replies are the reward', tone: 'learn' },
-      { id: `f${++feedSeq}`, at: now - 14_000, loop: prevLoop, squad: 'coach', text: '+14 memories → gbrain', tone: 'learn' },
+      { id: `f${++feedSeq}`, at: now - 4_000, loop: prevLoop, squad: 'brain', text: `Run ${prevLoop} done · reply rate 9.4% · 1 meeting booked`, tone: 'info' },
+      { id: `f${++feedSeq}`, at: now - 9_000, loop: prevLoop, squad: 'coach', text: 'Performance score +2.8% → River', detail: 'replies are the reward', tone: 'learn' },
+      { id: `f${++feedSeq}`, at: now - 14_000, loop: prevLoop, squad: 'coach', text: '+14 CRM notes → gbrain', tone: 'learn' },
     ]
 
     useSwarm.setState({
@@ -349,7 +349,7 @@ export function initEngine(): Promise<void> {
       nextHourlyRunAt: nextTopOfHour(),
       kpis: { ...s.kpis, voiceMatch: Math.max(s.kpis.voiceMatch, Math.min(0.95, data.training.voiceMatch || 0)) },
       squads: Object.fromEntries(
-        Object.entries(s.squads).map(([id, sq]) => [id, { ...sq, status: 'idle', task: 'Sleeping until next hour', done: 40 + ((id.length * 37) % 60) * 3 }]),
+        Object.entries(s.squads).map(([id, sq]) => [id, { ...sq, status: 'idle', task: 'Idle · next run on the hour', done: 40 + ((id.length * 37) % 60) * 3 }]),
       ) as EngineState['squads'],
     })
 

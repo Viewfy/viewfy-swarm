@@ -223,9 +223,9 @@ function RepeatCard({ pulseKey }: { pulseKey: number | null }) {
     <LayerCard index={1} verb="Repeat" powered="Memorable" color={GOLD} mascot={MASCOTS.auditor} mascotW={92} pulseKey={pulseKey}>
       <BigStat>
         <AnimatedNumber value={count} delay={0.6} className="text-[44px] leading-none font-black tracking-tight text-cream" />
-        <span className="text-[18px] font-bold text-gold">workflows</span>
+        <span className="text-[18px] font-bold text-gold">playbooks</span>
       </BigStat>
-      <Sub>winning plays, recalled the next loop</Sub>
+      <Sub>winning plays, reused the next run</Sub>
 
       <div className="mt-2.5 flex min-h-0 flex-1 flex-col justify-start gap-[6px] overflow-hidden">
         {top.map((w, i) => {
@@ -376,7 +376,7 @@ function RewireCard({ pulseKey }: { pulseKey: number | null }) {
   return (
     <LayerCard index={2} verb="Rewire" powered="River RL" color={VIOLET} mascot={MASCOTS.learn30} mascotW={88} pulseKey={pulseKey}>
       <BigStat>
-        <span className="text-[18px] font-bold text-violet">reward</span>
+        <span className="text-[18px] font-bold text-violet">score</span>
         <AnimatedNumber
           value={reward}
           delay={0.7}

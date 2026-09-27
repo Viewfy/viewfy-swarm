@@ -109,7 +109,7 @@ function VoiceLayout() {
               <div className="text-[64px] leading-[0.9] font-black tracking-tight text-violet" style={{ textShadow: '0 0 30px rgb(167 139 250 / 0.5)' }}>
                 <CountUp to={voiceMatch * 100} duration={2.6} delay={0.8} suffix="%" />
               </div>
-              <div className="mt-1 text-[14px] font-bold text-cream/70">voice match · first fine-tune</div>
+              <div className="mt-1 text-[14px] font-bold text-cream/70">brand-voice match · first fine-tune</div>
               {/* base-model score measured by river/train_voice.py on the same held-out prompts */}
               <div className="text-[13px] text-cream/45">
                 untuned base model: <span className="tabular">46%</span>
@@ -120,7 +120,7 @@ function VoiceLayout() {
 
         <motion.div {...rise(0.5)} className="glass p-5">
           <div className="flex items-center">
-            <span className="text-[12px] font-bold tracking-[0.2em] text-cream/50 uppercase">Tone fingerprint</span>
+            <span className="text-[12px] font-bold tracking-[0.2em] text-cream/50 uppercase">Brand voice profile</span>
             <span className="ml-auto text-[13px] text-cream/50">
               ~<span className="tabular">{Math.round(fingerprint.avgWords)}</span> words/post ·{' '}
               <span className="tabular">{Math.round(fingerprint.emojiRate * 100)}%</span> emoji

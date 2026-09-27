@@ -92,16 +92,16 @@ function ToastCard({ s }: { s: LearnSummary }) {
           />
         </div>
         <div className="min-w-0">
-          <div className="text-[11px] font-bold tracking-[0.2em] text-gold/80 uppercase">Loop complete</div>
+          <div className="text-[11px] font-bold tracking-[0.2em] text-gold/80 uppercase">Run complete</div>
           <div className="text-[24px] leading-tight font-black tracking-tight text-cream">
-            Loop <span className="tabular">#{s.loop}</span> <span className="text-gold">learned</span>
+            Run <span className="tabular">#{s.loop}</span> <span className="text-gold">insights</span>
           </div>
         </div>
       </div>
 
       <div className="relative mt-3.5 flex flex-col gap-2">
         <Line i={0} color={BRAIN.color} icon={<IconBrain size={14} />}>
-          <b className="tabular text-cream">+{s.memoriesAdded}</b> memories
+          <b className="tabular text-cream">+{s.memoriesAdded}</b> CRM notes
           <Arrow />
           <b style={{ color: BRAIN.color }}>gbrain</b>
         </Line>
@@ -111,13 +111,13 @@ function ToastCard({ s }: { s: LearnSummary }) {
               workflow <b className="text-cream">‘{s.workflowSaved}’</b> saved
             </>
           ) : (
-            <>workflows re-ranked</>
+            <>playbooks re-ranked</>
           )}
           <Arrow />
           <b style={{ color: GOLD }}>Memorable</b>
         </Line>
         <Line i={2} color={SQUADS.voice.color} icon={<IconTrend size={14} />}>
-          reward <b className="tabular text-cream">{reward}</b>
+          performance <b className="tabular text-cream">{reward}</b>
           <Arrow />
           <b style={{ color: SQUADS.voice.color }}>River</b>
         </Line>

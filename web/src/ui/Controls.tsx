@@ -21,7 +21,7 @@ export default function Controls() {
         className="flex items-center gap-2 rounded-full bg-star/15 py-1.5 pr-2 pl-3 font-bold text-star-bright transition-colors hover:bg-star/25"
       >
         <IconBolt size={13} />
-        Run loop now
+        Run now
         <kbd className="rounded-md border border-white/15 bg-white/[0.06] px-1.5 text-[11px] leading-5 font-bold text-cream/60">
           R
         </kbd>

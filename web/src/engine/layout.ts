@@ -4,19 +4,19 @@ import type { CameraTarget, PhaseId, SquadDef, SquadId } from './types'
 /** World units. (0,0) is the brain / center star. */
 export const WORLD = {
   brainR: 90, // radius of the center star + memory galaxy core
-  squadR: 290, // ring where the 6 squads sit
+  squadR: 290, // ring where the 7 squads sit
   marketR: 600, // outer ring: journalists, publishers, community, signals
   extent: 700, // camera zoom=1 fits a circle of this radius into the viewport
 }
 
-export const SQUAD_ORDER: SquadId[] = ['scout', 'voice', 'press', 'community', 'operator', 'coach']
+export const SQUAD_ORDER: SquadId[] = ['scout', 'voice', 'press', 'community', 'ads', 'operator', 'coach']
 
 /**
  * Viewfy stars holding / hugging the tool each job runs on (fal gpt-image-2.5 edits of the mascot + the real logo).
  * Trimmed transparent PNGs, max 380px. Full-size sources sit next to them in /brand/logo-mascots/<brand>.png.
  */
 export const LOGO_MASCOTS: Record<string, string> = Object.fromEntries(
-  ['x', 'gmail', 'apify', 'river', 'gbrain', 'memorable', 'qm', 'chrome', 'cua', 'superset', 'ufo'].map((b) => [
+  ['x', 'gmail', 'apify', 'river', 'gbrain', 'memorable', 'qm', 'chrome', 'cua', 'superset', 'ufo', 'ads'].map((b) => [
     b,
     `/brand/logo-mascots/sprites/${b}-380.png`,
   ]),
@@ -28,6 +28,7 @@ export const LOGO_MASCOT_FOR_SQUAD: Record<SquadId, string> = {
   voice: 'river',
   press: 'gmail',
   community: 'x',
+  ads: 'ads',
   operator: 'chrome',
   coach: 'gbrain',
 }
@@ -35,7 +36,7 @@ export const LOGO_MASCOT_FOR_SQUAD: Record<SquadId, string> = {
 export const SQUADS: Record<SquadId, SquadDef> = {
   scout: {
     id: 'scout',
-    name: 'Scout',
+    name: 'Research',
     role: 'Finds journalists, publishers & X threads',
     color: '#6ee7b7',
     mascot: LOGO_MASCOTS.apify,
@@ -43,7 +44,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
   },
   voice: {
     id: 'voice',
-    name: 'Voice',
+    name: 'Copywriter',
     role: 'Writes everything in your voice',
     color: '#a78bfa',
     mascot: LOGO_MASCOTS.river,
@@ -51,7 +52,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
   },
   press: {
     id: 'press',
-    name: 'Press Desk',
+    name: 'PR',
     role: 'Pitches journalists & publishers',
     color: '#ff8a70',
     mascot: LOGO_MASCOTS.gmail,
@@ -65,9 +66,17 @@ export const SQUADS: Record<SquadId, SquadDef> = {
     mascot: LOGO_MASCOTS.x,
     powered: 'X',
   },
+  ads: {
+    id: 'ads',
+    name: 'Paid Ads',
+    role: 'Turns winning posts into Google, Meta & ChatGPT ads',
+    color: '#fb923c',
+    mascot: LOGO_MASCOTS.ads,
+    powered: 'Google · Meta · ChatGPT ads',
+  },
   operator: {
     id: 'operator',
-    name: 'Operator',
+    name: 'Browser Agent',
     role: 'Drives X & Gmail like a human',
     color: '#f472b6',
     mascot: LOGO_MASCOTS.chrome,
@@ -75,8 +84,8 @@ export const SQUADS: Record<SquadId, SquadDef> = {
   },
   coach: {
     id: 'coach',
-    name: 'Coach',
-    role: 'Scores outcomes, writes learnings',
+    name: 'Analytics',
+    role: 'Scores results, updates playbooks',
     color: '#f6c667',
     mascot: LOGO_MASCOTS.gbrain,
     powered: 'gbrain · Memorable · River RL',
@@ -84,7 +93,7 @@ export const SQUADS: Record<SquadId, SquadDef> = {
 }
 
 export const BRAIN = {
-  name: 'Brain',
+  name: 'Memory',
   role: 'Remembers everything the swarm did',
   color: '#88c8f8',
   mascot: '/brand/viewfy-hero.png',
@@ -92,12 +101,12 @@ export const BRAIN = {
 }
 
 export const PHASES: { id: PhaseId; label: string; squad: SquadId | 'brain'; blurb: string }[] = [
-  { id: 'sense', label: 'Sense', squad: 'scout', blurb: 'Scout scans news, X and inboxes' },
-  { id: 'recall', label: 'Recall', squad: 'brain', blurb: 'gbrain + Memorable recall who, what worked' },
-  { id: 'draft', label: 'Draft', squad: 'voice', blurb: 'River writes in your voice' },
-  { id: 'act', label: 'Act', squad: 'operator', blurb: 'Computer use sends & posts' },
-  { id: 'measure', label: 'Measure', squad: 'community', blurb: 'Replies, likes, meetings' },
-  { id: 'learn', label: 'Learn', squad: 'coach', blurb: 'Remember · Repeat · Rewire' },
+  { id: 'sense', label: 'Research', squad: 'scout', blurb: 'Research scans news, X and inboxes' },
+  { id: 'recall', label: 'Context', squad: 'brain', blurb: 'Memory recalls who we know and what worked' },
+  { id: 'draft', label: 'Write', squad: 'voice', blurb: 'River writes in your brand voice' },
+  { id: 'act', label: 'Send', squad: 'operator', blurb: 'Browser agent sends & posts' },
+  { id: 'measure', label: 'Track', squad: 'community', blurb: 'Replies, likes, meetings booked' },
+  { id: 'learn', label: 'Optimize', squad: 'coach', blurb: 'Memory · playbooks · fine-tuning' },
 ]
 
 export const MARKET_COLORS = {

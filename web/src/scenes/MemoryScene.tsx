@@ -89,7 +89,7 @@ function LearnedFlash() {
             >
               ✦
             </motion.span>
-            <span className="shrink-0 font-black text-gold">Loop #{show.loop} learned:</span>
+            <span className="shrink-0 font-black text-gold">Run #{show.loop} insight:</span>
             <span className="truncate text-cream/85">{what}</span>
             {show.memoriesAdded > 0 && (
               <span className="tabular shrink-0 text-gold/70">+{show.memoriesAdded}</span>

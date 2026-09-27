@@ -9,7 +9,7 @@ import type {
   Drafts,
 } from '../data/types'
 
-export type SquadId = 'scout' | 'voice' | 'press' | 'community' | 'operator' | 'coach'
+export type SquadId = 'scout' | 'voice' | 'press' | 'community' | 'ads' | 'operator' | 'coach'
 
 /** Hourly loop phases, in order. */
 export type PhaseId = 'sense' | 'recall' | 'draft' | 'act' | 'measure' | 'learn'

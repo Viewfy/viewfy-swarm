@@ -14,7 +14,7 @@ export default function PhaseTimeline() {
 
   return (
     <div className="glass flex items-center gap-5 rounded-full! px-6 py-2.5">
-      <span className="shrink-0 text-[11px] font-bold tracking-[0.2em] text-cream/45 uppercase">Hourly loop</span>
+      <span className="shrink-0 text-[11px] font-bold tracking-[0.2em] text-cream/45 uppercase">Hourly run</span>
 
       <div className="flex min-w-0 flex-1 items-end gap-2">
         {PHASES.map((p, i) => {
@@ -77,7 +77,7 @@ export default function PhaseTimeline() {
                 <span className="truncate">{active.blurb}</span>
               </span>
             ) : (
-              'Sleeping until the next hourly run'
+              'Idle · next run on the hour'
             )}
           </motion.div>
         </AnimatePresence>

@@ -120,10 +120,10 @@ export default function KpiStrip() {
       <div className="flex min-w-0 flex-1 items-center">
         <KpiCell label="Pitches" value={k.pitches} color={SQUADS.press.color} />
         <KpiCell label="X replies" value={k.xReplies} color={SQUADS.community.color} />
-        <KpiCell label="Replies in" value={k.repliesIn} color={GOLD} />
+        <KpiCell label="Replies" value={k.repliesIn} color={GOLD} />
         <KpiCell label="Meetings" value={k.meetings} color={GOLD} />
-        <KpiCell label="Voice match" value={k.voiceMatch} color={SQUADS.voice.color} format={fmtPct0} bump={false} />
-        <KpiCell label="Memories" value={k.memories} color={BRAIN.color} />
+        <KpiCell label="Brand voice" value={k.voiceMatch} color={SQUADS.voice.color} format={fmtPct0} bump={false} />
+        <KpiCell label="CRM notes" value={k.memories} color={BRAIN.color} />
       </div>
       <div className="mx-3 h-11 w-px shrink-0 bg-white/10" />
       <div className="flex shrink-0 items-center gap-3 pr-1">

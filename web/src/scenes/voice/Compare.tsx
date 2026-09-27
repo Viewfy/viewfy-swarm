@@ -52,11 +52,11 @@ export default function Compare({ drafts, targets }: { drafts: Drafts; targets: 
     <div className="flex h-full flex-col">
       {/* two voices */}
       <div className="flex items-center gap-3">
-        <span className="mr-1 text-[12px] font-bold tracking-[0.2em] text-cream/50 uppercase">Two voices</span>
+        <span className="mr-1 text-[12px] font-bold tracking-[0.2em] text-cream/50 uppercase">Brand voices</span>
         {(
           [
-            ['founder', 'Founder voice', 'journalists, X community'],
-            ['company', 'Company voice', 'publishers, launches'],
+            ['founder', 'Founder brand', 'journalists, X community'],
+            ['company', 'Company brand', 'publishers, launches'],
           ] as const
         ).map(([id, name, to]) => (
           <div key={id} className="relative rounded-full px-4 py-2 text-[15px]">
@@ -230,7 +230,7 @@ function VoiceCard({ draft, runKey }: { draft: Draft; runKey: string }) {
           animate={{ scale: done ? [1, 1.12, 1] : 1, opacity: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <span className="tabular">{Math.round(draft.voiceMatch * 100)}%</span> voice match
+          <span className="tabular">{Math.round(draft.voiceMatch * 100)}%</span> brand-voice match
         </motion.span>
       </div>
       {subj && (

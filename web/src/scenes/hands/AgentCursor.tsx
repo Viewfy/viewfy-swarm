@@ -39,7 +39,7 @@ export default function AgentCursor({ x, y, clickSeq }: { x: number; y: number; 
             transition={{ duration: 2.2, repeat: Infinity, ease: 'easeInOut' }}
           />
         </span>
-        Operator
+        Browser agent
       </div>
     </motion.div>
   )

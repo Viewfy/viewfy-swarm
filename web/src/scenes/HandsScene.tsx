@@ -139,7 +139,7 @@ function HandsLayout() {
             transition={{ duration: 2.6, repeat: Infinity, ease: 'easeInOut' }}
           />
           <div>
-            <div className="text-[18px] font-black tracking-tight text-cream">Operator log</div>
+            <div className="text-[18px] font-black tracking-tight text-cream">Activity log</div>
             <div className="text-[12px] font-bold tracking-[0.2em] text-cream/50 uppercase">X · Gmail · Chrome</div>
           </div>
         </div>
@@ -149,10 +149,10 @@ function HandsLayout() {
               <LogRow key={l.id} item={l} />
             ))}
           </AnimatePresence>
-          {v.log.length === 0 && <div className="text-[14px] text-cream/40">Warming up the browser…</div>}
+          {v.log.length === 0 && <div className="text-[14px] text-cream/40">Opening the browser…</div>}
         </div>
         <div className="mt-4 border-t border-white/[0.07] pt-3 text-[13px] leading-snug text-cream/55">
-          Every pitch waits in your queue. You tap <b className="text-gold">approve</b>, the Operator does the clicking.
+          Every pitch waits in your queue. You tap <b className="text-gold">approve</b>, the browser agent does the clicking.
         </div>
       </motion.div>
     </div>

@@ -7,6 +7,21 @@ Everything runs locally. Nothing is deployed. Some parts are mocked, and the [re
 
 ---
 
+## Screenshots
+
+| | |
+|---|---|
+| ![Hero](docs/screenshots/01-hero.jpg) | ![The team, live hourly run](docs/screenshots/02-floor.jpg) |
+| **1 · Hero:** your AI growth team | **2 · The team:** 7 agents running the hourly run live |
+| ![Voice](docs/screenshots/03-voice.jpg) | ![Execution](docs/screenshots/04-hands.jpg) |
+| **3 · Voice:** River LoRA trained on @viewfy_ai, generic AI vs your voice | **4 · Execution:** the browser agent drives X and Gmail |
+| ![Memory](docs/screenshots/05-memory.jpg) | ![Close](docs/screenshots/06-close.jpg) |
+| **5 · Memory:** live gbrain search, playbooks, fine-tuning | **6 · Close:** own your GTM intelligence |
+
+Logo mascots (fal · gpt-image-2.5 edit of the Viewfy star plus each real logo):
+
+![Logo mascots](docs/screenshots/07-logo-mascots.png)
+
 ## The idea
 
 Early-stage founders do GTM at 2am. Generic AI sounds generic. Agents forget what they did yesterday.

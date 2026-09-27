@@ -232,7 +232,7 @@ export const FALLBACK_BRAIN: BrainSnapshot = {
       hits: [
         { title: '@jes*** · first users thread', snippet: 'helpful-first reply, no link. 14 likes, then a DM asking for a demo.', source: 'threads/x-jes' },
         { title: 'Short replies win', snippet: 'replies under 40 words got 2.1× the likes of longer ones.', source: 'lessons/short-replies' },
-        { title: 'X reply · helpful-first v3', snippet: 'answer the question, share one real number, never link first. 31% reply rate.', source: 'workflows/x-reply-helpful-first' },
+        { title: 'X reply · value-first v3', snippet: 'answer the question, share one real number, never link first. 31% reply rate.', source: 'workflows/x-reply-helpful-first' },
       ],
     },
   ],

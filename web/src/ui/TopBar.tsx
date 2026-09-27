@@ -27,8 +27,8 @@ export function Brand() {
           Viewfy <span className="text-star">Swarm</span>
         </div>
         <div className="mt-1.5 text-[11px] whitespace-nowrap text-cream/50">
-          <span className="tracking-[0.16em] uppercase">AI sales floor · QM room</span>{' '}
-          <span className="font-bold text-star/80">#gtm-floor</span>
+          <span className="tracking-[0.16em] uppercase">AI growth team · runs hourly</span>{' '}
+          
         </div>
       </div>
     </div>
@@ -65,15 +65,15 @@ export function SponsorChips() {
         voice · <AnimatedNumber value={voiceMatch} format={fmtPct0} className="font-bold text-cream" /> match
       </Chip>
       <Chip color={BRAIN.color} name="gbrain" delay={0.11}>
-        · <AnimatedNumber value={memories} className="font-bold text-cream" /> memories
+        · <AnimatedNumber value={memories} className="font-bold text-cream" /> CRM notes
       </Chip>
       <Chip color={SQUADS.coach.color} name="Memorable" delay={0.17}>
-        · <AnimatedNumber value={workflows} className="font-bold text-cream" /> workflows
+        · <AnimatedNumber value={workflows} className="font-bold text-cream" /> playbooks
       </Chip>
       <Chip color={SQUADS.scout.color} name="Apify" delay={0.23}>
         scouts · <AnimatedNumber value={scouts} className="font-bold text-cream" />
       </Chip>
-      <Chip color="#bfe3ff" name="QM" delay={0.29}>
+      <Chip color="#bfe3ff" name="Cron" delay={0.29}>
         · hourly
       </Chip>
     </div>

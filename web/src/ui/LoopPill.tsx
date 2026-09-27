@@ -17,7 +17,7 @@ export default function LoopPill({ className }: { className?: string }) {
 
   const p = phaseDef(phase)
   const color = inLoop ? colorOf(p.squad) : BRAIN.color
-  const label = inLoop ? p.label : running ? 'Standing by' : 'Paused'
+  const label = inLoop ? p.label : running ? 'Idle · next run on the hour' : 'Paused'
   const progress = inLoop ? Math.max(0, Math.min(1, loopProgress)) : 0
 
   return (
@@ -27,7 +27,7 @@ export default function LoopPill({ className }: { className?: string }) {
     >
       <div className="flex items-center gap-2.5">
         <PulseDot color={color} active={running && inLoop} size={8} />
-        <span className="text-[11px] font-bold tracking-[0.2em] text-cream/50 uppercase">Loop</span>
+        <span className="text-[11px] font-bold tracking-[0.2em] text-cream/50 uppercase">Run</span>
         <span className="tabular text-[18px] leading-none font-black tracking-tight text-cream">#{loop}</span>
         <span className="h-4 w-px bg-white/15" />
         <span className="relative flex h-5 min-w-0 flex-1 items-center overflow-hidden">

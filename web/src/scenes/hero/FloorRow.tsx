@@ -1,4 +1,4 @@
-// "Meet the floor": six job mascots pop in with a springy stagger, then idle-bob out of phase.
+// "Meet the team": seven job mascots pop in with a springy stagger, then idle-bob out of phase.
 import { motion } from 'motion/react'
 import { LOGO_MASCOTS, LOGO_MASCOT_FOR_SQUAD, SQUADS } from '../../engine/layout'
 import { useSwarm } from '../../engine/store'
@@ -6,12 +6,13 @@ import type { SquadId } from '../../engine/types'
 
 // Each job holds the tool it runs on. Community hugging the huge X is the star of the row (wider + taller).
 const CREW: { squad: SquadId; name: string; tool: string; big?: boolean }[] = [
-  { squad: 'scout', name: 'Scout', tool: 'Apify' },
-  { squad: 'voice', name: 'Voice', tool: 'River' },
-  { squad: 'press', name: 'Press', tool: 'Gmail' },
+  { squad: 'scout', name: 'Research', tool: 'Apify' },
+  { squad: 'voice', name: 'Copywriter', tool: 'River' },
+  { squad: 'press', name: 'PR', tool: 'Gmail' },
   { squad: 'community', name: 'Community', tool: 'X', big: true },
-  { squad: 'operator', name: 'Operator', tool: 'Chrome' },
-  { squad: 'coach', name: 'Coach', tool: 'gbrain' },
+  { squad: 'ads', name: 'Paid Ads', tool: 'Google · Meta' },
+  { squad: 'operator', name: 'Browser', tool: 'Chrome' },
+  { squad: 'coach', name: 'Analytics', tool: 'gbrain' },
 ]
 
 export default function FloorRow({ delay = 0 }: { delay?: number }) {
@@ -25,10 +26,10 @@ export default function FloorRow({ delay = 0 }: { delay?: number }) {
         animate={{ opacity: 1, x: 0 }}
         transition={{ duration: 0.6, ease: 'easeOut', delay }}
       >
-        <span className="text-cream/80">Meet the floor</span>
+        <span className="text-cream/80">Meet the team</span>
         <span className="h-px w-8 bg-white/20" />
         <span>
-          6 squads · <span className="tabular">{agents}</span> micro-agents
+          {CREW.length} agents · <span className="tabular">{agents}</span> sub-agents
         </span>
       </motion.div>
 
