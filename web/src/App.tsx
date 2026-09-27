@@ -34,6 +34,9 @@ export default function App() {
 
   useEffect(() => {
     void initEngine()
+    const onHash = () => setIndex(sceneFromHash())
+    window.addEventListener('hashchange', onHash)
+    return () => window.removeEventListener('hashchange', onHash)
   }, [])
 
   const go = useCallback((i: number) => {
