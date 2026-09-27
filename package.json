@@ -4,8 +4,8 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently -k -n api,web -c blue,magenta \"bun run dev:api\" \"bun run dev:web\"",
-    "dev:web": "vite",
-    "dev:api": "bun --watch server/index.ts",
+    "dev:web": "vite --port 5173 --strictPort",
+    "dev:api": "PORT=8787 bun --watch server/index.ts",
     "build": "vite build",
     "typecheck": "tsc --noEmit -p ."
   },
