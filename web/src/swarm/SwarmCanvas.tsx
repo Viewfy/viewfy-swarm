@@ -1,4 +1,21 @@
-// STUB — the canvas agent replaces this with the night-sky swarm renderer.
+// The persistent night-sky swarm canvas. All animation lives in SwarmRenderer (rAF, no React state).
+import { useEffect, useRef } from 'react'
+import { SwarmRenderer } from './renderer'
+import { startDevSim } from './devSim'
+
 export default function SwarmCanvas() {
-  return <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,#111a36_0%,#050814_70%)]" />
+  const ref = useRef<HTMLCanvasElement>(null)
+
+  useEffect(() => {
+    const canvas = ref.current
+    if (!canvas) return
+    const r = new SwarmRenderer(canvas)
+    const stopSim = import.meta.env.DEV && location.search.includes('sim') ? startDevSim() : null
+    return () => {
+      r.destroy()
+      stopSim?.()
+    }
+  }, [])
+
+  return <canvas ref={ref} className="absolute inset-0 block h-full w-full" />
 }
